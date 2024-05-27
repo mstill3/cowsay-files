@@ -1,0 +1,16 @@
+# File Name: peanuts-franklin.cow
+# Author:    mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    ,o8888888o.
+    88´     `88
+    /   - _ - \\
+   :    ' _)'  :
+  (_           ;)
+    \\   `-.-' /
+     `..___..'
+        ;  :
+       (TTTT)    mjs
+      /      \\
+EOC

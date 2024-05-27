@@ -1,0 +1,15 @@
+# Reference: http://www.ascii-art.de/ascii/my/micro3.shtml
+# File Name: astronaut-micro.cow
+# Author:    a:f
+
+$the_cow = <<EOC;
+                    $thoughts
+                     $thoughts
+             +  .        _            .-.
+                     3==())_.   .    (   \\
+    +  .             _  )`\\-|      *  )   \\  a:f
+            .       /_`' // |\\     .-'     `----,
+  .                B'/`-'M\\_| )   /       .      \\
+          . *       //       (   /      .
+                   B'         `-'
+EOC

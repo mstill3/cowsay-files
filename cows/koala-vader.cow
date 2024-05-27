@@ -1,0 +1,16 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles
+# Note:      Another canonical koala?
+# Note:      Darth Vader koala
+# File Name: koala-vader.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts        .
+     .---.  //
+    Y|$eye $eye|Y//
+   /_(i=i)K/
+   ~()~*~()~
+    (_)-(_)    
+EOC

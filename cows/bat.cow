@@ -1,0 +1,11 @@
+# Reference: https://www.asciiart.eu/animals/bats
+# File Name: bat.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+     $thoughts
+        _   ,_,   _
+       / `'=) (='` \\
+      /.-.-.\\ /.-.-.\\ 
+      `      "      `       jgs
+EOC

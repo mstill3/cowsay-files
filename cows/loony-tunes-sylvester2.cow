@@ -1,0 +1,15 @@
+# Reference: https://textart4u.blogspot.com/2014/09/sylvester-cat-unicode-art-face-for.html
+# File Name: loony-tunes-sylvester2.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+      ▕▔╲▂╱╲▂╱▔▏
+       ╲╯╱╲╱╲╰╱
+       ╱ ▏▕▏▕ ╲
+    ╱▔▔▔▔╲▋▋╱▔▔▔▔╲
+   ╱   ╱ ╱▔▔╲ ╲   ╲
+  ▕╱   ▏ ╲▂▂╱ ▕   ╲▏
+  ▕╱▔▔▔╲▂▂╱╲▂▂╱▔▔▔╲▏
+         ╲▂▂╱
+EOC

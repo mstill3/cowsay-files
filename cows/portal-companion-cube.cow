@@ -1,0 +1,15 @@
+# Reference: https://www.andysowards.com/blog/2012/40-most-epic-ascii-art/
+# File Name: portal-companion-cube.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+     ____    ____
+    |   _----_   |
+    | _/ _||_ \\_ |
+     |  //\\/\\\\  |
+     |=| \\  / |=|
+     |_ \\_\\/_/ _|
+    |  \\_ || _/  |
+    |____----____|
+EOC

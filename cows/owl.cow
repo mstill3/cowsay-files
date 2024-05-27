@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/animals/birds-land
+# File Name: owl.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+     /\\_/\\ 
+    ((0v0))
+    (/:::\\)
+------W-W------
+EOC

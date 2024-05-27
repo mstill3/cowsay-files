@@ -1,0 +1,20 @@
+# File Name: cat.cow
+#	Author:    Joan Stark (jgs)
+# Modifier:  Myroslav Golub
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+       $thoughts  
+        $thoughts
+
+          |\\___/|
+         =) ${eye}Y${eye} (=            
+          \\  ^  /
+           )=o=(       
+          /     \\
+          |     |
+         /| | | |\\
+         \\| | |_|/\\
+         //_// ___/
+             \\_)     jgs
+EOC

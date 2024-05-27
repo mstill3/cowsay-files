@@ -1,0 +1,13 @@
+# Reference: https://www.asciiart.eu/animals/reptiles/dinosaurs
+# File Name: dinosaur-brontosaurus-little.cow
+# Author:    PapaJ
+
+$the_cow = <<EOC;
+   $thoughts
+                 __
+                / _)
+       _.----._/ /
+      /         /
+   __/ (  | (  |
+  /__.-'|_|--|_|     pj
+EOC

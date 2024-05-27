@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/books/other
+# File Name: sherlock-head.cow
+# Author:    Harry Mason (hjm)
+
+$the_cow =<<"EOC"
+   $thoughts
+            __
+          ,`  `\\,_
+          |_,-'_)
+          /#c  '\\  (
+           |'  -{.  )
+           /\\__,' \\[]
+  hjm     /`-_`\\
+EOC

@@ -1,0 +1,19 @@
+# Reference: https://asciiart.website/index.php?art=television/muppets
+# File Name: muppets-kermit.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts      .---.     .---.
+    $thoughts    ( -o- )---( -o- )
+         ;-...-`   `-...-;
+        /                 \\
+       /                   \\
+      | /_               _\\ |
+      \\`'.`'"--.....--"'`.'`/
+       \\  '.   `._.`   .'  /
+    _.-''.  `-.,___,.-`  .''-._
+   `--._  `'-._______.-'`  _.--`
+        /                 \\
+  jgs  /.-'`\\   .'.   /`'-.\\
+      `      '.'   '.'
+EOC

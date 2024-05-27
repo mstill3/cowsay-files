@@ -1,0 +1,17 @@
+# Reference: https://www.asciiarthub.com/fish.html
+# File Name: swordfish.cow
+# Author:    ctr
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                  ,"(
+                 ////\\                           _
+                (//////--,,,,,_____            ,"
+              _;"""----/////_______;,,        //
+  __________;"o,-------------......"""""`'-._/(
+        ""'==._.__,;;;;"""           ____,.-.==
+               "-.:______,...;---""/"   "    \\(
+                   '-._      `-._("   ctr     \\\\
+                       '-._                    '._
+EOC

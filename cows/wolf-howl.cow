@@ -1,0 +1,20 @@
+# Reference: https://www.asciiart.eu/animals/wolves
+# Reference: https://github.com/sckott/cowsay/blob/main/R/animals.r
+# File Name: wolf-howl.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+               $thoughts
+                $thoughts
+                 $thoughts     .
+                      / V\\
+                    / \`  /
+                   <    |
+                  ,/    |
+                ,/      |
+              ,/        |
+             /    \\  \\ /
+            (      ) | |
+   ,________|   _/__ | |
+  (__________\\______)\\__)"
+EOC

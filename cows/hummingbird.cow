@@ -1,0 +1,17 @@
+# Reference: https://ascii.co.uk/art/birds
+# File Name: hummingbird.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+           $thoughts
+  ,_        $thoughts
+   :`.            .--._
+    `.`-.        /  ',-""""'
+      `. ``~-._.'_."/
+        `~-._ .` `~;
+             ;.    /
+            /     /
+       ,_.-';_,.'`
+        `"-;`/
+          ,'`      jgs
+EOC

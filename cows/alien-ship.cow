@@ -1,0 +1,16 @@
+# Reference: http://www.ascii-art.de/ascii/ab/alien.txt
+# File Name: alien-ship.cow
+# Author:    Unknown 
+
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts       _.-'~~~~'-._
+             .-~ \\__/  \\__/ ~-.
+           .-~   ($eyes)  ($eyes)    ~-.
+          (_____//~~\\\\//~~\\\\______)
+     _.-~`                         `~-._
+    /O=O=O=O=O=O=O=O=O=O=O=O=O=O=O=O=O=O\\
+    \\___________________________________/
+               \\x x x x x x x/
+                \\x_x_x_x_x_x/
+EOC

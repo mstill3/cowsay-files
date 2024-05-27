@@ -1,0 +1,14 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/hellokitty.cow
+# File Name: hello-kitty.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+      /\\_>o<
+     |      \\
+     | $eye . $eye|
+      \\_____/
+         $tongue
+EOC

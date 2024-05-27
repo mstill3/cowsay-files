@@ -1,0 +1,20 @@
+# Reference: https://sckott.github.io/cowsay/
+# File Name: monkey.cow
+# Author:    jgs
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts       .---.
+          _/.-.-.\\_     _
+         ( ( o o ) )    ))
+          |/  "  \\|    //
+           \\`---'/    //
+           /`~~~'\\\\  ((
+          / /_,_\\ \\\\  \\\\
+          \\_\\_'__/  \\  ))
+          /`  /`~\\   |//
+         /   /    \\  /
+     ,--`,--'\\/\\    /     jgs
+     `-- "--'   `--'
+EOC

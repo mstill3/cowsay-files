@@ -1,0 +1,27 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/saaas1.html
+# File Name: bunny.cow
+# Author:    Row
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts         ,
+    $thoughts       /|      __
+     $thoughts     / |   ,-~ /
+          Y :|  //  /
+          | jj /( .^
+          >-"~"-v"
+         /       Y
+        j$eye  $eye    |
+       ( ~T~     j
+        >._-' _./
+       /   "~"  |
+      Y     _,  |
+     /| ;-"~ _  l
+    / l/ ,-"~    \\
+    \\//\\/      .- \\
+     Y        /    Y     Row
+     l       I     !
+     ]\\      _\\    /"\\
+    (" ~----( ~   Y.  )
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+EOC

@@ -1,0 +1,26 @@
+# Reference: https://ascii-art.net/content.php?id=noir
+# Note:      Prince Myshkin
+# Date:      07-Apr-02
+# File Name: cat-noir.cow
+# Author:    SSt
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts     |`-.._____..-'|
+     $thoughts    :  > .  ,  <  :
+          `./ __`' __ \\,'
+           | (|_) (|_) |
+           ; _  .  __  :
+           `.,' - `-. ,'
+             `, `_  .'
+             /       \\
+            /         :
+           :          |_
+          ,|  .    .  | \\
+         : :   \\   |  |  :
+         |  \\   :`-;  ;  |
+         :   :  | /  /   ;
+          :-.'  ;'  / _,'`------.    SSt
+          `'`''-`'''-'-''--.---  )
+                           `----'
+EOC

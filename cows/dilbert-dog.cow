@@ -1,0 +1,19 @@
+# Reference: https://www.asciiart.eu/comics/dilbert
+# File Name: dilbert-dog.cow
+# Author:    Hayley (hjw)
+
+$the_cow = <<EOC;
+   $thoughts
+         ,-""""-.
+      ,-;-.      `.
+      | | |--/ \\   \\
+      `-^-' |   |  |
+      (_)   |   |  |
+      |      `-'   |
+      |      | |   |
+       \\     (_)  /
+        `-.    .-'
+          | |  |
+          | |  |
+         (_(___|    hjw
+EOC

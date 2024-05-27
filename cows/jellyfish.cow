@@ -1,0 +1,22 @@
+# Reference: http://ascii.co.uk/art/jellyfish
+# File Name: jellyfish.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+  $thoughts
+    $thoughts
+
+      .-;\':\':\'-.
+     {\'.\'.\'.\'.\'.}
+      )        \'`.
+     \'-. ._ ,_.-=\'
+       `). ( `);(
+       (\'. .)(,\'.)
+        ) ( ,\').(
+       ( .\').\'(\').
+       .) (\' ).(\'
+        '  ) (  ).
+         .\'( .)\'    jgs
+           .).\'
+
+EOC

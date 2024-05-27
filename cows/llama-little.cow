@@ -1,0 +1,15 @@
+# File Name: llama-little.cow
+# Author:    Nodrama
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       (\\/)
+      (_$eye |
+       /  |
+       \\  \\______
+        \\        )o
+         /|----- |
+         \\|     /|
+EOC

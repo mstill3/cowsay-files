@@ -1,0 +1,17 @@
+# Reference: https://www.asciiart.eu/nature/camping
+# File Name: camp.cow
+# Author:   jgs 
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+
+        ______
+       /     /\\
+      /     /  \\
+     /_____/----\\_    (  
+    "     "          ).  
+   _ ___          o (:') o   
+  (@))_))        o ~/~~\\~ o     jgs
+                  o  o  o
+EOC

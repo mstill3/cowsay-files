@@ -1,0 +1,11 @@
+# Reference: https://asciiart.cc/view/12259
+# File Name: cat-lay.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+      |\\      _,,,---,,_
+      /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_..;\\ (  `'-'
+    '---''(_/--'  `-'\\_)
+EOC

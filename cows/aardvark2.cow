@@ -1,0 +1,22 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      10/2000
+# File Name: aardvark2.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         ,__    _,            ___
+          '.`\\ /`|     _.-"```   `'.
+            ; |  /   .'             `} 
+            _\\|\\/_.-'                 }
+        _.-"$eye                 {        }
+     .-`  __    /._          {         }\\
+     '--"`  `""`   `\\   ;    {         } \\
+                    |   } __ _\\       }\\  \\
+                    |  /;`   / :.   }`  \\  \\
+                    | | | .-' /  / /     '. '._ 
+           jgs    .'__/-' ````.-'.'        '-._'-._
+                  ```        ````              `"""`
+EOC

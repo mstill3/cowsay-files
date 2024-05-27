@@ -1,0 +1,22 @@
+# Reference: https://www.asciiart.eu/clothing-and-accessories/crowns
+# File Name: frog-prince.cow
+# Date:      1997
+# Author:    hjw
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts    o  o   o  o
+         |\\/ \\^/ \\/|
+         |,-------.|
+       ,-.(o)   (o),-.
+       \\_*._ ' '_.* _/
+        /`-.`--' .-'\\
+   ,--./    `---'    \\,--.
+   \\   |(  )     (  )|   /
+    \\  | ||       || |  /
+     \\ | /|\\     /|\\ | /
+     /  \\-._     _,-/  \\
+    //| \\\\  `---'  // |\\\\    hjw
+   /,-.,-.\\       /,-.,-.\\
+  o   o   o      o   o    o
+EOC

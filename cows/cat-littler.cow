@@ -1,0 +1,12 @@
+# Reference: https://vyznev.net/ascii/cat01.asc
+# File Name: cat-littler.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+        $thoughts
+
+     )   _.
+    (___)''
+    / ,_,/
+   /'"\\ )\\
+EOC

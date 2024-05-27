@@ -1,0 +1,18 @@
+# Reference: https://www.asciiartcopy.com/simple-ascii-art-animals.html
+# File Name: sheep-pair.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+            __  _
+        .-.'  `; `-._  __  _
+       (_,         .-:'  `; `-._
+     ,'$eye"(        (_,           )
+    (__,-'      ,'$eye"(            )>
+       (       (__,-'            )
+        `-'._.--._(             )
+           |||  |||`-'._.--._.-'
+                      |||  ||| 
+EOC

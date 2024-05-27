@@ -1,0 +1,24 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/crtoon2.html
+# File Name: pokemon-kakuna.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+  $thoughts
+       _.---._
+     .'       '.
+    /           \\
+   / /'-.   .-'\\ \\
+   '.`"""` `"""`.'
+    /'-._   _.-'\\
+   /_.--\\`-`/--._\\
+   ;    |'-'|    ;
+   |  .'/ | \\'.  |
+   |  | \\ | / |  |
+    \\  \\/\\|/\\/  /
+     \\_/  _  \\_/
+      |-'` `'-|
+      |.-"""-.|
+      \\ .---. /    jgs
+       '._ _.'
+          `
+EOC

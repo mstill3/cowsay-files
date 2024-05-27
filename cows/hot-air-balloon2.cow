@@ -1,0 +1,30 @@
+# Reference: http://www.afn.org/~afn39695/stewart.htm
+# File Name: hot-air-balloon2.cow
+# Author:    Carolyn Stewart (cs)
+
+$the_cow = <<EOC;
+      $thoughts
+  *    $thoughts          *                     *
+        $thoughts                    *
+         $thoughts                                   *       *
+             . . * .xx. * . .        
+          .sss ***.XXXX.*** sss.
+  *     .sss.****.XXXXXX.****.sss.           *
+       .sss.****.XXXXXXXX.****.sss.
+      .sss.****.XXXXXXXXXX.****.sss.     
+     .sss.****.XXXXXXXXXXXX.****.sss.               *
+     .sss.***.XXXXXXXXXXXXXX.***.sss.
+     .ss.***.XXXXXXXXXXXXXXXX.***.ss.
+     .ss.***.XXXXXXXXXXXXXXXX.***.ss.         *
+     .s.***.XXXXXXXXXXXXXXXXXX.***.s.
+      .s.***.XXXXXXXXXXXXXXXX.***.s.
+       .s.***.XXXXXXXXXXXXXX.***.s.     *           *
+ *       .s.***.XXXXXXXXXXX.***.s.
+           .s.**.XXXXXXXXX.**.s.             *
+              .**.XXXXXXX.**.
+   *             \\ \\   / /          *
+                  =======                          *
+                  |\@\@=\@\@|
+     *            |*\@=\@*|   cs
+                  =======
+EOC

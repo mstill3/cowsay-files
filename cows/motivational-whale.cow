@@ -1,0 +1,41 @@
+#
+# Motivation whale cowsay skin by Ilmari Karonen (2015)
+# Based on http://motivaatiovalas.com/ and http://vyznev.net/ascii/motivaatiovalas.asc
+#
+$the_cow = <<'EOC';
+                          _,,---.._      x
+     j                 ,-'         '.   y
+   _;l              ,-'         O    \
+ -=-._\_        _,-'              _,-'
+      `.``----''                -=..--;
+        `._                          , 
+           `-._                   ,-'
+               ``--..._____,,,--''
+EOC
+
+# kluge the word balloon
+# XXX: the @balloon_lines array and its contents are not documented
+
+if ($thoughts eq '\\') {
+    $the_cow =~ s!x!j/!;
+    $the_cow =~ s!y!!;
+} else {
+    $the_cow =~ s!x!$thoughts'!;
+    $the_cow =~ s!y!$thoughts!;
+}
+
+@balloon_lines = grep /./, $balloon_lines[0], @balloon_lines;
+
+tr/_/./, s/^ /   /, s/ ?$//, s/\.\.$/__/, s/\./ /, s/\./_/ for $balloon_lines[0];
+s/^ / ,'/, s/ ?$/`./, tr/_/ / for $balloon_lines[1];
+s/^[(\/<|>\\)] /;   /, s/ [(\/<|>\\)]$/   :/ for $balloon_lines[2];
+s/^[(\/<|>\\)] /:   /, s/ [(\/<|>\\)]$/   :/ for @balloon_lines[3 .. @balloon_lines-4];
+s/^[(\/<|>\\)] /:   /, s/ [(\/<|>\\)]$/   ;/ for $balloon_lines[-3];
+s/^[(\/<|>\\)] /l   /, s/ [(\/<|>\\)]$/  ,'/ for $balloon_lines[-2];
+tr/-/_/, s/^ / `./, s/_?_? ?$/,-'/, s/___?/_  / for $balloon_lines[-1];
+if (@balloon_lines == 4) {
+    s/; / :/, s/ :$/;/ for $balloon_lines[-2];
+    s/,-'/_,'/, s/\.__,/\._  ,/ for $balloon_lines[-1];
+}
+
+s/(\S)/" " x 37 . $1/e for @balloon_lines;

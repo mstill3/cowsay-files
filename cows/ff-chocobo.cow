@@ -1,0 +1,13 @@
+# Reference: https://ascii.co.uk/art/computergames
+# File Name: ff-chocobo.cow
+# Author:    jrei
+
+$the_cow = <<EOC;
+   $thoughts     _,,
+       (,*==     /)
+         /( _))///)
+        (  "  _/,-=`
+         `._ >=
+            //   ctr
+          (//,
+EOC

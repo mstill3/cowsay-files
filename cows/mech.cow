@@ -1,0 +1,22 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/mech-and-cow.cow
+# File Name: mech.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts             _____
+    $thoughts           |     |
+             ,--|     |-.
+      __,----|  |     | |
+    ,;::     |  `_____' |
+    `._______|    i^i   |
+             `----| |---'| .
+        ,-------._| |== ||//
+        |       |_|P`.  /'/
+        `-------' 'Y Y/'/'
+                  .==\\ /_\\
+                 /   /'|  `i
+                /'  /  |   |
+               /'  /   |   `i
+        ___,;`----'.___L_,-'`\\__
+       i_____;----\\.____i""\\____\\
+EOC

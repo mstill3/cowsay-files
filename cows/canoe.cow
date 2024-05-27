@@ -1,0 +1,13 @@
+# Reference: https://www.asciiart.eu/vehicles/boats
+# File Name: canoe.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+            \\
+              \\   O,
+    \\___________\\/ )_________/
+~~~~~~~~~~~~~~~~~ \\~~~~~~~~~~~~~~~~~~~
+                    \\
+EOC

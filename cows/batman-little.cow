@@ -1,0 +1,14 @@
+# Reference: https://asciiart.website/art/1274
+# File Name: batman-little.cow
+# Author:    Alessio Roberti Vittory (ARV)
+
+$the_cow = <<EOC;
+  $thoughts
+    $thoughts
+       _N\\
+      /_ |
+      B_||.
+      /_ | '.
+      0_ m.,,;  ARV
+      //_|
+EOC

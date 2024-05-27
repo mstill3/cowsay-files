@@ -1,0 +1,20 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      9/2000
+# File Name: sloth.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts    `""==,,__  
+     $thoughts     `"==..__"=..__ _    _..-==""_
+      $thoughts         .-,`"=/ /\\ \\""/_)==""``
+              ( (    | | | \\/ |
+               \\ '.  |  \\;  \\ /
+                |  \\ |   |   ||
+           ,-._.'  |_|   |   ||
+          .\\_/\\     -'   ;   Y
+         |  `  |        /    |-.
+         '. __/_    _.-'     /'    jgs
+                `'-.._____.-'
+
+EOC

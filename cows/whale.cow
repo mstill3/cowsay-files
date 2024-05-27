@@ -1,0 +1,15 @@
+# Reference: https://www.asciiart.eu/animals/fish
+# File Name: whale.cow
+# Author:    Riitta Rasimus
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+         .
+        ":"
+      ___:____     |"\\/"|
+    ,'        `.    \\  /
+    |$eye  $eye       \\___/  |    rr
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+EOC

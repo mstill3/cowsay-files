@@ -1,0 +1,30 @@
+# Reference: https://asciiart.cc/view/11853
+# File Name: giraffe-sit.cow
+# Author:    Row
+
+$the_cow = <<"EOC";
+   $thoughts
+    $thoughts     ___,A.A_  __
+     $thoughts    \\   ,   7"_/
+           ~"T(  r r)
+             | \\    Y
+             |  ~\\ .|
+             |)  |`-'
+             |   |
+             |  (|
+             |   |
+             |)  |
+             j   l
+            /    (\\
+           Y)      Y
+           l   \\ : |
+           /\\   )( (
+          /  \\  I| |\\
+         Y    I l| | Y
+         j)   ( )( ) l
+        / .    \\ ` | |\\
+       Y   \\    i  | ! Y
+       l   .\\_  I  |/  |
+        \\ /   [\\[][]/] j     row
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EOC

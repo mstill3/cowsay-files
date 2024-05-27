@@ -1,0 +1,17 @@
+# Reference: https://ascii.co.uk/art/aardvark
+# File Name: aardvark.cow
+# Author:    Veronica Karlsson (VK)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+              $thoughts
+               $thoughts
+                $thoughts
+         _.---._    /\\\\
+      ./'       "--`\\//
+    ./              $eye \\
+   /./\\  )______   \\__ \\
+  ./  / /\\ \\   | \\ \\  \\ \\
+     / /  \\ \\  | |\\ \\  \\7     vk
+      "     "    "  "
+EOC

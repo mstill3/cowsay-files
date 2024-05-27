@@ -1,0 +1,9 @@
+# File Name: caterpillar.cow
+# Author:    mjs
+
+$the_cow = <<EOC;
+          $thoughts
+             ..
+   n   ,=.  ( )
+   \\\\_// \\\\_//    mjs
+EOC

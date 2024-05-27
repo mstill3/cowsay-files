@@ -1,0 +1,27 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/new.html#new
+# File Name: leprechaun.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts     .-----.   ()()
+     $thoughts   /       \\ .'()()
+         |__...__|/
+         |_....._|
+       .-'  ___  '-.
+       \\_.-`$eye $eye`-._/
+        (|\\ (_) /|)
+         ( \\_=_/ )
+         _(_   _)_
+       /` ||'-'|| `\\
+      /_/ (_>o<_) \\_\\
+      //| || : || |\\\\
+      \\\\|`"""""""`|//
+      )_/\\___,___/\\_(
+          |__|__|
+          ;""|"";
+          [] | []
+        .'  / \\  '.   jgs
+        `--'   `--'
+EOC

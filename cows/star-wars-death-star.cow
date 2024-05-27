@@ -1,0 +1,23 @@
+# Reference: https://www.asciimation.co.nz/#
+# Note:      adapted from 'telnet -e x towel.blinkenlights.nl'
+# File Name: star-wars-death-star.cow
+# Author:    Simon Jansen
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+         $thoughts
+          $thoughts
+   .            _-------_
+  .     .   .-'.....:.....`-.            .
+           /   .  . : .____ .\\
+    .     /.........../    \\ .\\  .   .
+         /   :  :   :|  ()  | :\\
+        :.............\\____/....:         .
+ .      |_______________________|    .
+        |.......................|
+  .     :  :  :   :   :   :   : :
+      .  \\...................../      .
+          \\  .  . : .  .  .  ./    .
+.      .   \\._............._./  .
+             `-.._______..-'               .
+EOC

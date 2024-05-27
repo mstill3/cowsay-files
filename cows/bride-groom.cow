@@ -1,0 +1,16 @@
+# Reference: https://www.asciiart.website/index.php?art=events/wedding
+# File Name: bride-groom.cow
+# Note:      Joan and Dave
+# Author:    jgs
+
+$the_cow = <<EOC;
+    $thoughts
+              _
+       mMm  _[_]_
+      /(")\\  (")
+     //)^(\\\\//:\\\\
+    /(/&@&\\\\/|~|/
+   / /-~`~-\\ |||
+   `/       \\|||   jgs
+   `----------'--
+EOC

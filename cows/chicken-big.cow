@@ -1,0 +1,26 @@
+# Reference: https://ascii.co.uk/art/chicken
+# File Name: chicken-big.cow
+# Author:    HJW
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+     $thoughts        ,~.
+           ,-'__ `-,
+          {,-'  `. }              ,')
+         ,( $eye )   `-.__         ,',')~,
+        <=.) (         `-.__,==' ' ' '}
+          (   )                      /
+           `-'\\   ,                  )
+               |  \\        `~.      /
+               \\   `._        \\    /
+                \\     `._____,'   /
+                 `-.            ,'
+                    `-.      ,-'
+                       `~~~~'
+                       //_||
+                    __//--'/`
+                  ,--'/`  '      hjw
+                     '
+EOC

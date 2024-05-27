@@ -1,0 +1,16 @@
+# Reference: https://www.asciiart.eu/comics/calvin-and-hobbes
+# File Name: calvin.cow
+# Author:    snd
+
+$the_cow = <<EOC;
+    $thoughts         .
+     $thoughts    _'._|\\/:
+           '- '   /_
+          _/,    "_<
+         '._____  _)
+              _/ /
+             `;--:
+         _ _ :|_\\:
+        ( )_):|_|:    snd
+        :_[__'_\\3_)
+EOC

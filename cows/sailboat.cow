@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/vehicles/boats
+# File Name: sailboat.cow
+# Author:    hjw
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+                   v  ~.      v
+          v           /|
+                     / |          v
+              v     /__|__
+                  \--------/           hjw
+~~~~~~~~~~~~~~~~~~~`~~~~~~'~~~~~~~~~~~~~~~~
+EOC

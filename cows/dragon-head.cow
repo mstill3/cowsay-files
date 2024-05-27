@@ -1,0 +1,25 @@
+# Reference: https://vyznev.net/ascii/dragon01.asc
+# File Name: dragon-head.cow
+# Author:    itz
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts                .
+          $thoughts               /  , /
+           $thoughts            ,/' /`'
+                       /(/`'   _
+                      f'/)  ,-'
+                     /    ,'
+                    f,/  /
+                    /"  7
+                   / ,f /
+                  / / |J
+                 7,(  |j
+      ,          "`   '
+          `
+    (  (    ) '   ' (_,'  )
+ (     ,)  7`  /  /,  (, (
+  ,  ) (,- `-'  /  (,   -') (
+ (_ ( `-_(,_,'_(_(__ )_, _`-_, _
+EOC

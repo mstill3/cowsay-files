@@ -1,0 +1,19 @@
+# Reference: https://sckott.github.io/cowsay/
+# File Name: buffalo.cow
+# Author:    mic & dwb
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts             _.-````'-,_
+        _,.,_ ,-'`           `'-.,_
+      /)     (                   '``-.
+     ((      ) )                      `\\
+       \\)    (_/                        )\\
+       |       /)           '    ,'    / \\
+       `\\    ^'            '     (    /  ))
+         |      _/\\   ,   /    ,,`\\   (  "`
+         \\Y,   |   \\  \\  | ````| / \\_ \\
+          `)_/      \\  \\  )    ( >  ( >
+                     \\( \\(     |/   |/
+                    /_(/_(    /_(  /_(     mic
+EOC

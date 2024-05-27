@@ -1,0 +1,19 @@
+# Reference: https://ascii.co.uk/art/viking
+# File Name: viking-head.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+            ,
+       ,   |\\ ,__
+       |\\   \\/   `.
+       \\ `-.:.     `\\
+        `-.__ `\\=====|
+           /=`'/   ^_\\
+         .'   /\\   .=)
+      .-'  .'|  '-(/_|
+    .'  __(  \\  .'`
+   /_.'`  `.  |`
+       jgs  \\ |
+             |/
+EOC

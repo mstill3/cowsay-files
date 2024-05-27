@@ -1,0 +1,18 @@
+# Reference: https://www.angelfire.com/art/lorriesascii/art19.html
+# File Name: bird-bath.cow
+# Author:    Lorrie Carrington (lc)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       _          _
+      ('<        >')
+     \\(_)________( \\
+      (___________)\\\\
+         (     )     \\
+          |   |
+          |   |
+          |   |
+         _|___|_
+        (_______)  lc
+EOC

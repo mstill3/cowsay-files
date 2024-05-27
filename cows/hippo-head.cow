@@ -1,0 +1,14 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      1/1998
+# File Name: hippo-head.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts    (`-"""""-`)
+          / 6   6 \\
+         |.--._.--.|
+         /         \\
+         \\(o     o)/    jgs
+          `-u---u-'
+EOC

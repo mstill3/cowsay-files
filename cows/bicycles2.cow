@@ -1,0 +1,12 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/saaas1.html
+# Note:      Penn State Cycling
+# File Name: bicycles2.cow
+# Author:    Beaker aka Matt Donadio <donadio_mxd120_rh_psu_edu>
+
+$the_cow = <<EOC;
+              $thoughts
+
+       ---   __ o    __~o    __ o
+    ----    _`\\<,   _`\\<,   _`\\<,
+  md  ---  ( )/( ) ( )/( ) ( )/( )
+EOC

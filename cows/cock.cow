@@ -1,0 +1,18 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/cock.cow
+# File Name: cock.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<"EOC";
+   $thoughts
+    $thoughts      /\\/\\
+           \\   /
+           |  $eye >>
+           |___|
+     __((_<|   |
+    (          |
+    (__________)
+       |      |
+       |      |
+       /\\     /\\
+EOC

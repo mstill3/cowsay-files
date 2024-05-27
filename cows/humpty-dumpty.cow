@@ -1,0 +1,21 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/new.html#new
+# File Name: humpty-dumpty.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts     .-"-.
+         /$eye $eye  \\   _/\\
+        /  u    \\  \\ /
+       ;`'-----'`;\\//
+      /|___:_____|\\/
+    _//|---------|
+   (_/__\\/)__/)_/______
+   |__|_//__//__|___|__|
+   |___|\\\\__\\\\|___|___||
+   |_|_(_/_(_/___|___|_|
+   |____|___|___|___|__|
+   |jgs___|___|___|___||
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOC

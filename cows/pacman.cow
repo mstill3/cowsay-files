@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/video-games/pacman
+# File Name: pacman.cow
+# Author:    l42
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+     $thoughts
+          .--.                         .---.
+         |OO  |    .-.   .''.   .-.   '-._  \\
+         |    |    '-'   '..'   '-'   .-´   /
+         '^^^^'                        `---´     l42
+EOC

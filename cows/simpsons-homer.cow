@@ -1,0 +1,23 @@
+# Reference: https://ascii.co.uk/art/simpsons
+# File Name: simpsons-homer.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts       _
+         /X \\
+       _------_
+      /        \\
+     |          |
+     |          |
+     |     __  __)
+     |    /  \\/  \\
+    /\\/\\ (o   )o  )
+    /c    \\__/ --.
+    \\_   _-------'
+     |  /         \\
+     | | '\\_______)
+     |  \\_____)
+     |_____ |
+    |_____/\\/\\
+    /        \\
+EOC

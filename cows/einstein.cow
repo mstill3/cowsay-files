@@ -1,0 +1,16 @@
+# Reference: https://www.asciiart.eu/people/famous/albert-einstein
+# File Name: einstein.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+       -''--.
+       _`>   `\\.-'<
+    _.'     _     '._
+  .'   _.='   '=._   '.
+  >_   / /_\\ /_\\ \\   _<
+    / (  \\o/\\\\o/  ) \\
+    >._\\ .-,_)-. /_.<
+        /__/ \\__\\     jgs
+          '---'
+EOC

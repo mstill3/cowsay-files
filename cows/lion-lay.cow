@@ -1,0 +1,21 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      11/1996
+# File Name: lion-lay.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+                     $thoughts
+                      $thoughts
+                       $thoughts     ,%%%%%%%,
+                           ,%%/\\%%%%/\\%,
+                          ,%%%\\c "" J/%%,
+     %.                   %%%%/ $eye  $eye \\%%%
+     `%%.         __      %%%%    _  |%%%
+      `%%      .-'  `"~--"`%%%%(=_Y_=)%%'
+       //    .'     `.     `%%%%`\\7/%%%'____
+ -----((----/         ;      `%%%%%%%'____)))-----
+      `.`--'         ,'   _,`-._____`-,   
+        `"""`._____  `--,`          `)))
+  jgs              `~"-)))
+EOC

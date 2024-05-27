@@ -1,0 +1,24 @@
+# Reference: http://www.ascii-art.de/ascii/ab/alien.txt
+# File Name: winnie-pooh-rock.cow
+# Author:    Anderson Mills
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+            _
+           / \\_,-,
+           >  ,   \\
+           \\      '))
+            \\     .|
+            /      \\
+           /.*`     :
+          ,+   ,    |
+        ('  .+`     |
+         '++        |
+          .L-''    /
+         /    ,.--'-----..
+        _'  .+            '+.
+       (   .'                +
+        '++           mills   '
+         '                     '
+EOC

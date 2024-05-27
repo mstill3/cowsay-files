@@ -1,0 +1,24 @@
+# Reference: https://www.asciiart.eu/animals/reptiles/dinosaurs
+# File Name: dinosaur-pterodactyl.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts                      <\\              _
+     $thoughts                      \\\\          _/{
+                     _       \\\\       _-   -_
+                   /{        / `\\   _-     - -_
+                 _~  =      ( \@  \\ -        -  -_
+               _- -   ~-_   \\( =\\ \\           -  -_
+             _~  -       ~_ | | :\\ \\      _-~-_ -  -_
+           _-   -          ~  |V: \\ \\  _-~     ~-_-  -_
+        _-~   -            /  | :  \\ \\            ~-_- -_
+     _-~    -   _.._      {   | : _-``               ~- _-_
+  _-~   -__..--~    ~-_  {   : \\:}
+=~__.--~~              ~-_\\  :  /
+                           \\ : /__
+                          //`-'--\\\\
+                         <<       \\\\
+                          \\\\      lll
+                          lll
+EOC

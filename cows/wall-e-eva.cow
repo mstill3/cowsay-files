@@ -1,0 +1,28 @@
+# Reference: https://textart4u.blogspot.com/2013/04/eva-wall-e-ascii-text-art.html
+# File Name: wall-e-eva.cow
+# Author:    Unknown
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts         _______
+          .-''       ``-.
+        .'               `.
+       |    _---------_    |
+      |  .'             `.  |
+     |  |   .''.   .''.   |  |
+     |  |                 |  |
+     |   '.             .'   |
+      '.   `-----------'   ,'
+        `-___         __.-'
+      .'--___'-------`___--`.
+    .'  |     `-----'     |  `,
+    |   |                 |   |
+    |   |                 |   |
+    |   |                 |   |
+    |   |                 |   |
+    |   |                 |   |
+    |   |.               .|   |
+     '--  `-.         .-'  --'
+             ''.___.''
+EOC

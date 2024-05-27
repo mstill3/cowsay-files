@@ -1,0 +1,16 @@
+# Reference: https://sckott.github.io/cowsay/
+# File Name: trilobite.cow
+# Author:    sk 
+
+$the_cow = <<EOC;
+   $thoughts
+        _____
+     .'` ,-. `'.
+    /   ([ ])   \\
+   /.-""`(`)`""-.\\
+    <'```(.)```'>
+    <'```(.)```'>
+     <'``(.)``'>
+      <``\\_/``>    sk
+       `'---'`
+EOC

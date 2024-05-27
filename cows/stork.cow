@@ -1,0 +1,19 @@
+# Reference: https://ascii.co.uk/art/birds
+# File Name: stork.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts
+                 _.--.
+             .-"`_.--.\\   .-.___________
+           ."_-"`     \\\\ (  0;------/\\"'`
+         ,."=___      =)) \\ \\      /  \\
+          `~` .=`~'~)  ( _/ /     /    \\
+  =`---====""~`\\          _/     /      \\
+   jgs          `-------"`      /        \\
+                               /          \\
+                              (            )
+                               '._      _.'
+                                  '----'
+EOC

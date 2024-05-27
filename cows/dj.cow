@@ -1,0 +1,15 @@
+# Reference: https://ascii.co.uk/art/dj
+# File Name: dj.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+             $thoughts
+              $thoughts
+  #####\\             _             /#####
+  #( )# |          _( )__         | #( )#
+  ##### |         /_    /         | #####
+  #" "# |     ___m/I_ //_____     | #" "#
+  # O # |____#-x.\\ /++m\\ /.x-#____| # O #
+  #m.m# |   /" \\ ///###\\\\\\ / "\\   | #m.m#
+  #####/    ######/     \\######    \\#####
+EOC

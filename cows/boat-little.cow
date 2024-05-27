@@ -1,0 +1,10 @@
+# Reference: https://asciiart.website/art/4367
+# File Name: boat-little.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+   $thoughts
+     __/\\__
+~~~~~\\____/~~~~~~
+    ~  ~~~   ~.   b'ger
+EOC

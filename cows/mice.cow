@@ -1,0 +1,16 @@
+# Reference: https://www.asciiartcopy.com/simple-ascii-art-animals.html
+# File Name: mice.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+         _
+       (( )_,     ,
+.--.    \\ '/     /.\\
+    )   / \\=    /O o\\     _
+   (   / _/    /' o O| ,_( ))___     (`
+    `-|   )_  /o_O_'_(  \\'    _ `\\    ) 
+      `""""`            =`---<___/---'
+                            "`
+EOC

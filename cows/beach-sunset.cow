@@ -1,0 +1,12 @@
+# Reference: https://antofthy.gitlab.io/info/ascii/Signatures.txt
+# File Name: beach-sunset.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+
+    _\\/_                 |                _\\/_
+    /o\\\\             \\       /            //o\\
+     |                 .-'-.                |
+_____|_______     --  /     \\  --     ______|______
+             `~^~^~^~^~^~^~^~^~^~^~^~`         jgs
+EOC

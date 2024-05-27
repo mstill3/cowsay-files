@@ -1,0 +1,20 @@
+# Reference: http://www.ascii-art.de/ascii/pqr/poodle.txt
+# File Name: dog-poodle.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts     _,_
+         (;;;)
+      ,__/$eye /;\\ 
+      (__   |;|_ 
+       '--. \\;/;)
+          @\\(,;)'\\
+           (;;)   '._
+             \\  /  _ '-.
+             |||  |     `\\ _
+             |||`-.\\  \\  (;;)
+            ((;;)   (;;).' \\\\
+            (((_)  (((__)   (;)   jgs
+EOC

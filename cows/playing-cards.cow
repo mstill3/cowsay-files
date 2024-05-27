@@ -1,0 +1,16 @@
+# Reference: https://www.asciiarthub.com/
+# File Name: playing-cards.cow
+# Author:    Unknwown
+# Notes:     Cards
+
+$the_cow = <<EOC;
+    _____
+   |A .  | _____
+   | /.\\ ||A ^  | _____
+   |(_._)|| / \\ ||A _  | _____
+   |  |  || \\ / || ( ) ||A_ _ |
+   |____V||  v  ||(_+_)||( v )|
+          |____V||  |  || \\ / |
+                 |____V||  v  |
+                        |____V|
+EOC

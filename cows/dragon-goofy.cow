@@ -1,0 +1,19 @@
+# Reference: https://www.asciiart.eu/mythology/dragons
+# File Name: dragon-goofy.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                  \\||/
+                  |  \@___oo
+        /\\  /\\   / (__,,,,|
+       ) /^\\) ^\\/ _)
+       )   /^\\/   _)
+       )   _ /  / _)
+   /\\  )/\\/ ||  | )_)
+  <  >      |(,,) )__)
+   ||      /    \\)___)\\
+   | \\____(      )___) )___
+    \\______(_______;;; __;;;
+EOC

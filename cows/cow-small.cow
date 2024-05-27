@@ -1,0 +1,10 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles
+# File Name: cow-small.cow
+# Author:    Unknown 
+
+$the_cow = <<EOC;
+       $thoughts   ,__,
+        $thoughts  ($eyes)____
+           (__)    )\\
+            $tongue||--|| *
+EOC

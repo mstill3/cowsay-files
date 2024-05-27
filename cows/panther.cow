@@ -1,0 +1,13 @@
+# Reference: https://www.asciiartcopy.com/ascii-cat.html
+# File Name: panther.cow
+#	Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    
+    ("`-''-/").___..--''"`-._ 
+     `6_ 6  )   `-.  (     ).`-.__.`) 
+     (_Y_.)'  ._   )  `._ `. ``-..-' 
+       _..`--'_..-_/  /--'_.'
+      ((((.-''  ((((.'  (((.-'
+EOC

@@ -1,0 +1,16 @@
+# Reference: https://asciiart.website/art/6259
+# File Name: hippopotamus.cow
+# Author:    B.D.S. "Don" McConnell
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+          c~~p ,---------.
+    ,---'$eyes  )           \\
+    ( O O                  )/
+    `=^='                 /
+          \\    ,     .   /
+          \\\\  |-----'|  /
+          ||__|    |_|__|
+        B.D.S."Don"McConnell
+EOC

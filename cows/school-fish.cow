@@ -1,0 +1,21 @@
+# Reference: https://sckott.github.io/cowsay/
+# File Name: school-fish.cow
+# Author:    Unknown
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+~~~~~~$thoughts~~~~~~~~~~~~~~~~~~~~~~~~
+       $thoughts       ~         ~
+
+  ~        <º(((((><       ~
+
+   <º(((((><     ~         ~
+
+  ~         ~         ~
+
+       ~      <º(((((><
+
+  ~         ~         ~    ~
+EOC

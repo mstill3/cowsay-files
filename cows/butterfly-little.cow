@@ -1,0 +1,12 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/saaas1.html
+# File Name: butterfly-little.cow
+# Author:    aps-1022_khijol_yggdrasil_com
+
+$the_cow = <<EOC;
+        $thoughts
+   //\\         /\\\\
+  || * \\ . . / * ||
+   \\\\____\\X/____//
+    / *  /O\\  * \\
+    \\__/  "  \\__/
+EOC

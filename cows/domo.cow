@@ -1,0 +1,13 @@
+# Reference: https://textart4u.blogspot.com/2016/02/domo-kun-character-unicode-text-art.html
+# File Name: domo.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts   ╭━━━━╮
+      ┃o  o┃
+      ┃▽▽▽▽┃
+     ╭┫△△△△┣╮
+     ╰┃    ┃╯
+      ┃ ┏┓ ┃
+▔▔▔▔▔▔╰━╯╰━╯▔▔▔▔▔▔
+EOC

@@ -1,0 +1,18 @@
+# Reference: https://ascii.co.uk/art/warner
+# File Name: loony-tunes-sylvester.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts             / ,
+    $thoughts       /\\  \\|/  /\\
+            |\\\\_;=._//|
+             \\."   "./
+             //^\\ /^\\\\
+      .'``",/ |0| |0| \\,"``'.
+     /   ,  `'\\.---./'`  ,   \\
+    /`  /`\\,."(     )".,/`\\  `\\
+    /`     ( '.'-.-'.' )     `\\
+    /"`     "._  :  _."     `"\\
+     `/.'`"=.,_``=``_,.="`'.\\`
+               )   (              jgs
+EOC

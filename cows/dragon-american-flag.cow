@@ -1,0 +1,20 @@
+# Reference: https://www.asciiart.website/index.php?art=objects/flags
+# File Name: dragon-american-flag.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+       $thoughts                       o
+        $thoughts                     /\\
+         $thoughts                   /::\\
+                            /::::\\
+              ,a_a         /\\::::/\\
+             {/ ''\\_      /\\ \\::/\\ \\
+             {\\ ,_oo)    /\\ \\ \\/\\ \\ \\
+             {/  (_^____/  \\ \\ \\ \\ \\ \\
+   .=.      {/ \\___)))*)    \\ \\ \\ \\ \\/
+  (.=.`\\   {/   /=;  ~/      \\ \\ \\ \\/
+      \\ `\\{/(   \\/\\  /        \\ \\ \\/
+       \\  `. `\\  ) )           \\ \\/
+  jgs   \\    // /_/_            \\/
+         '==''---))))
+EOC

@@ -1,0 +1,14 @@
+# Note:      A Pony!
+# Note:      Copyright 2010 Nick Daly <nick.m.daly@gmail.com>
+# Note:      Released under the same terms as cowsay
+# File Name: pony-smaller.cow
+# Author:    Nick Daly
+
+$the_cow = <<"EOC";
+     $thoughts      _^^
+      $thoughts   _- $eyes\\
+          \\----- \\______
+           $tongue   \\       )\\
+                ||-----|| \\
+                ||     ||
+EOC

@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/religion/angels
+# File Name: angel.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+         ==
+      <^\\()/^>
+       \\/  \\/
+        /  \\
+        `''`     jgs
+EOC

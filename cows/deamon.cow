@@ -1,0 +1,27 @@
+# Note:      4.4 >> 5.4
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/daemon.cow
+# File Name: daemon.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts         ,        ,
+    $thoughts       /(        )`
+     $thoughts      \\ \\___   / |
+            /- _  `-/  '
+           (/\\/ \\ \\   /\\
+           / /   | `    \\
+           $eye $eye   ) /    |
+           `-^--'`<     '
+          (_.)  _  )   /
+           `.___/`    /
+             `-----' /
+<----.     __ / __   \\
+<----|====O)))==) \\) /====
+<----'    `--' `.__,' \\
+             |        |
+              \\       /
+        ______( (_  / \\______
+      ,'  ,-----'   |        \\
+      `--{__________)        \\/
+EOC

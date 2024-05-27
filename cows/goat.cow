@@ -1,0 +1,20 @@
+# Reference: http://www.ascii-art.de/ascii/ghi/goat.txt
+# File Name: goat.cow
+# Author:    ejm97
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+            _))
+           > $eye\\     _~
+           `;'\\\\__-' \\_
+              | )  _ \\ \\
+             / / ``   w w    ejm
+            w w
+EOC
+
+
+
+
+

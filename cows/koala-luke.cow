@@ -1,0 +1,16 @@
+# Note:      From the canonical koala collection
+# Note:      Luke Sywalker koala
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles
+# File Name: koala-luke.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts          .
+       ___   //
+     {~${eye}_${eye}~}//
+      ( Y )K/
+     ()~*~()
+     (_)-(_)
+EOC

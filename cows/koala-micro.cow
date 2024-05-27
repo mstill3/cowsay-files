@@ -1,0 +1,15 @@
+# Note:      From the canonical koala collection
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles
+# File Name: koala-micro.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       ___  
+     {~${eye}_${eye}~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
+EOC

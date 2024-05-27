@@ -1,0 +1,13 @@
+# File Name: scowleton.cow
+# Author:    {appel,kube,rowe}@csua.berkeley.edu
+
+$the_cow = <<EOC;
+          $thoughts      (__)      
+           $thoughts     /$eyes|  
+            $thoughts   (_"_)*+++++++++*
+                   //I#\\\\\\\\\\\\\\\\I\\
+                   I[I|I|||||I I `
+                   I`I'///'' I I
+                   I I       I I
+                   ~ ~       ~ ~
+EOC

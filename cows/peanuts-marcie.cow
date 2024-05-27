@@ -1,0 +1,16 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-marcie.cow
+# Author:    SSt
+
+$the_cow = <<EOC;
+   $thoughts
+      .---...-.
+    ,´ _____...'
+   : .´ _   _ \\\\
+   | :-(_).(_)::
+   | |    -'  ||
+   ; |    _   ||
+   `-'..____.'`'
+       _; :_     sst
+     ,´  `´ `.
+EOC

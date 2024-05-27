@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/movies/star-wars
+# File Name: star-wars-yoda-little.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+   $thoughts
+      __.-._
+      '-._"7'
+       /'.-c
+       |  /T
+      _)_/LI    snd
+EOC

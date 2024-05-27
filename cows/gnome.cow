@@ -1,0 +1,23 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/people.html
+# File Name: gnome.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts       ,
+    $thoughts     / \\
+         /   \\
+        /     \\
+       /_______\\
+       // . . \\\\
+      (/(__7__)\\)
+      |'-' = `-'|
+      |         |
+      /\\       /\\
+     /  '.   .'  \\
+    / /|  `"`  |\\ \\
+    \\ \\|===LI==|/ /
+     '-|_______|-'
+        |__|__|
+        |--|--|     jgs
+       (__)`(__)
+EOC

@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/animals/fish
+# File Name: fish.cow
+# Author:    Max Strandberg
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts     /`·.¸
+         /¸...¸`:·
+     ¸.·´  ¸   `·.¸.·´)
+    : © ):´;      ¸  {
+     `·.¸ `·  ¸.·´\`·¸)
+         `\\´´\¸.·´       max
+           `-'
+EOC

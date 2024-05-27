@@ -1,0 +1,14 @@
+# Reference: https://svzanten.home.xs4all.nl/ascii/line_art/animals.html
+# File Name: fish2.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+
+      _/o
+      (__\\_       
+       \\^^\\)
+        "\\(
+         (_\\    b'ger
+EOC

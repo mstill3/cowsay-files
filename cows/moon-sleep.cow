@@ -1,0 +1,27 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/art08.html
+# File Name: moon-sleep.cow
+# Author:    Row (the Ascii-Wizard of Oz)
+
+$the_cow = <<EOC;
+           $thoughts       .                          +
+      +     $thoughts                                              .
+             $thoughts                  ___       .
+.                        _.--"~~ __"-.
+                      ,-"     .-~  ~"-\\              .
+         .          .^       /       ( )      .
+               +   {_.---._ /         ~
+                   /    .  Y                            .
+                  /      \\_j                      +
+   .             Y     ( --l__
+                 |            "-.                   .
+                 |      (___     \\
+         .       |        .)~-.__/             .           .
+                 l        _)
+.                 \\      "l
+    +              \\       \\
+                    \\       ^.
+        .            ^.       "-.            Row         .
+                       "-._      ~-.___,
+                 .         "--.._____.^
+  .                                         .
+EOC

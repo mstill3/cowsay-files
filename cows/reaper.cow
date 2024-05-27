@@ -1,0 +1,22 @@
+# Reference: https://ascii.co.uk/art/death
+# File Name: reaper.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts             ,____
+    $thoughts            |---.\\
+         ___     |    `
+        / .-\\  ./=)
+       |  | |_/\\/|
+       ;  |-;| /_|
+      / \\_| |/ \\ |
+     /      \\/\\( |
+     |   /  |` ) |
+     /   \\ _/    |
+    /--._/  \\    |
+    `/|)    |    /
+      /     |   |
+    .'      |   |
+   /         \\  |
+  (_.-.__.__./  /
+EOC

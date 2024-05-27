@@ -1,0 +1,25 @@
+# Reference: https://www.asciiart.eu/cartoons/other
+# File Name: babar.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts      _  .   .   .
+         .' '; '-' '-'|-.
+        (     '------.'  )
+         ;            \\ /
+          :     '   ' |/
+          '._._       \\    .;
+         .-'   ;--.    '--' /
+        /      \\-'---.___.'
+       |     / 7 \\(>o<) /\\
+       |     | \\ |  . \\   \\
+       |=====|   |  .  \\ |-)
+        |-'-'   ./_.-._.\\|"
+        '-.----'        |
+          |       |     |
+          |     | |   | |
+          |_____|_|___|_|
+          (-------',----'.    snd
+           '-'-----'-----'
+EOC

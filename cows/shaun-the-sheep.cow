@@ -1,0 +1,23 @@
+# Reference: http://www.ascii-art.de/ascii/uvw/wallace+gromit.txt
+# File Name: shaun-the-sheep.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         ."'=-,     ,.,.,_
+        (_____ )."=`      `"=,
+       ./_ _  \\`\\             `;..
+      / (o(o) |\\=\\              ; `;
+     (_/|     | \\ |             ;`"`
+        |     |  `             ;
+        \\ ..  /`,_          _.'
+         `---'   `#"#""'"#'#^
+                  # #    # #
+                  # #    # #
+                  # #    # #
+                  # #    # #
+                  # #    # #
+                 /#|#\\  /#|#\\   jgs
+                 `"`"`  `"`"`
+EOC

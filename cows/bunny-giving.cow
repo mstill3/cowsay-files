@@ -1,0 +1,11 @@
+# Reference: https://twitter.com/theoneringnet/status/1062741569596342272
+# File Name: bunny-giving.cow
+# Author:    @theoneringnet
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+     (\\__/)
+     ( •.•)
+     / > 🎁
+EOC

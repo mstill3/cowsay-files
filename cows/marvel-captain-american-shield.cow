@@ -1,0 +1,16 @@
+# Reference: https://ascii.co.uk/art/america
+# File Name: marvel-captain-american-shield.cow
+# Author:    Veronica Karlsson (VK)
+
+$the_cow = <<EOC;
+
+       .--""""--.
+     ,'.n*""""*N.`.
+    / J',n*""*n.`L \\
+   : J J___/\\___L L :
+   { [{ `.    ,' }] }
+   : T T /,'`.\\ T J :
+    \\ L,`*n,,n*',J /
+     `. *n,,,,n* ,'    vk
+       `-..__..-'
+EOC

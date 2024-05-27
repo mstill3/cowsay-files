@@ -1,0 +1,16 @@
+# Reference: https://asciiart.cc/view/10757
+# Note:      From "My Neighbor Totoro"
+# File Name: totoros.cow
+# Author:    Duke Lee
+
+$the_cow = <<EOC;
+   $thoughts
+        _____
+       /     \\
+       vvvvvvv  /|__/|
+          I   /O,O   |
+          I /_____   |      /|/|
+         J|/^ ^ ^ \\  |    /00  |    _//|
+          |^ ^ ^ ^ |W|   |/^^\\ |   /oo |
+           \\m___m__|_|    \\m_m_|   \\mm_|   lee
+EOC

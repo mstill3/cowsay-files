@@ -1,0 +1,16 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/indexpeople.html
+# File Name: mermaid.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+                 /:.:,
+      O          \\::/
+     o            /|`
+     _ '  sSSs   /:|
+      \\\\__\\_SSSs/::|
+       `--((S\\SSSs/
+           SS\\\\SSSs
+          sSS//SSs
+    jgs       `Ss'
+EOC

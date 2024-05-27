@@ -1,0 +1,20 @@
+# Reference: https://ascii.co.uk/art/dove
+# File Name: dove.cow
+# Author:    lc
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+             $thoughts
+              $thoughts
+                               ...   
+                             .` $eye `._ 
+                             :    .--'     
+                             ;   ( 
+                     ,,,,..,'     \\
+  .---------,:-"---"`<<<<<<<:      ;
+   `----.... `-._<<`",._,.'`       | 
+            `""-.`""- -'          ; 
+                 '"..           ,/    lc
+               ~"^"~^''-..,m_m-'`~"^"~"^~,
+                     ~"^"~"^"~"^~
+EOC

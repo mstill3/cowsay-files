@@ -1,0 +1,18 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/mythos.html
+# File Name: pegasus.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+    $thoughts          .-.   
+     $thoughts   %%%%,/   :-.
+         % `%%%, /   `\\   _,
+         |' )`%%|      '-' /
+         \\_/\\  %%%/`-.___.'
+          __/  %%%"--"""-.%,
+        /`__|  %%         \\%%
+        \\\\  \\   /   |     /'%,
+         \\]  | /----'.   < `%,
+             ||       `>> >
+             ||       ///`      jgs
+             /(      //(
+EOC

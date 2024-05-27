@@ -1,0 +1,18 @@
+# Reference: https://sckott.github.io/cowsay/
+# File Name: egret.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+            _,
+       -==<' `;
+           ) /
+          / (_.
+         |  ,-,`\\
+          \\\\   \\ \\
+           `\\,  \\ \\
+            ||\\  \\`|,    jgs
+          ._|| `=`-'
+         '~~`~`
+EOC

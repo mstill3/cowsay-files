@@ -1,0 +1,23 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/cowfee.cow
+# File Name: coffee.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts      {
+    $thoughts  }   }   {
+      {   {  }  }
+       }   }{  {
+      {  }{  }  }
+     ( }{ }{  { )
+    .-{   }   }-.
+   ( ( } { } { } )
+   |`-.._____..-'|
+   |             ;--.
+   |            (__  \\
+   |            | )  )
+   |              |/  /
+   |            /  /
+   |            (  /
+   \\             y'
+    `-.._____..-'
+EOC

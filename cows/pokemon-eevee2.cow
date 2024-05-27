@@ -1,0 +1,20 @@
+# Reference: http://www.ascii-art.de/ascii/pqr/pokemon.txt
+# File Name: pokemon-eevee2.cow
+# Author:    jgs
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts  ;-.               ,
+        \\ '.           .'/
+         \\  \\ .---. .-' /
+          '. '     `\\_.'
+            |O , O  |     ,
+            (  _,   /   .' \\
+           .''.___.'--,/\\_,|
+          {  /     \\   }   |
+           '.\\     /_.'    /
+            |'-.-',  `; _.'
+            |  |  |   |`   jgs
+            `""`""`"""`
+EOC

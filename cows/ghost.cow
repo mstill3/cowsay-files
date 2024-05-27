@@ -1,0 +1,19 @@
+# File Name: ghost.cow
+# Author:    Joan G. Stark (jgs)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts       .-.
+    $thoughts    .'   `.
+     $thoughts   :$eye $eye   :
+         : o    `.
+        :         ``.
+       :             `.
+      :  :         .   `.
+      :   :          ` . `.
+       `.. :            `. ``;
+          `:;             `:'
+             :              `.
+              `.              `.     .
+                `'`'`'`---..,___`;.-'   jgs
+EOC

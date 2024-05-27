@@ -1,0 +1,12 @@
+# Reference: https://vyznev.net/ascii/chicken01.asc
+# File Name: chicken-little.cow
+# Author:    itz
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+      ,,
+     <')__ .
+     / `  '/
+     `.___.'  itz
+EOC

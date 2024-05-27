@@ -1,0 +1,20 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-peppermint-patty.cow
+# Author:    W<
+
+$the_cow = <<EOC;
+   $thoughts
+        __--_
+     //~=====\\|/
+    / /-~~---~\\\\\\
+     / `c ` .  |||
+    (..  _  .. ||||
+     \\ _    _,'| ||
+        ,` `\\
+      ,|||/||~~.
+      |||||||--|
+      |||||||( |
+      |______```
+        | |  | 
+      .'\\\\,\\\\_)   W<
+EOC

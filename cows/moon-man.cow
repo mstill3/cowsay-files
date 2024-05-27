@@ -1,0 +1,23 @@
+# Reference: https://www.asciiart.eu/space/moons
+# File Name: moon-man.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts         ______          \\'/
+          .-'` .    `'-.    -= * =-
+        .'  '    .---.  '.    /.\\
+       /  '    .'     `'. \\
+      ;  '    /          \\|
+     :  '  _ ;            `
+    ;  :  /(\\ \\
+    |  .       '.
+    |  ' /     --'
+    |  .   '.__\\
+    ;  :       /
+     ;  .     |            ,
+      ;  .    \\           /|
+       \\  .    '.       .'/
+        '.  '  . `'---'`.'    jgs
+          `'-..._____.-`
+EOC

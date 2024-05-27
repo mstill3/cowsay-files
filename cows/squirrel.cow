@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/animals/rodents/other
+# File Name: squirrel.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+     $thoughts
+
+     __  (\\_ 
+    (_ \\ ( ').
+      ) \\/_)=
+     (__(_ )_    jgs
+EOC

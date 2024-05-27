@@ -1,0 +1,11 @@
+# Note:      A cute little wabbit
+# File Name: bunny-little.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts   \\
+        \\ /\\
+        ( )
+      .( o ).
+EOC

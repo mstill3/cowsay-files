@@ -1,0 +1,14 @@
+# Reference: https://www.reddit.com/r/cowsay/comments/39htd0/with_all_this_reddit_hype_what_about_a_little/
+# File Name: cow-fat.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+
+    A__A
+   ( $eyes )\\_----__
+   (____)\\      )\\/\\
+     $tongue ||      |
+        ||`---w||
+EOC

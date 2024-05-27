@@ -1,0 +1,23 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-flying-ace.cow
+# Author:    SSt
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts        _.---,-..
+       $thoughts     ,'    )(__)\\__
+            /  ,-.',<..-'  `._
+           :  |  |' /       (_)
+           |  `-'  (        /
+            `.._    >-----''
+             _..).-(
+       ,-._,'_.;.--':   _
+  __.-' ,._,' /  _.,'.(( ,-.
+   -'),'     :.   / /,\\_. <
+    `'       |:  '\\    ::`'
+             :   --'   ||
+     ___,-':.-`________;;________
+    /                            \\
+   /  __________________________  \\
+  /                                \\   SSt
+EOC

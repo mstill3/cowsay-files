@@ -1,0 +1,23 @@
+# Reference: https://www.andysowards.com/blog/2012/40-most-epic-ascii-art/
+# File Name: mario,cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts       .aMMMMMMMMn.  ,aMMMMn.
+            .aMccccccccc*YMMn.    `Mb
+           aMccccccccccccccc*Mn    MP
+          .AMMMMn.   MM `*YMMY*ccaM*
+         dM*  *YMMb  YP        `cMY
+         YM.  .dMMP   aMn.     .cMP
+          *YMMn.     aMMMMMMMMMMMY'
+           .'YMMb.           ccMP
+        .dMcccccc*Mc....cMb.cMP'
+      .dMMMMb;cccc*Mbcccc,IMMMMMMMn.
+     dY*'  '*M;ccccMM..dMMM..MP*cc*Mb
+     YM.    ,MbccMMMMMMMMMMMM*cccc;MP
+      *Mbn;adMMMMMMMMMMMMMMMIcccc;M*
+     dPcccccIMMMMMMMMMMMMMMMMa;c;MP
+     Yb;cc;dMMMMMMMMMMMP*'  *YMMP*
+      *YMMMPYMMMMMMP*'
+EOC

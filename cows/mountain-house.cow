@@ -1,0 +1,25 @@
+# Reference: https://www.asciiart.eu/buildings-and-places/houses
+# File Name: mountain-house.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+    $thoughts                      (   )
+     $thoughts                    (    )
+      $thoughts                    (    )
+                          (    )
+                            )  )
+                           (  (                  /\\
+                            (_)                 /  \\  /\\
+                    ________[_]________      /\\/    \\/  \\
+           /\\      /\\        ______    \\    /   /\\/\\  /\\/\\
+          /  \\    //_\\       \\    /\\    \\  /\\/\\/    \\/    \\
+   /\\    / /\\/\\  //___\\       \\__/  \\    \\/
+  /  \\  /\\/    \\//_____\\       \\ |[]|     \\
+ /\\/\\/\\/       //_______\\       \\|__|      \\
+/      \\      /XXXXXXXXXX\\                  \\
+        \\    /_I_II  I__I_\\__________________\\
+               I_I|  I__I_____[]_|_[]_____I
+               I_II  I__I_____[]_|_[]_____I
+               I II__I  I     XXXXXXX     I
+            ~~~~~"   "~~~~~~~~~~~~~~~~~~~~~~~~
+EOC

@@ -1,0 +1,12 @@
+# Reference: http://www.chris.com/ascii/index.php?art=animals/other%20(water)
+# File Name: dolphin-tiny.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+               ,
+             __)\\_
+       (\_.-'    a`-.
+ jgs   (/~~````(/~^^`
+EOC

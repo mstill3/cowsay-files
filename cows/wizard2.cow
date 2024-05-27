@@ -1,0 +1,23 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/art08.html
+# File Name: wizard2.cow
+# Author:    Row (the Ascii-Wizard of Oz)
+
+$the_cow = <<EOC;
+   $thoughts                    .
+    $thoughts
+     $thoughts                   .
+               /^\\     .
+          /\\   "V"
+         /__\\   I      O  o
+        //..\\\\  I     .
+        \\].`[/  I
+        /l\\/j\\  (]    .  O
+       /. ~~ ,\\/I          .
+       \\\\L__j^\\/I       o
+        \\/--v}  I     o   .
+        |    |  I   _________
+        |    |  I c(`       ')o
+        |    l  I   \\.     ,/
+      _/j  L l\\_!  _//^---^\\\\_     Row
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EOC

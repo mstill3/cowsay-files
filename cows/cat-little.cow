@@ -1,0 +1,11 @@
+# Reference: https://asciiart.cc/view/12747
+# File Name: cat-little.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+       /\\   /
+      (' ) (
+       (  \\ )
+      |(__)/
+EOC

@@ -1,0 +1,18 @@
+# Reference: https://www.mozz.us/ascii-art.html
+# File Name: unicorn2.cow
+# Author:    mozz
+
+$the_cow = <<EOC;
+             $thoughts
+              $thoughts
+               $thoughts           .`     
+                    _,-=n"     
+                   ///( '\\     
+                  |||||`\\_)     
+       ,-.,-'"-..-'\\\\\\\\\\     
+  ,-._/ //          '!||__     
+  \\-._.'/' _'\\.    \\ `_"-,|     
+       ! / / / '---`^-,|[|/     
+       |_l '\\\\_      [|/     
+       [_\\   \\_\\             mozz
+EOC

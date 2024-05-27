@@ -1,0 +1,14 @@
+# Reference: http://mewbies.com/geek_fun_files/scarecrow_ascii_art_archive/19940321_The%20Scarecrow's%20Funnies.htm
+# File Name: bullwinkle2.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+       ___    _    ____    _    ___
+      /   \\__/ \\__/    \\__/ \\__/   \\
+      |          _|@ @ __          |
+       \\________/ |    | \\________/
+               __/    _/
+              /) (o _/
+              \\____/
+EOC

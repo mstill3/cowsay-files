@@ -1,0 +1,22 @@
+# Reference: https://asciiart.cc/view/12731
+# File Name: cat-back.cow
+# Author:    AAC
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        /\\___/\\
+        )     (
+       =\\     /=
+         )   (
+        /     \\
+        )     (
+       /       \\
+       \\       /
+        \\__ __/    aac
+           ))
+          //
+         ((
+          \\)
+
+EOC

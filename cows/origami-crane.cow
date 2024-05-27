@@ -1,0 +1,20 @@
+# Reference: https://www.asciiart.eu/art-and-design/origamis
+# File Name: origami-crane.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts                      .
+    $thoughts                    /|\\
+     $thoughts                  / |)\\
+                       /  |( \\
+        ,._           /   |`) \\
+      /'\\  `~.       /    | (  \\
+     /  _\\    '.    /     | `)  \\.,
+    /,-'  \\     `. /      |  )   \\ `-..
+           \\      /       |  )    \\    `'-,.._
+            \\    /        |  )     \\           ``-.._
+             \\  /         |.)'      \\                ``"..
+              \\/          |)_,,..__.,\\.,.__..,,._,,,._,,._`;
+               \\     _,.;'
+                \\_,-'
+EOC

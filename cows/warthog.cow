@@ -1,0 +1,20 @@
+# Reference: https://asciiart.cc/view/11878
+# File Name: warthog.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+                                         *
+          ("\\ /")                        |
+         '       `                       |
+   _    <  $eye  $eye  > _                     |
+   \\\\_    /  /  _ //'`'`'`'`'`'`'`'''`;,/
+     \\_( o   o )_/                      '
+        ` ___ ' ;    / /       |   \\    ;
+           $tounge     ; / /          \\   |  ;
+                 / /;;;;"'`'`'``' \\  \\\\  \\
+                | |   \\ \\          | |  \\ |
+               /_/     |_|        /_/    |_\\
+EOC

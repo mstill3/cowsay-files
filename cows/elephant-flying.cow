@@ -1,0 +1,16 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      9/1997
+# File Name: elephant-flying.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+       $thoughts
+                /}/}
+     ,         / / }
+     \\\\   .-=.( (   }
+      \\'--"   `\\\\_.---,='
+       '-,  \\__/       \\___
+       .-'.-.'       \\___.'
+      / // /-..___,-`--'     jgs
+      `" `"
+EOC

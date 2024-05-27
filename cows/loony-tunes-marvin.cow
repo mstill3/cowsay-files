@@ -1,0 +1,18 @@
+# Reference: https://ascii.co.uk/art/warner
+# File Name: loony-tunes-marvin.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts       ,--,;\\)            
+         ,-"-..._\\
+         \\_...._( )
+          |a a  )`|
+      ___ /`._ / /              
+  -==[___]\\/;  \\'
+        `B-'|_`,)
+          <'/||8`>
+          __|::|
+         (__.';|
+             (_)
+EOC

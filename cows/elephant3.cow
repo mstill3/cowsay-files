@@ -1,0 +1,23 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/new.html#new
+# File Name: elephant3.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts   _
+       ( \\
+        | ;
+        ; |      ,-""""-.-""-.
+         \\ \\    /      /      \\
+          \\ '--'       )       \\-""""-.
+           \\     a    ;        |       '.
+            '.__      |       /          \\
+              '-.    ;     _.'            \\
+                 '-,/     /              |\\\\
+                   <___.;`               | \\\\
+                      /`|                \\  |`\\
+                     /  |   /-----.,_     \\  \\|
+                    /   |   |    |   ;.    \\
+                    '../|   \\    /   | \\    |
+                        \\.../    \\.../  \\../    jgs
+EOC

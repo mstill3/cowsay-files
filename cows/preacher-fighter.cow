@@ -1,0 +1,26 @@
+# Reference: https://www.asciiart.eu/religion/preachers
+# File Name: preacher-fighter.cow
+# Author:    ZOT
+
+$the_cow = <<EOC;
+    $thoughts       ,-----.
+     $thoughts     #,-. ,-.#
+          () a   e ()
+          (   (_)   )
+          #\\_  -  _/#
+        ,'   `"""`    `.
+      ,'      \\X/      `.
+     /         X     ____\\
+    /          v   ,`  v  `,
+   /    /         ( <==+==> )
+   `-._/|__________\\   ^   /
+  (\\\\)  |______\@____\\  ^  /
+    \\\\  |     ( )    \\ ^ /
+     )  |             \\^/
+    (   |             |v
+   <(^)>|             |
+     v  |             |
+        |             |
+        |_.--.__ .--._|
+          `==='  `==='    ZOT
+EOC

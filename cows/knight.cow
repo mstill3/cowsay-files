@@ -1,0 +1,23 @@
+# Reference: http://loveascii.com/princess.html
+# File Name: knight.cow
+# Author:    Valkyrie
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       (,);    /\\
+      ((  ^_   ||
+       ' /  \\  ||
+         L {=) ||
+          ) -  ||
+        (_   \\====
+        | (___/{ }
+         \\____\\/)
+         |    |
+         |_/\\_|
+          |  |
+           ) )\\
+         _/| |/
+        ( ,\\ |_
+         \\_(___)     Valkyrie
+EOC

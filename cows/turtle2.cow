@@ -1,0 +1,14 @@
+# Reference: https://www.asciiarthub.com/turtle.html
+# File Name: turtle2.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+            $thoughts
+             $thoughts
+                 __
+      .,-;-;-,. /'_\\
+    _/_/_/_|_\\_\\) /
+  '-<_><_><_><_>=/\\
+    `/_/====/_/-'\\_\\
+     ""     ""    ""
+EOC

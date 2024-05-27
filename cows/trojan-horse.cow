@@ -1,0 +1,15 @@
+# Reference: https://ascii.co.uk/art/trojanhorse
+# File Name: trojan-horse.cow
+# Author:    Zeus
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+                 _(\\
+        _____   /_ o|
+   >==.'_____`_/__\\_|
+     /__________\\/
+     |___________|
+    / . \\/   \\/ . \\
+    \\___/     \\___/    zeus
+EOC

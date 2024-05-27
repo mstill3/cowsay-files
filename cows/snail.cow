@@ -1,0 +1,15 @@
+# Reference: https://asciiart.cc/view/12167
+# File Name: snail.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+
+  o    o     __ __
+   \\  /    '       `
+    |/   /     __    \\
+  (`  \\ '    '    \\   '
+    \\  \\|   |   @_/   |
+     \\   \\   \\       /--/
+      ` ___ ___ ___ __ '
+EOC

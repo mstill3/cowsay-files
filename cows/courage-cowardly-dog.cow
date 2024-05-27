@@ -1,0 +1,28 @@
+# Reference: https://ascii.co.uk/art/comicpeople
+# File Name: courage-cowardly-dog.cow
+# Author:    pjy
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts      -="""--.._
+     $thoughts      ""--...._\\        ,b:--....---.
+      $thoughts              ||      //'""------"'
+                   _.l+----.//
+               .&\$""' .'"=.. '.
+                /  |  |   )    \\
+            _.-'\@_.'  '\@_/      |
+          .'             "       \\
+    -._,-'^"""^'-,               `.
+      ,\\""---___ |..    _.--._,    \\
+  .-"(,_\\_""" _.' ' _,-;    '"`    `
+      "   """'  """'  |             |__
+                     ,+             |-.`o
+                  o'"/|            #|  oO
+                  Oo"./           (#|
+                     |             "|_,
+                     |              '|>
+                     \\             /
+                      `l         ,'
+                       |,-----||'    pjy
+                       lj     lJ
+EOC

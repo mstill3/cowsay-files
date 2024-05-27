@@ -1,0 +1,15 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      4/1997
+# File Name: rhino-little.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+          $thoughts
+              /))_
+             /   .\\/)
+    _."```'-'  \\___/
+   '/           |
+    \\          /
+jgs  | ||~~~| ||
+     ^^^`   ^^^`
+EOC

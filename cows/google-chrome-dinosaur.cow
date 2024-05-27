@@ -1,0 +1,24 @@
+# Reference: https://textart4u.blogspot.com/2015/08/google-chrome-dinosaur-ascii-text-art.html
+# File Name: google-chrome-dinosaur.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+     $thoughts         ████████
+      $thoughts       ███▄███████
+              ███████████
+              ███████████
+              ██████
+              █████████
+    █       ███████
+    ██    ████████████
+    ███  ██████████  █
+    ███████████████
+    ███████████████
+     █████████████
+      ███████████
+        ████████
+         ███  ██
+         ██    █
+         █     █
+         ██    ██
+EOC

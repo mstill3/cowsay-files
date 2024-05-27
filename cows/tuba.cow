@@ -1,0 +1,24 @@
+# Reference: https://ascii.co.uk/art/tuba
+# File Name: tuba.cow
+# Author:    gerald m carlson
+
+$the_cow = <<EOC;
+    $thoughts        _________
+     $thoughts      /         \\
+           /    ____   \\
+          |    /    \\   |
+         _|    \\____/   |
+       _z__\\           /
+       **u u\\_________/
+       C  D|  |/ _ \\
+      __((=|  | |ooo\\
+     / || -|  | """o|
+    /_/||__|  \\_|/  |
+    \\ \\|_o_o\\______/
+     \\_______/
+       |__A__|
+       |  |  |
+        ## ##
+       _## ##_
+      /___|___\\    gmc
+EOC

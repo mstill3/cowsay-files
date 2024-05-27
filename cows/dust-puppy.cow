@@ -1,0 +1,20 @@
+# Reference: https://vyznev.net/ascii/dustpuppy02.asc
+# File Name: dust-puppy.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+      $thoughts
+           .`:;ij;f,;,
+        .`;sk568G6itz,-",
+      .\\a\\x68888888886r/,-'
+    -._sV888P^98^"^9888k,-_"
+   `.-\\Q889"   |    `8888/,-',
+   .-_J88f     |     188KJ-_.
+   ,-;388|   o | o   |888[=-
+   _".>88l     |     j88E:._"
+    _"Z3886._ ,J.__.488R=;.
+     .'/288888888888888S^._"
+     '"j^7Z988888885R^L`-.
+       ,'./jQV9TYVR\\[\\`".
+          '|'|! |'|`. "
+EOC

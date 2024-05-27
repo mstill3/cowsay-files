@@ -1,0 +1,15 @@
+# Reference: https://sckott.github.io/cowsay
+# File Name: wolf-howl-head.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         _     ___
+        #_~`--'__ `===-,
+        `.`.     `#.,//
+        ,_\\_\\     ## #\\
+        `__.__    `####\\
+             ~~\\ ,###'~
+                \\##'
+EOC

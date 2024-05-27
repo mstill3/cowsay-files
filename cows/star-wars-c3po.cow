@@ -1,0 +1,22 @@
+# Reference: https://github.com/paulkaefer/cowsay-files/blob/main/cows/C3PO.cow
+# Note:      adapted from 'telnet -e x towel.blinkenlights.nl'
+# File Name: star-wars-c3po.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       /~\\
+      |$eyes )
+      _\\=/_
+     /     \\
+    //|/.\\|\\\\
+   ||  \\_/  ||
+   || |\\ /| ||
+    \# \\_ _/  \#
+      | | |
+      | | |
+      []|[]
+      | | |
+     /_]_[_\\
+EOC

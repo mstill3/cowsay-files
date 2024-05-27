@@ -1,0 +1,19 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-spike.cow
+# Author:    W<
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts    ,___.
+       |-----|
+     ============
+     / |  OO `~.
+    (  )      0 )
+     \\_/-, ,-//-\\\\
+        ====
+         |||
+        | ||
+       '-_/|
+         | ||_
+        (____))     W<
+EOC

@@ -1,0 +1,16 @@
+# Reference: http://www.chessvariants.org/d.pieces/ascii.html
+# File Name: chess-bishop.cow
+# Author:    David Moeser
+
+$the_cow = <<EOC;
+ $thoughts
+  $thoughts
+      <>_
+    (\\)  )
+     \\__/
+    (____)
+     |  |
+     |__|
+    /____\\
+   (______)    dm
+EOC

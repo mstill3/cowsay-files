@@ -1,0 +1,18 @@
+# Reference: http://www.ascii-art.de/ascii/mno/musicians.txt
+# Date:      1997
+# File Name: band-marching.cow
+# Author:    ejm
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         _*_             _*_         _*_          _*_
+         \\ /     _*_     \\ /        !\\ /          \\ /
+      )>==O      \\ /  )>==O         \\ O       )>===O
+         \\/   )>==O      \\/      ___ \\|  :======== |
+          |      \\/       |     /   \\/|          \\/|
+          |       |       |    |   ./||            |
+         / \\      |\\     / \\    \\___/ /\\          / \\
+        /   \\     | \\    \\  \\        /  \\         \\  \\
+       ~    ~    ~  ~    ~  ~       ~   ~         ~  ~    ejm
+EOC

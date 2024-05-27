@@ -1,0 +1,18 @@
+# Reference: http://www.ascii-art.de/ascii/xyz/zorro.txt
+# File Name: zorro.cow
+# Author:    ejm
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts       ,)
+          ,`/ |\\
+          /  `/|
+  ______ __,/\\ .
+        `--' \\\\ `.
+              \\\\  `.
+             / /\\    `.
+            /, \\ \\,' '
+            |\\  `.`.
+            | \\   `,`,
+           -`-'    -'     ejm
+EOC

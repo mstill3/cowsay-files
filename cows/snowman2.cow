@@ -1,0 +1,25 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/art08.html
+# File Name: snowman2.cow
+# Author:    Row (the Ascii-Wizard of Oz)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts        .-~~\\
+    $thoughts      /     \\ _
+     $thoughts     ~x   .-~_)_
+             ~x".-~   ~-.
+         _   ( /         \\   _
+         ||   T  $eye  $eye     Y  ||
+       ==:l   l   <       !  I;==
+          \\\\   \\  .__/   /  //
+           \\\\ ,r"-,___.-'r.//
+            }^ \\.( )   _.'//.
+           /    }~Xi--~  //  \\
+          Y    Y I\\ \\    "    Y
+          |    | |o\\ \\        |
+          |    l_l  Y T       |
+          l      "o l_j       !
+           \\                 /     Row
+    ___,.---^.     o       .^---.._____
+"~~~          "           ~            ~~~"
+EOC

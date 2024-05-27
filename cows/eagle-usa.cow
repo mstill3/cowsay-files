@@ -1,0 +1,16 @@
+# Reference: https://www.asciiart.eu/animals/birds-land
+# File Name: eagle-usa.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+              _..
+ ___..-"""-.  `)^|   .-"""-..___
+`-...___ '=.'-.'  \\-'.=' ___...-'
+        `\\  ' ##### '  /`
+          '--;|||||;--'
+             /\\|||/\\
+            ( /;-;\\ )    jgs
+             '-...-'
+EOC

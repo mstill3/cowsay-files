@@ -1,0 +1,17 @@
+# Reference: http://www.reddit.com/r/commandline/comments/2lb5ij/what_is_your_favorite_ascii_art/cltg01p
+# File Name: clippy.cow
+# Author:    Unknown
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+     ___
+    /   \\
+    |   |
+    @   @
+    |   |
+    ||  |/ 
+    ||  || 
+    |\\__/|
+    \\____/
+EOC

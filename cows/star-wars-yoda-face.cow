@@ -1,0 +1,13 @@
+# Reference: http://www.ascii-art.de/ascii/xyz/yoda.txt
+# File Name: star-wars-yoda-face.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+           .--.
+   \\`--._,'.::.`._.--'/
+    `.  ` __::__ '  .'
+      `-:.`'..`'.:-'
+         \\ `--' /
+EOC

@@ -1,0 +1,19 @@
+# Reference: https://github.com/paulkaefer/cowsay-files/blob/main/cows/cat.cow
+# File Name: cat-scared.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts                       _
+                            / )      
+                           / /       
+        //|                \\ \\       
+     .-`^ \\   .-`````-.     \\ \\      
+   o` {|}  \\_/         \\    / /      
+   '--,  _ //   .---.   \\  / /       
+     ^^^` )/  ,/     \\   \\/ /        
+          (  /)      /\\/   /         
+          / / (     / (   /          
+      ___/ /) (  __/ __\\ (           
+     (((__)((__)((__(((___)          
+EOC

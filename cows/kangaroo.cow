@@ -1,0 +1,31 @@
+# Note:      A kangaroo cow
+# Note:      Adapted from http://sumaleth.com/files/row_ascii_collection_1.2.html.
+# Note:      Copyright (C) 1994 Rowan Crawford.  License: GPL 2 or (at your option) a later version.
+# Reference: http://sumaleth.com/files/row_ascii_collection_1.2.html
+# File Name: kangaroo.cow
+# Author:    Rowan Crawford
+
+$the_cow = <<EOC;
+   $thoughts         .
+    $thoughts        l\\ /\\
+     $thoughts       !)Y.))
+            _\\| //
+          ,/$eyes  \\
+       .-'    , /
+      `-_--=-' /
+        $tongue  / /
+           /  \\_
+          Y  .  )
+    .--v--^--' /"\\
+    \\/~\\/~T"--' _ \\
+          !  ./~ " \\
+          `\\.Y      Y    _
+          (~~|      |   | Y
+          `\\. \\     |   l |
+            T~\\^. Y |   / |
+            | |\\| | !  ;  |
+            ! | Y | `\\/'. |
+      ______L_j l j   ~"  |
+     /,_/,___,~"__ }____,/    rc
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EOC

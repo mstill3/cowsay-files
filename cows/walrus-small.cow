@@ -1,0 +1,23 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      9/1997
+# File Name: walrus-small.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts        ___
+          .-9 9 `\\
+        =(:(::)=  ;
+          ||||     \\
+          ||||      `-.
+         ,\\|\\|         `,
+        /                \\
+       ;                  `'---.,
+       |                         `\\
+       ;                     /     |
+       \\                    |      /
+        )           \\  __,.--\\    /    jgs
+     .-' \\,..._\\     \\`   .-'  .-'
+    `-=``       `:    |  /-/-/`
+                  `.__/
+EOC

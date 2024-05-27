@@ -1,0 +1,17 @@
+# Reference: http://loveascii.com/princess.html
+# File Name: knight-little.cow
+# Author:    a:f
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts    |
+     $thoughts   |
+         + \\
+         \\\\.G_.*=.
+          `(H'/.\\|
+           .>' (_--.
+        _=/d   ,^\\
+       ~~ \\)-'   '
+          / |
+         '  '   a:f
+EOC

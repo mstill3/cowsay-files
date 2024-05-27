@@ -1,0 +1,15 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/new.html#new
+# File Name: fishes.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+    $thoughts                         ,
+     $thoughts             ()       _/{
+            ,_         o  .'   './`>
+            _}\\_ O       / $eye ((  =<
+       <`\\.'    '. o     '.,__,.'\\_>
+        >    )) $eye \\           \\)
+       <_/'.,___,.'
+ jgs          (/
+EOC

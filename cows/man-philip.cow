@@ -1,0 +1,19 @@
+# Reference: https://antofthy.gitlab.io/info/ascii/Signatures.txt
+# File Name: man-philip.cow
+# Author:    Philip R. Kaulfus
+
+$the_cow = <<EOC;
+   $thoughts       _   _ 
+    $thoughts    ,'-`;'-`.
+        //,'' ``.\\\\
+       ((( ,- -. )))
+        '|( . . )|`
+        (_  (_)  _)
+         | .___, |
+          \\_`-'_/
+          _j   l_
+       ,'" `._,' "`.
+      /             \\
+     |  |     -=- |  |
+     |  |     prk |  |
+EOC

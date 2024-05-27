@@ -1,0 +1,21 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-lucy.cow
+# Author:    W<
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts   __
+       (_ `-~~~~--.
+         ( _-  (   \\
+  \\      _)o)   (  |_
+        `-___      _ )
+ __        __)     ;
+           `---,  ,`
+  /           ,^^^^_.
+              |   \\  \\
+              |    \\^^\\
+              ,-----```
+             /________\\
+               _| |__|     W<
+             '~--~----~`
+EOC

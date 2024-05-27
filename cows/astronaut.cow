@@ -1,0 +1,22 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/men.html#astronaut
+# File Name: astronaut.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts       _..._
+    $thoughts    .'     '.      _
+        /    .-""-\\   _/ \\
+      .-|   /:.   |  |   |
+      |  \\  |:.   /.-'-./
+      | .-'-;:__.'    =/
+      .'=  *=|NASA _.='
+     /   _.  |    ;
+    ;-.-'|    \\   |
+   /   | \\    _\\  _\\
+   \\__/'._;.  ==' ==\\
+            \\    \\   |
+            /    /   /
+            /-._/-._/    jgs
+            \\   `\\  \\
+             `-._/._/
+EOC

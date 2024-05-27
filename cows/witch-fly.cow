@@ -1,0 +1,15 @@
+# Reference: https://ascii.co.uk/art/witch
+# File Name: witch-fly.cow
+# Author:    a:f
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts         _.
+          .__/|_.
+            -")\\
+        __ //  )
+          ~~/  \\-=,,._
+            ~;;~   `'~`      -._ _            a:f
+                                  `~ ~._ _~ ~`   `~ -.
+
+EOC

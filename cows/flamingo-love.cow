@@ -1,0 +1,22 @@
+# Reference: https://www.asciiarthub.com/
+# File Name: flamingo-love.cow
+# Author:    Unknwown
+# Notes:     Love Bird
+
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts
+
+   (\\/)    .-.  .-.
+    \\/    ((`-)(-`))    (\\/)
+           \\\\    //      \\/
+            \\\\  //
+     .="""=._))((_.="""=.
+    /  .,   .'  '.   ,.  \\
+   /__(,_.-'      '-._,)__\\
+  `    /|             |\\   `
+      /_|__         __|_\\
+        | `))     ((` |
+        |             |
+       -"==         =="-
+EOC

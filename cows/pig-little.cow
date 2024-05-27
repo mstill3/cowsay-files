@@ -1,0 +1,10 @@
+# Reference: https://ascii.co.uk/art/pig
+# File Name: pig-little.cow
+# Author:    Alessio Roberti Vittory (ARV)
+
+$the_cow = <<EOC;
+   $thoughts
+      ,,__
+    c''   )?    arv
+      ''''
+EOC

@@ -1,0 +1,18 @@
+# Reference: https://asciiart.cc/view/12491
+# File Name: eagle.cow
+# Author:    Daron Brewood
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       .---.        .-----------
+      /     \\  __  /    ------
+     / /     \\(  )/    -----
+    //////   ' \\/ `   ---
+   //// / // :    : ---
+  // /   /  /`    '--
+ //          //..\\\\    db
+        ====UU====UU========
+            '//||\\\\`
+              ''``
+EOC

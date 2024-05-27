@@ -1,0 +1,22 @@
+# Reference: https://www.asciiarthub.com/
+# File Name: dna.cow
+# Author:    Unknwown
+
+$the_cow = <<EOC;
+
+       O---o
+        O-o
+         O
+        o-O
+       o---O
+       O---o
+        O-o
+         O
+        o-O
+       o---O
+       O---o
+        O-o
+         O
+        o-O
+       o---O
+EOC

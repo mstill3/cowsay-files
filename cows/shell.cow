@@ -1,0 +1,16 @@
+# Reference: https://asciiart.website/art/57
+# File Name: shell.cow
+# Author:    Joan Stark (Spunk) (jgs)
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       /\\
+      {.-}
+     ;_.-'\\
+    {    _.}_
+     \\.-' /  `,
+      \\  |    /
+       \\ |  ,/  jgs
+        \\|_/
+EOC

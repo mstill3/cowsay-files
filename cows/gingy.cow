@@ -1,0 +1,17 @@
+# File Name: gingy.cow
+# Author:    Matt Stillwell (mjs)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts       _____
+          ,'     `.
+         |  0   0  |   
+         `.  <->  ,'   ,'-,
+     ______>     <_____i  |
+    (_____.   o   ._____)
+          |   o   |    |
+          |   o   |
+          |  _-_  |
+         /  /   \\  \\
+        (__/     \\__)    mjs
+EOC

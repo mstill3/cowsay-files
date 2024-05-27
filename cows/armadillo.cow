@@ -1,0 +1,15 @@
+# Reference: https://www.asciiart.eu/animals/other-land
+# File Name: armadillo.cow
+# Author:    Seal
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+             ,.-----__    
+          ,:::://///,:::-. 
+         /:''/////// ``:::`;/|/
+        /'   ||||||     :://'`\\
+      .' ,   ||||||     `/(  e \\
+-===~__-'\\__X_`````\\_____/~`-._ `.
+            ~~        ~~       `~-'      Seal
+EOC

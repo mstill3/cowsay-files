@@ -1,0 +1,25 @@
+# Reference: https://www.asciiart.eu/computers/linux
+# File Name: tux2.cow
+# Author:    mh
+
+$the_cow = <<EOC;
+  $thoughts
+    $thoughts           .-"""-.
+               '       \\
+              |,.  ,-.  |
+              |()L( ()| |
+              |,'  `".| |
+              |.___.',| `
+             .j `--"' `  `.
+            / '        '   \\
+           / /          `   `.
+          / /            `    .
+         / /              l   |
+        . ,               |   |
+        ,"`.             .|   |
+     _.'   ``.          | `..-'l
+    |       `.`,        |      `.
+    |         `.    __.j         )
+    |__        |--""___|      ,-'
+       `"--...,+""""   `._,.-'     mh
+EOC

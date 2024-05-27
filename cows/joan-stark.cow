@@ -1,0 +1,18 @@
+# Reference: https://en.wikipedia.org/wiki/Joan_Stark
+# File Name: joan-stark.cow
+# Author:    Joan G. Stark (jgs)
+
+$the_cow = <<EOC;
+    $thoughts
+         .{{}}}}}}.
+       {{{{{}}}}}}}. 
+      {{{{  }}}}}}}}}     
+     }}}}} _   _ {{{{{  
+     }}}}  6   6  {{{{  
+    {{{{{    ^    }}}}}
+   {{{{{{\\  -=-  /}}}}}}   
+   {{{{{{{;.___.;}}}}}}}  
+    {{{{{{{)   (}}}}}}}'
+     `""'"':   :'"'"'`   
+   jgs      `\@`
+EOC

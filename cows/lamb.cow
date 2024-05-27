@@ -1,0 +1,19 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/religion.html
+# File Name: lamb.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+                 $thoughts
+                  $thoughts  _,._
+                 __.'   _)
+                <_,)'.-"$eye\\
+                  /' (    \\
+      _.-----..,-'   (`"--^
+     //              |   $tongue
+    (|   `;      ,   |  
+      \\   ;.----/  ,/ 
+       ) // /   | |\\ \\
+       \\ \\\\`\\   | |/ /
+        \\ \\\\ \\  | |\\/    jgs
+EOC

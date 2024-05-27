@@ -1,0 +1,25 @@
+# Reference: https://ascii.co.uk/art/mickey
+# File Name: mickey-mouse.cow
+# Author:    Hayley Jane Wakenshaw
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+
+    ,-"" ""-.          .-"" ""-.
+  ."         \\        /         ".
+ :            :      :           :
+ :            7,----.'           :
+  `.        ,---. .---.        .'
+    "-.   ,"  __ v __   ".  .-"
+       7 :   /  | |  \\  : <
+      ;  :   :,-| |-.:  :  \\
+      :   \\   \\_|_|_/   /   :
+      :,--.>  ',---.`  <,--.:
+      :    __ (     ) __    ;
+       ".   \\  `---'  /   ,"
+         ".  \\-------/  ,"
+           "._`.___,'_,"
+              ".___."    hjw
+
+EOC

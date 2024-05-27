@@ -1,0 +1,21 @@
+# Reference: https://www.asciiart.eu/cartoons/two-stupid-dogs
+# File Name: dog-stupid1.cow
+# Author:    Herman Hiddema (hh)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+              _ _
+         _(,_/ \\ \\____________
+         |`. \\_\@_\@   `.     ,'
+         |\\ \\ .        `-,-'
+         || |  `-.____,-'
+         || /  /
+         |/ |  |
+    `..     /   \\
+      \\\\   /    |
+      ||  |      \\
+       \\\\ /-.    |
+       ||/  /_   |
+       \\(_____)-'_)    hh
+EOC

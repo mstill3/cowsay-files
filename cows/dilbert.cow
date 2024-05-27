@@ -1,0 +1,29 @@
+# Reference: https://www.asciiart.eu/comics/dilbert
+# File Name: dilbert.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+      (`'`'`'`')
+       |      |
+       |      |
+      (|-()()-|)
+       | (__) |
+       |      |
+       |______|
+      /._/\\/\\_.\\
+     /  , /\\    \\
+    ; / \\\\|| __\\ ;
+    |-|  './ \\/|-|
+    \\ |   |    | /
+     '\\___|____/`
+       |--LI--|
+       |  |   |
+       |  |   |
+       |  |   |
+       |  |   |
+       |  |   |
+       |__|___|      jgs
+   .----'=||='----.
+   `""""`"  "`""""`
+EOC

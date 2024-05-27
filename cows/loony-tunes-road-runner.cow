@@ -1,0 +1,19 @@
+# Reference: https://ascii.co.uk/art/birds
+# File Name: loony-tunes-road-runner.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+                       $thoughts
+            .==,_       $thoughts
+           .===,_`\\
+         .====,_ ` \\      .====,__
+   ---     .==-,`~. \\           `:`.__,
+    ---      `~~=-.  \\           /^^^
+       ---      `~~=. \\         /
+                   `~. \\       /
+                     ~. \\____./
+                       `.=====)
+                    ___.--~~~--.__
+          ___\\.--~~~              ~~~---.._|/
+  jgs     ~~~"                             /
+EOC

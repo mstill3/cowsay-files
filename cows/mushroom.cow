@@ -1,0 +1,17 @@
+# Reference: https://github.com/sckott/cowsay/blob/main/R/animals.r
+# File Name: mushroom.cow
+# Author:    fk
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts          ________
+           __--´    °   `--__
+       __-´     °      °     `-__
+     (´    °       °       °     `)
+      `'''''''''`|'''''|´''''''''´
+                 |     |
+                 |^   ^|
+                 |  u  |
+                 |_____|   fk
+EOC

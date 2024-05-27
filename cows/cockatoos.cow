@@ -1,0 +1,13 @@
+# Reference: https://asciiart.cc/view/12504
+# File Name: cockatoos.cow
+# Author:    Unknown
+
+$the_cow = <<"EOC";
+    $thoughts
+           \\\\
+   \\\\      (o>
+   (o>     //\\
+___(()_____V_/_____
+   ||      ||
+           ||
+EOC

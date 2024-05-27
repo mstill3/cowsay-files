@@ -1,0 +1,18 @@
+# Reference: http://www.retrojunkie.com/asciiart/animals/foxes.htm
+# File Name: fennec.cow
+# Author:    Todd Vargo
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        /\\   /\\
+       //\\\\_//\\\\     ____
+       \\_     _/    /   /
+        / $eye $eye \\    /~~~]
+        \\_\\o/_/    [   ]
+         /   \\_    [   /
+         \\     \\_  /  /
+          [ [-/  \\/ _/
+          [ [ \\  /_/      tv
+EOC

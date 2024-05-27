@@ -1,0 +1,15 @@
+# File Name: tux.cow
+# Author:    pborys@p-soft.silesia.linux.org.pl 
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        .--.
+       |${eye}_${eye} |
+       |:_/ |
+      //   \\ \\
+     (|     | )
+    /'\\_   _/`\\
+    \\___)=(___/
+EOC

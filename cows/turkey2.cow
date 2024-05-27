@@ -1,0 +1,21 @@
+# Reference: https://github.com/sckott/cowsay/blob/main/R/animals.r
+# File Name: alligator.cow
+# Author:   jgs 
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+         .--.
+        /} p \\             /}
+       `~)-) /           /` }
+        ( / /          /`}.' }
+         / / .-'\"\"-.  / ' }-'}
+        / (.'       \\/ '.'}_.}
+       |            `}   .}._}
+       |     .-=-';   } ' }_.}
+       \\    `.-=-;'  } '.}.-}
+        '.   -=-'    ;,}._.}
+          `-,_  __.'` '-._}
+              `|||             jgs
+             .=='=,
+EOC

@@ -1,0 +1,30 @@
+# Reference: https://vyznev.net/ascii/dilbert01.asc
+# File Name: dilbert-small.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts   cnnno
+        |   |
+        |  _|
+        |c-OO
+        |   _)
+        |   |  ,--.
+        |-._|  |. |
+        7`-.4. /3 8
+       /  -._k//  |
+      f  _ /--z|_,|
+      /   "   `|  |
+     j       \\ |  |
+     |         | _|
+     |.        |" |
+      `-.___.,-|  |
+        |   || |  |
+        |   || |-'i
+        |   || |  t
+        |   || |  z
+        |   || `--`
+        |___|'
+        r--`==-.
+        '--""""
+EOC

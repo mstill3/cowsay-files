@@ -1,0 +1,14 @@
+# Note:      The Small Yellow Fluffy Duck
+# Reference: http://loveascii.com/misc.html
+# File Name: duck-flat.cow
+# Author:    Steve Pocock__SteveP@uk.gdscorp.com___
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+               $thoughts
+                $thoughts
+     ;"'`'"',,
+    ;         ;,,,,
+   ,              $eye';-__
+    '.,__))),.,,.,,,/___/
+EOC

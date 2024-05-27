@@ -1,0 +1,13 @@
+# Reference: https://www.asciiart.eu/animals/birds-land
+# File Name: bird.cow
+# Author:    Donovan Bake (db)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+
+     ^ ^
+    (O,O)
+    (   )
+-----"-"-----    db
+EOC

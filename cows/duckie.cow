@@ -1,0 +1,13 @@
+# Reference: https://github.com/vladimyr/duckiesay
+# File Name: duckie.cow
+# Author:    Dario Vladović (vladimyr)
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts    _
+      >(·)__
+       (___/
+  ~ ~~~~~~~~~~~~~ ~
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+  ~ ~ ~ ~ ~ ~ ~ ~ ~
+EOC

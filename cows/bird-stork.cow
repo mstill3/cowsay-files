@@ -1,0 +1,17 @@
+# Reference: https://ascii.co.uk/art/stickman2
+# File Name: bird-stork.cow
+# Author:    chris
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       (\\
+      ( >\\ ~._
+      (  (_)/
+   ~==(./-'
+       \\
+        ^
+       /()\\
+      (    )
+       \\__/   chris
+EOC

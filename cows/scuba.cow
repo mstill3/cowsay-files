@@ -1,0 +1,22 @@
+# Reference: http://www.ascii-art.de/ascii/def/diver.txt
+# File Name: scuba.cow
+# Author:    hjw
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+       $thoughts          (   o . O
+        $thoughts          )   () .
+         $thoughts        /  O   o
+          $thoughts     _.|._ o .
+               / _:_ \\
+              |.(___).|
+              _\\. : ./_
+             / |..:..| \\
+            /_/ `---' \\_\\       ,
+    ,  (.   \\_)        \\_)  \\)-<
+    _) \\)~    \\   Y   /    ,(_)
+   _/ -(-<    _)__|__(_    \\_)-<~
+    \\)~ )-<  /....|....\\  .~(_,_
+   >(_ (_/   """"" """""    _\\       hjw
+`-.__)__\\_.----'`-.______.-'  `-.________
+EOC

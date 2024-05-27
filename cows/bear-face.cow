@@ -1,0 +1,19 @@
+# Reference: http://www.ascii-art.de/ascii/ab/bear.txt
+# File Name: bear-face.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+ $thoughts
+  $thoughts
+     .--.              .--.
+    : (\\ ". _......_ ." /) :
+     '.    `        `    .'
+      /'   _        _   `\\
+     /     $eye}      {$eye     \\
+    |       /      \\       |
+    |     /'        `\\     |
+     \\   | .  .==.  . |   /
+      '._ \\.' \\__/ './ _.'
+      /  ``'._-''-_.'``  \\    jgs
+EOC

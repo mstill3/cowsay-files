@@ -1,0 +1,23 @@
+# Reference: https://ascii.co.uk/art/ostrich
+# File Name: ostrich-head-down.cow
+# Author:    miK
+
+$the_cow = <<EOC;
+             _,-\\/-,_
+             \\      /
+              \\_.._/
+            _,/    \\,_
+           / \\      / \\
+          ,\\  )    (  /,
+          (__/ .''. \\__)
+             \\,_||   /
+             |  ||\\ |
+             | /|| \\|
+             () || ()
+             // || ||
+            //  || ||
+           //   || ||
+ '' -'-' ,// -' || /\\ - '' -'-' -''-
+         ^^     )( '^^           miK
+               '--`
+EOC

@@ -1,0 +1,12 @@
+# Reference: https://www.asciiarthub.com/stick-figure.html
+# File Name: cartwheel.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+             $thoughts
+ 
+   o   \\ o /  _ o         __|    \\ /     |__        o _  \\ o /   o
+  /|\\    |     /\\   ___\\o   \\o    |    o/    o/__   /\\     |    /|\\
+  / \\   / \\   | \\  /)  |    ( \\  /o\\  / )    |  (\\  / |   / \\   / \\
+---------------------------------------------------------------------
+EOC

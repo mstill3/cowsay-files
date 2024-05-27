@@ -1,0 +1,10 @@
+# Reference: https://www.andysowards.com/blog/2012/40-most-epic-ascii-art
+# File Name: bunny-feet.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+     (\\_/)
+     (•.•)
+    c(")(")
+EOC

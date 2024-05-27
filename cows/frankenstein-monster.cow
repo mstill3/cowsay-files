@@ -1,0 +1,26 @@
+# Reference: http://www.ascii-art.de/ascii/def/frankenstein.txt
+# File Name: frankenstein-monster.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+                $thoughts
+                 $thoughts     .....
+                      C C  /
+                     /<   /
+      ___ __________/_#__=o
+     /(- /(\\_\\________   \\
+     \\ ) \\ )_      \\o     \\
+     /|\\ /|\\       |'     |
+                   |     _|
+                   /o   __\\
+                  / '     |
+                 / /      |
+                /_/\\______|
+               (   _(    <
+                \\    \\    \\
+                 \\    \\    |
+                  \\____\\____\\
+                ____\\_\\__\\_\\
+               /`   /`     o\\
+               |___ |_______|    b'ger
+EOC

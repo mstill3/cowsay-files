@@ -1,0 +1,18 @@
+# Reference: https://www.asciiart.eu/mythology/centaurs
+# File Name: centaur.cow
+# Author:    snd
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        <|=======]}======
+          ==.   /|
+         _\\ /_.'/
+       .'._._,.'
+       :/ \\{}/
+      (L  /--',----._
+          |          \\\\
+         : /-\\ .'-'\\ / |
+          \\\\, ||    \\|
+           \\/ ||    ||     snd
+EOC

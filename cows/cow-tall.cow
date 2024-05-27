@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/animals/cows
+# File Name: cow-tall.cow
+# Author:    Shanaka Dias
+
+$the_cow = <<EOC;
+      $thoughts
+       ${thoughts}
+           __n__n__
+    .------`-\\$eyes/-'
+   /  ##  ## (oo)
+  / \\## __   ./
+     |//YY \\|/
+     |||   |||    snd
+EOC

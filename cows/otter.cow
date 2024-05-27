@@ -1,0 +1,19 @@
+# Reference: http://www.ascii-art.de/ascii/mno/otter.txt
+# Note:      Seaweed, the otter
+# File Name: otter.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         .-"""-.
+        /      o\\
+       |    o   0).-.
+       |       .-;(_/     .-.
+        \\     /  /)).---._|  `\\   ,
+         '.  '  /((       `'-./ _/|
+           \\  .'  )        .-.;`  /
+            '.             |  `\\-'
+              '._        -'    /
+        jgs      ``""--`------`
+EOC

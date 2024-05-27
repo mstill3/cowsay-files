@@ -1,0 +1,35 @@
+# Note:      Image from: https://i1.theportalwiki.net/img/a/ac/Achievement_Friendly_Fire.png
+# Note:      Generated from: https://www.text-image.com/convert/ 
+# File Name: portal-turret.cow
+# Author:    mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts            ,&&&&&&.
+     $thoughts         ,&&'    `&&&
+      $thoughts       &&'        `&&
+             ,&'          '#.
+         ..  #             ,&   ..
+        &&& &#            ,&& ,&&&&.
+       && & #           ,&& ,&&'  `&&
+      &&  B #          &#  &&'     `&.
+     &#  && &         ,&  &'        &&
+     &&  &` & ,&&&.   && &'         `#
+     &'  &  & &   &   && #           #
+     &   &  & `#&&`   && &           #
+     &,  &  &         &  #           #
+     &&  &. #         && &          &'
+     `#,  &. &        && #         &' ,&&&.
+      `&&, & #        && #.      ,#  && `&#
+       `&&&&` &      &#  &&.   ,&&  #&   `#.
+              #&     &   `&&&&&&'   &&    #&
+       ,&&&&&.`&&&&&&`,&&&.          `#   &&
+      &&   `&#       ,&' `&.          &&  `&
+     &#    &&        #'   &&          `&&  #.
+     &&   #          #`   #'           `&& #&
+     &  &#           #&  ,#             `#&&#    mjs
+    #& &&            &&  &&              `&B#
+    #&##             `& ,B                `#
+     &'              `#&#
+                      `#
+EOC

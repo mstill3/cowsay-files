@@ -1,0 +1,19 @@
+# Reference: https://www.asciimation.co.nz/#
+# Note:      adapted from 'telnet -e x towel.blinkenlights.nl'
+# File Name: star-wars-storm-trooper-simple.cow
+# Author:    Simon Jansen
+
+$the_cow = <<EOC;
+   $thoughts
+      /--\\
+     |<><>|
+     (_/\\_)
+    /      \\
+    ||/=o\\||
+    | /  \\ |
+    \\/][][\\/
+     |\\  /|
+     |_||_|
+     [ ][ ]
+     |_||_|
+EOC

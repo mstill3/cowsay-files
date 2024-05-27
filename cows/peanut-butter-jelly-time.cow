@@ -1,0 +1,25 @@
+# Reference: https://textart4u.blogspot.com/2013/03/peanut-butter-jelly-time-ascii-text-art.html
+# File Name: peanut-butter-jelly-time.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts           ▄▀▀▀▄
+    $thoughts          █   █▄
+     $thoughts        █▀    █▄
+            ▄▄█▄ ▄▄▄▄█
+           █ ▄▄ █ ▄▄ ██
+ ▄▀▀▀█▄    █ ▀▀ █ ▀▀ ██     ▄█▀▀▄
+ █    █     ▀█▀▀ ▀▀▀▀▄█     █   █
+ ▀▄▄▄██      █▄▄▄▄▄▄ ▀█     ██▄▄▀
+      ▀█▄    █▄    ▄▀ █   ▄█▀
+        ▀▀▀▀▀█ ▀▀▀▀  ▄█▀▀▀▀
+             █       █
+             █      █▀
+             █     ▄█
+             ████▄██
+             █     █
+            █▀     ▀█
+        ▄▄▄▄█       █▄▄
+      █▀    ▀█    █▀   ▀█
+      ▀▀▀▀▀▀▀      ▀▀▀▀▀▀
+EOC

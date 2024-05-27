@@ -1,0 +1,13 @@
+# Reference: https://www.asciiarthub.com/
+# File Name: dice.cow
+# Author:    Unknwown
+
+$the_cow = <<EOC;
+       ________
+      /\\       \\
+     / o\\   o   \\
+    /    \\_______\\
+    \\    /o     /
+     \\o /   o  /
+      \\/_____o/
+EOC

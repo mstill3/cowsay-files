@@ -1,0 +1,14 @@
+# Note:      SuSE thingy
+# Note:      (c) 2006 Gerfried Fuchs <rhonda@deb.at>
+# Note:      distributed under the WTFPLv2 license
+# File Name: suse.cow
+# Author:    Gerfried Fuchs <rhonda@deb.at>
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+     ____
+    /@    ~-.
+    \\/ __ .- |
+     // //  @
+EOC

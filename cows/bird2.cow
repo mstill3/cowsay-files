@@ -1,0 +1,18 @@
+# Reference: https://asciiart.cc/view/12394
+# File Name: bird2.cow
+# Author:    hjw
+
+$the_cow = <<EOC;
+   $thoughts
+       .-=-.
+     _/     `.
+    /_( 9    |.__
+      \\          ``-._
+       `>    _...     `'>
+        |  .'    `-. _,'
+         \\ `-.    ,' ;
+          `.  `~~'  /
+          _ 7`"..."'
+          ,'| __/
+              ,'\\     hjw
+EOC

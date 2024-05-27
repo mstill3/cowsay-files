@@ -1,0 +1,16 @@
+# Reference: https://github.com/sckott/cowsay/blob/main/R/animals.r
+# File Name: jackolantern.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts        ___
+           __)__|__
+      .--'          '--.
+     /      /|   |\\\     \\\
+    :      /_|   |_\\\     :
+    :   |\\\     ^     /|  :
+    :   | ''--...--'' |  ;
+     \\\   ''--.....--''  /
+      ''--.,_______,.--'
+EOC

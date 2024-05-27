@@ -1,0 +1,15 @@
+# Reference: http://www.ascii-art.de/ascii/ab/baby.txt
+# File Name: baby.cow
+# Author:    Naughty 
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+
+        ,=""=,
+       c , _,{
+       /\\  @ )                 __
+      /  ^~~^\\          <=.,__/ '}=
+     (_/ ,, ,,)          \\_ _>_/~
+      ~\\_(/-\\)'-,_,_,_,-'(_)-(_)  -Naughty
+EOC

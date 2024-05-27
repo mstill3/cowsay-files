@@ -1,0 +1,17 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/men.html
+# File Name: genie-lamp.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+             .
+           .::.
+           ::::.
+            '::::.
+               '::
+              .::'
+        {}   _,
+    ___/__\\_//
+   (_\\_    _/
+    -' `)(`    jgs
+       ~""~
+EOC

@@ -1,0 +1,21 @@
+# Reference: https://asciiart.website/index.php?art=animals/reptiles/lizards
+# File Name: gecko.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       __ \/_
+      (' \\`\\
+   _\\, \\ \\\\/ 
+    /`\\/\\ \\\\
+         \\ \\\\    
+          \\ \\\\/\\/_
+          /\\ \\\\'\\
+        __\\ `\\\\\\
+         /|`  `\\\\
+                \\\\
+                 \\\\
+                  \\\\    ,
+                   `---'      jgs
+EOC

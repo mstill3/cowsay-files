@@ -1,0 +1,24 @@
+# Reference: https://antofthy.gitlab.io/info/ascii/Signatures.txt
+# File Name: demon-big-nose.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+    $thoughts           /\\__/\\
+     $thoughts         /   $eye $eye\\__
+      $thoughts       /          \\
+       $thoughts     /      \\     \\
+            /   _    \\     \\
+           /    |\\____\\     \\
+          /     | | | |\\____/
+         /       \\| | | |/ |      _
+        /  /   \\  -------  |_____| |
+       /   |   |           |       __)
+       |   |   |           |_____  __)
+       |  |_|_|_|          |     \\___)
+       /\\                  |
+      / /\\        |        /
+     / /  |       |       |
+ ___/ /   |       |       |
+!____/    c_c_c_C/ \\C_c_c_c
+EOC

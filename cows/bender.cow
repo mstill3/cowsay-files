@@ -1,0 +1,26 @@
+# Reference: https://asciiart.website/index.php?art=television/futurama
+# File Name: bender.cow
+# Author:    Silver Saks
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+              _
+             ( )
+              H
+              H
+             _H_
+          .-'-.-'-.
+         /         \\
+        |           |
+        |   .-------'._
+        |  / /'''.'''. \\
+        |  \\ \\ @ | @ / /
+        |   '---------'
+        |    _______|
+        |  .'-+-+-+|
+        |  '.-+-+-+|
+        |    """""" |
+        '-.__   __.-'
+             """       ss
+EOC

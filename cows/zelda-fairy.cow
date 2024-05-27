@@ -1,0 +1,15 @@
+# Reference: https://www.zeldaxtreme.com/ascii-art/
+# File Name: zelda-fairy.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+            .'.         .'.
+            |  \\       /  |
+            '.  \\  |  /  .'
+              '. \\\\|// .'
+                '-- --'
+                .'/|\\'.
+               '..'|'..'
+EOC

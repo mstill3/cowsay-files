@@ -1,0 +1,30 @@
+# Reference: https://github.com/paulkaefer/cowsay-files/blob/main/cows/mule.cow
+# Based On:  http://rossmason.blogspot.com/2008/10/friday-ascii-art.html 
+# File Name: mule.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+  /\\          /\\
+ ( \\\\        // )
+  \\ \\\\      // /
+   \\_\\\\||||//_/
+     / _  _ \\/
+     |($eye)($eye)|\\/
+     |      | \\/
+     \\      /  \\/_____________________
+      |____|     \\\\                  \\\\
+     /      \\     ||                  \\\\
+     \\ 0  0 /     |/                  |\\\\
+      \\____/ \\    V           (       / \\\\
+       / \\    \\     )          \\     /   \\\\
+      / | \\    \\_|  |___________\\   /     ""
+                  ||  |     \\   /\\  \\
+                  ||  /      \\  \\ \\  \\
+                  || |        | |  | |
+                  || |        | |  | |
+                  ||_|        |_|  |_|
+                 //_/        /_/  /_/
+EOC

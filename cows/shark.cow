@@ -1,0 +1,18 @@
+# Reference: https://www.asciiart.eu/animals/fish
+# File Name: shark.cow
+# Author:    Shanaka Dias (snd)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+  $thoughts
+     _________         .    .
+    (..       \\_    ,  |\\  /|
+     \\       $eye  \\  /|  \\ \\/ /
+      \\______    \\/ |   \\  / 
+         vvvv\\    \\ |   /  |
+         \\^^^^  ==   \\_/   |
+          `\\_   ===    \\.  |
+          / /\\_   \\ /      |
+          |/   \\_  \\|      /
+                 \\________/    snd
+EOC

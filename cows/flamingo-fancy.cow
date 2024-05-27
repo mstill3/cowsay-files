@@ -1,0 +1,28 @@
+# Reference: https://github.com/DeflatedPickle/flamingo
+# File Name: flamingo-fancy.cow
+# Author:    DeflatedPickle
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts          ___
+    $thoughts        |   |
+     $thoughts       |___|
+      $thoughts     <_____>
+             /$eye  \\
+            //--| |
+            ;   /,/
+              ,/ /   _/"""\\
+              |  "\\_/ /,   '\\
+               \\,      \\_, \\ \\
+               `\\____,--,\\/ \\;
+                   ||\\\\    \\;
+                   || \\\\
+                   || /,>
+                   ||//
+                   |//
+                  //|
+                 \\\\||
+                  \\||    dp
+                   ||
+                  <-->
+EOC

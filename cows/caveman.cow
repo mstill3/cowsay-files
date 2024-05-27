@@ -1,0 +1,20 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/people.html
+# File Name: caveman.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts      ////\\
+    $thoughts   ///_ _\\\\\\
+        // '\\' \\\\
+       ///\\_-_/\\\\\\
+          _) (_
+         /\\`"` \\
+        /| \\ '  \\
+       / |  '--; \\
+      / /|     |\\ \\  ____
+     (.' |_____| '.;'    '.
+     \\\\   \\ | /   /        \\
+     )'\\  ( | )   |   ()   |
+     |. | / T \\   \\        /    jgs
+     \\_/ ooO Ooo   '.____.'
+EOC

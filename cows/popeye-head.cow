@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/cartoons/popeye
+# File Name: popeye-head.cow
+# Author:    Joan G Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts       .-'-.
+         __|     `\\
+        `-,-`--._  `\\
+   []  .->'  a   `|-'
+    `=/ (__/_     /
+      \\_,    `  _)
+        `----; |     jgs
+EOC

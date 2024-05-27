@@ -1,0 +1,31 @@
+# Reference: http://www.ascii-art.de/ascii/uvw/wallace+gromit.txt
+# File Name: wallace-and-gromit-pengiun.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts         _   _
+    $thoughts       ( \\ / )
+     $thoughts     __\\ Y /,')
+      $thoughts   (__     .'
+       $thoughts     |   (
+        $thoughts    [___]
+             |$eyes |
+           ,' \\  |
+          <___/  |
+             |   |
+             |   |
+             |   |
+         _,-/_._  \\,_
+   _.-"^`  //   \\    `^"-.,__
+   \\     ,//     \\          /
+    `\\,-"::       ;  \\-.,_/'
+         ||       |   ;
+         ||       ;   |
+         :\\      /    ;
+          \\`----'    /
+           `._____.-'
+             | | |
+           __| | |__
+          /    |    \\   jgs
+          `""""`""""`
+EOC

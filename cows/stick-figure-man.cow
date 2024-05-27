@@ -1,0 +1,12 @@
+# Reference: http://www.jave.de/
+# File Name: stick-figure-man.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+
+     O
+    /|-
+    /|
+EOC

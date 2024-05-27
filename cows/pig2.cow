@@ -1,0 +1,17 @@
+# Reference: https://ascii.co.uk/art/pig
+# File Name: pig2.cow
+# Author:    HJW
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts          ,.
+    $thoughts        (_|,.
+            ,' /, )_______   _
+         __j $eye``-'        `.'-)'
+        (")                 \\'
+         `-j                |
+           `-._(           /
+              |_\\  |--^.  /
+             /_]'|_| /_)_/
+                /_]'  /_]'    hjw
+EOC

@@ -1,0 +1,25 @@
+# Reference: https://ascii.co.uk/art/albatross
+# File Name: albatross.cow
+# Author:    Veronica Karlsson (VK)
+
+$the_cow = <<EOC;
+   $thoughts                                                            ___
+      $thoughts                                            ________.-----''
+         $thoughts                                ___.--'""___.----''
+                                       .-'    _.-'"
+                            _ .-.__.--'    .-'
+                          .' `  / ' __ _.-'
+                          ) '  '   )   /`-._.
+                         (.'\\          )/))-)\\
+                       .'    >.________.--'
+                    .-'   .-'
+                  .'    .'
+               .-'   .-'
+             .'    .'
+            /    .'
+          .'   .'
+         /  ,,/
+        /'''/
+       / ,''
+      /''      VK
+EOC

@@ -1,0 +1,20 @@
+# Reference: http://www.ascii-art.de/ascii/mno/orca.txt
+# File Name: orca.cow
+# Author:    apc
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+     $thoughts          O          .
+      $thoughts      O            ' '
+               o         '   .
+             o         .'    :
+          __________.-'       `...___
+       .-'                      ###  `''...__
+      /   a###                 ##            ''--.._ ______
+      '.                      #     ########        '   .-'
+        '-._          ..**********####  ___...---'''\\   '
+            '-._     __________...---'''             \\   l
+                \\   |                         apc     '._|
+                 \\__;
+EOC

@@ -1,0 +1,19 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/mythos.html
+# File Name: skeleton-hi.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts      .-.
+    $thoughts    (o,o)
+          (=)
+        .-="=-.  \\(_
+       //==I==\\\\,/
+      ()  ="=  ()
+       \\`(0V0)
+      /|) ||\\\\
+          || \\\\
+          ()  ()
+         //  //      jgs
+        '/  '/ 
+        "== "==
+EOC

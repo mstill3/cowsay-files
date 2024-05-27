@@ -1,0 +1,16 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/saaas1.html
+# Note:      Carnegie Mellon University
+# File Name: snake-pole.cow
+# Author:    Jennifer E. Swofford  <iguana_cmu_edu> <jsap_andrew_cmu_edu>
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+                                      $thoughts
+                __    __    __    __   $thoughts
+               /  \\  /  \\  /  \\  /  \\   $thoughts
+__________^___/  ,_\\/  ,_\\/  ,_\\/  ,_\\_________________
+_____________/  /__/  /__/  /__/  /____________________
+    jes    \\ ` / \\ ` / \\ ` / \\ ` / \\  \\____
+            \\_/   \\_/   \\_/   \\_/   \\    $eye \\
+                                     \\_____/--<
+EOC

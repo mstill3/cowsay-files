@@ -1,0 +1,19 @@
+# Reference: https://asciiart.cc/view/11116
+# File Name: santa.cow
+# Author:    B.D.S."Don"McConnell
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+       ,--.
+      ()   \\
+       /    \\
+     _/______\\_
+    (__________)
+    (/  $eye  $eye  \\)
+    (`._,()._,')
+    (  `-'`-'  )
+     \\        /
+      \\,,,,,,/
+    B.D.S."Don"McConnell
+EOC

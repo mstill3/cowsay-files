@@ -1,0 +1,23 @@
+# Reference: https://www.asciiart.eu/cartoons/spongebob-squarepants
+# File Name: squidward.cow
+# Author:    lgbeard
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        .--'''''''''--.
+     .'      .---.      '.
+    /    .-----------.    \\
+   /        .-----.        \\
+   |       .-.   .-.       |
+   |      /   \\ /   \\      |
+    \\    | .-. | .-. |    /
+     '-._| | | | | | |_.-'
+         | '-' | '-' |
+          \\___/ \\___/
+       _.-'  /   \\  `-._
+     .' _.--|     |--._ '.
+     ' _...-|     |-..._ '
+            |     |
+            '.___.'      lgbeard
+EOC

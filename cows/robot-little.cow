@@ -1,0 +1,13 @@
+# Reference: http://robotfindskitten.org/aw.cgi?main=software.rfk#rfksay
+# File Name: robot-little.cow
+# Author:    Andrew Northern (rfksay)
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+      _
+     [-]
+     (+)=C
+     | |
+     OOO
+EOC

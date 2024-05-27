@@ -1,0 +1,11 @@
+# Note:      Default cow
+# File Name: default.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+        $thoughts   ^__^
+         $thoughts  ($eyes)\\_______
+            (__)\\       )\\/\\
+             $tongue ||----w |
+                ||     ||
+EOC

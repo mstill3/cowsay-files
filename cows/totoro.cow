@@ -1,0 +1,30 @@
+# Reference: https://asciiart.cc/view/10756
+# Note:      From "My Neighbor Totoro"
+# File Name: totoro.cow
+# Author:    Mabel Mak
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts         ,!.       ,!.         
+     $thoughts       .! !.     ,! !. 
+             ! n !     ! n !          
+             `*^^^^^^^^^^^*'         
+            ,* _         _ *.        
+           *  (0)       (0)  *       
+          *         "         *       
+        ,*    ^***********^    *.
+       *                         *    
+      *   *   /\\   /\\   /\\    *   *   
+     *   *                     *   *
+    *   *   /\\   /\\   /\\   /\\   *   *
+   *   *                         *   *
+  *   *                           *   *
+   *  *                           *  *
+    * *                           * *
+     **                           **
+      * *                        * *
+       * *         ***          * *
+        *  *       ) (         * *     mak
+         ^^^^^^^^^^   ^^^^^^^^^^^
+EOC

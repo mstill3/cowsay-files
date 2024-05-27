@@ -1,0 +1,21 @@
+# Reference: https://www.asciiart.eu/animals/birds-land
+# File Name: goose.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+          _.-.
+     __.-( ,  \\
+    '--'-'._   \\
+            '.  \\
+             )   \\ __.--._
+            /   .'        '--.
+           .               _/-._
+           :       ____._/   _-'
+            '._          _.'-'
+               '-._    _.'
+                   \\_|/
+                  __|||     snd
+                 '>__//
+EOC

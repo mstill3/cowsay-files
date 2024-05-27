@@ -1,0 +1,13 @@
+# Note:      MOOfasa
+# File Name: cow-moofasa.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+       $thoughts    ____
+        $thoughts  /    \\
+          | ^__^ |
+          | ($eyes) |______
+          | (__) |      )\\/\\
+           \\____/|----w |
+                ||     ||
+EOC

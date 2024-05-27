@@ -1,0 +1,24 @@
+# Reference: https://www.asciiart.eu/cartoons/casper
+# File Name: casper.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+   $thoughts
+         .-----.
+       .' -   - '.
+      /  .-. .-.  \\
+      |  | | | |  |
+       \\ \\o/ \\o/ /
+      _/    ^    \\_
+     | \\  '---'  / |
+     / /`--. .--`\\ \\
+    / /'---` `---'\\ \\
+    '.__.       .__.'
+        `|     |`
+         |     \\
+         \\      '--.
+          '.        `\\
+            `'---.   |
+     jgs       ,__) /
+                `..'
+EOC

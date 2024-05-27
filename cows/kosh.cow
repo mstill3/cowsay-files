@@ -1,0 +1,20 @@
+# Note:      It's a Kosh Cow!
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles
+# File Name: kosh.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts
+        $thoughts
+    __       _____     __
+   /  \\     /    /|   /  \\
+  |    |   /    / |  |    |
+  |    |  /____/  |  |    |     
+  |    |  |    |  |  |    |
+  |    |  | {} | /   |    |
+  |    |  |____|/    |    |
+  |    |    |==|     |    |
+  |     \\___________/     |
+  |                       |
+EOC

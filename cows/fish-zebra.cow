@@ -1,0 +1,12 @@
+# Reference: https://www.asciiartcopy.com/simple-ascii-art-animals.html
+# File Name: fish-zebra.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+
+      ;,//;,    ,;/
+     o:::::::;;///
+    >::::::::;;\\\\\\
+      ''\\\\\\\\\\'" ';\\
+EOC

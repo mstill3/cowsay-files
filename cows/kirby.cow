@@ -1,0 +1,24 @@
+# Reference: https://gamefaqs.gamespot.com/boards/585451-alphabet-zoo/26750485
+# File Name: kirby.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+
+           ,XXXXXXXXXX.,XXXX.
+       ,XXXX:`      ':XX::  XX.
+     ,XX::              XX    XX
+    XX::      XX  XX      ::  XX
+   ,XX        XX  XX      ::  XX
+  XX          XX  XX       :  XX
+XX::      ::::      ::::      XX
+XX    ::                     ,XX
+XX    ::      `-__-'        ,XX
+ `XXXXXX                  ::XX
+XX::::::XX               ,::XX
+XX::::::::XX           ,::XX
+XX::::::::XX.        ,::XXXX
+  XX::::::XXXX::::::XXXX::::XX
+    XX::::XX  XXXXXX::::::::::XX
+      XXXXXX        XXXXXXXXXX
+EOC

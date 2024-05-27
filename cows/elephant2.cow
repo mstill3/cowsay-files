@@ -1,0 +1,21 @@
+# Reference: https://www.asciiartcopy.com/simple-ascii-art-animals.html
+# File Name: elephant2.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+       $thoughts
+                        ____
+                   .---'-    \\
+      .-----------/           \\
+     /           (         ^  |   __
+&   (             \\        $eye  /  / .'
+'._/(              '-'  (.   (_.' /
+     \\                    \\     ./
+      |    |       |    |/ '._.'
+       )   @).____\\|  @ |
+   .  /    /       (    |   
+  \\|, '_:::\\  . ..  '_:::\\ ..\\).
+EOC

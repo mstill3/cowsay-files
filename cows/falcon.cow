@@ -1,0 +1,26 @@
+# Reference: https://asciiart.cc/view/12492
+# Reference: https://the.sunnyspot.org/asciiart/gallery/saaas1.html
+# File Name: falcon.cow
+# Author:    aps-1022_khijol_yggdrasil_com
+
+$the_cow = <<EOC;
+   $thoughts               /|_
+    $thoughts             /   |_
+     $thoughts           /     /
+                /      >
+               (      >
+              /      /
+             /     /
+            /      /
+         __/      \\_____
+        /'             |
+         /     /-\\     /
+        /      /  \\--/
+       /     /
+      /      /
+     (      >
+    /      >
+   /     _|
+  /  __/
+ /_/
+EOC

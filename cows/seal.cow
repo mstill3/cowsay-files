@@ -1,0 +1,21 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
+# Date:      1/1997
+# File Name: seal.cow
+# Author:    jgs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        .---.
+       /$eye   $eye\\  
+    __(=  "  =)__
+     //\\'-=-'/\\\\
+        )   (_
+       /      `"=-._             
+      /       \\     ``"=.     
+     /  /   \\  \\         `=..--.
+ ___/  /     \\  \\___      _,  , `\\   jgs
+`-----' `""""`'-----``"""`  \\  \\_/
+                             `-`
+EOC

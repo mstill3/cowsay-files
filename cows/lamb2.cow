@@ -1,0 +1,22 @@
+# File Name: lamb2.cow
+# Author:    sk
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+    ,-''''-.
+   (.  ,.   L        ___...__
+   /$eye} ,-`  `'-==''``        ''._
+  //{                           '`.
+  \\_,X ,                         : )
+   $tongue 7                          ;`
+      :                  ,       /
+       \\_,                \\     ;
+         Y   L_    __..--':`.    L
+         |  /| ````       ;  y  J
+         [ j J            / / L ;
+         | |Y \\          /_J  | |  sk
+         L_J/_)         /_)   L_J
+        /_)                  /_)
+EOC

@@ -1,0 +1,23 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/turtle.cow
+# Reference: https://the.sunnyspot.org/asciiart/gallery/saaas1.html
+# File Name: turtle.cow
+# Author:    Judy Anderson <yduj_harlequin_com>
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+    $thoughts                                  ___-------___
+     $thoughts                             _-~~             ~~-_
+      $thoughts                         _-~                    /~-_
+             /^\\__/^\\         /~  \\                   /    \\
+           /|  $eye|| $eye|        /      \\_______________/        \\
+          | |___||__|      /       /                \\          \\
+          |          \\    /      /                    \\          \\
+          |   (_______) /______/                        \\_________ \\
+          |      $tongue / /         \\                      /            \\
+           \\         \\^\\\\         \\                  /               \\     /
+             \\         ||           \\______________/      _-_       //\\__//
+               \\       ||------_-~~-_ ------------- \\ --/~   ~\\    || __/
+                 ~-----||====/~     |==================|       |/~~~~~
+                  (_(__/  ./     /                    \\_\\      \\.
+                         (_(___/                         \\_____)_)
+EOC

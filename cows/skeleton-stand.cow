@@ -1,0 +1,21 @@
+# Reference: https://www.asciiarthub.com/spooky-skeleton.html
+# File Name: skeleton-stand.cow
+# Author:    Unknown 
+
+$the_cow = <<EOC;
+    $thoughts
+        .-.
+       (o.o)
+        |=|
+       __|__
+     //.=|=.\\\\
+    // .=|=. \\\\
+    \\\\ .=|=. //
+     \\\\(_=_)//
+      (:| |:)
+       || ||
+       () ()
+       || ||
+       || ||
+      ==' '==
+EOC

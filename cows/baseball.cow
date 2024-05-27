@@ -1,0 +1,30 @@
+# Reference: https://www.mozz.us/ascii-art.html
+# File Name: baseball.cow
+# Author:    mozz
+
+$the_cow = <<EOC;
+   $thoughts                  _     
+    $thoughts               .//'     
+     $thoughts            ./\@'     
+                 //'     
+               //  ___     
+              /' /_  2)     
+       .- .-,= _ _c ___>     
+       \\_(_-< ` ( \\ _/           _      _     
+          \\__)   `-,' \\         (_'  -    __  -     
+            \\ '-._/   /     
+             \\_   '-./     
+             \\ '---" |     
+             ['.____,l     
+             /`------"\\     
+            , `` 'x_``_'     
+           /  -- _^_    \\     
+          ,    .'   '.   '     
+         /   _/       \\_  \\     
+        ,   -'          .__,     
+       ,'---'            \\  \\     
+      /  ,'               '._\\     
+     ,_./                  l`s\\     
+    |`s/                 , _>__)    mozz 
+   _,__!     
+EOC

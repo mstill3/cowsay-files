@@ -1,0 +1,20 @@
+# Reference: https://asciiart.cc/view/12532
+# File Name: dolphin.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts                            /\\
+    $thoughts                          /  |
+     $thoughts                        /   |
+                 ____________/    (_______                    /|
+          __----'                         `----___           / |
+       _-'                                        `--_______/  /
+   ___/  $eye                                                   /
+  (___\\                                    _______________   \\
+   `---\\_     |   \\              ______---'               `\\  \\
+         `--__\\    |________-----'                          \\ |
+               \\   |                                         \\'
+                \\  |
+                 \\_|
+EOC

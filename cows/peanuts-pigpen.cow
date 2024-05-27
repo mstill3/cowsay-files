@@ -1,0 +1,21 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-pigpen.cow
+# Author:    W<
+
+$the_cow = <<EOC;
+   $thoughts
+             / _
+        `_--/-/_ _
+     ~\\/        /
+      |  . _ .   |--\\
+     _| # (    #  )
+    /  \\   _  # /
+         -_  _-~
+          -'--`-_
+         /     . |
+         |     |~|
+         |-----,,)
+         --------
+           |_|_|
+         _~__~__\\    W<
+EOC

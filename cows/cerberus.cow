@@ -1,0 +1,22 @@
+# Reference: https://svzanten.home.xs4all.nl/ascii/line_art/hell.html
+# File Name: cerberus.cow
+# Author:    Joris Bellenger (b'ger)
+# Modifier:  mjs
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+              /\\_/\\____o
+    o___/\\_/\\ \\  $eye     /
+    \\     $eye  \\ )   XXX'
+     `XXX     /    /\\_/\\___o
+       $tounge  \\===/====/   $eye    /
+          ) /     \\    XXX'
+         _|    / \\ \\=/`
+      ,-/   _  \\ /   \\
+     / (   /____,__|  )
+    (  |_ (    )  \\) _|
+   _/ _)   \\   \\__/   (_
+  (,-(,(,(,/      \\,),),)  b'ger
+EOC

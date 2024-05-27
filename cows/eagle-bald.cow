@@ -1,0 +1,18 @@
+# Reference: https://asciiart.cc/view/12484
+# File Name: eagle-bald.cow
+# Author:    Unknown
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+          .'''''.
+         '       .
+      __' $eye       ;
+     /  \\         ;
+    | ,.-|         ;
+    \\/~~'          ;
+       /;.  .;;.  . ;
+      /;;;;;;;;;;;;;\\
+     |;;;;;;;;;;;;;;;\\
+EOC

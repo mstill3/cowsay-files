@@ -1,0 +1,19 @@
+# Reference: https://www.asciiart.eu/comics/peanuts
+# File Name: peanuts-woodstock-mail.cow
+# Author:    SSt
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        _)/_
+       (_' <
+         )(_
+   ,--.''-`'.
+  :.'  :  =- :
+  |:   | ._|]|
+  |____|_____|
+ /.:. /-_-_/
+(.:: / |=|
+ `--'  |=|
+       |=|    SSt
+EOC

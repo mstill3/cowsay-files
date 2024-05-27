@@ -1,0 +1,15 @@
+# Note:      The non-flaming sheep.
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles
+# File Name: sheep.cow
+# Author:    Unknown
+
+$the_cow = <<EOC
+   $thoughts
+    $thoughts
+         __     
+        U${eyes}U\\.'\@\@\@\@\@\@`.
+        \\__/(\@\@\@\@\@\@\@\@\@\@)
+          $tongue (\@\@\@\@\@\@\@\@)
+             `YY~~~~YY'
+              ||    ||
+EOC

@@ -1,0 +1,16 @@
+# Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/fence.cow
+# File Name: cow-fence.cow
+# Author:    jgs
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts             _---..
+   ||  (\\(__)/)-´||      :--* ||
+___||___`($eyes)'___||______;____||______
+---||----)  (----||-----------||------
+___||___(o  o)___||______;____||______
+---||----`--'----||-----------||------
+   ||       `U U ||   U U     ||   jgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOC

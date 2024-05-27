@@ -1,0 +1,11 @@
+# Reference: http://www.ascii-art.de/ascii/ab/alien.txt
+# File Name: alien.cow
+# Author:    Unknown 
+
+$the_cow = <<EOC;
+   $thoughts
+      ,___,
+      [O.o]
+      /)  )
+-------"--"----
+EOC

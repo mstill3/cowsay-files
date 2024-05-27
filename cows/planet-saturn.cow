@@ -1,0 +1,15 @@
+# Reference: https://www.asciiart.eu/space/planets
+# File Name: planet-saturn.cow
+# Author:    jgs
+
+$the_cow = <<EOC;
+
+             ,MMM8&&&.
+        _...MMMMM88&&&&..._
+     .::'''MMMMM88&&&&&&'''::.
+    ::     MMMMM88&&&&&&     ::
+    '::.....................::'
+       `'''''''''''''''''''`     jgs
+             'MMM8&&&'
+
+EOC

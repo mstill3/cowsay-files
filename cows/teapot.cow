@@ -1,0 +1,17 @@
+# Reference: http://www.ascii-art.de/ascii/def/dragonfly.txt
+# File Name: teapot.cow
+# Author:    Stef
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts       _
+         _,(_)._
+    ___,(_______).
+  ,'__.           \\    /\\_
+ /,' /             \\  /  /
+| | |         @    |,'  /
+ \\`.|                  /
+  `. :           :    /
+    `.            :.,'
+      `-.________,-'     Stef
+EOC

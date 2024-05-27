@@ -1,0 +1,17 @@
+# Reference: https://www.asciiart.eu/space/moons
+# File Name: moon-landing.cow
+# Author:    apx
+
+$the_cow = <<EOC;
+                 $thoughts
+         ,        $thoughts
+       _=|_        $thoughts
+     _[_## ]_
+   +[_[_+_]P/         |_      ,____          |
+~~---\\_I_I_[=\\--~-~~- [o] ----|##==]---~~~ o]H --
+-  /[_[_|_]_]\\\\  ~   [[=]]    |====]      !j]H
+  /    "|"    \\      ^U-U^  ~ |      ~~    U/  ~
+ ~~--__~~~--__~~-__  _H_H_    |     --    _H_
+-. _  ~~~       ~~~       ~-    ~~--  ._ - ~~-
+           ~~  ~~  -~~--  _     . -      _ _ -   apx
+EOC

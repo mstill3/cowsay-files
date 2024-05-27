@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/vehicles/airplanes
+# File Name: biplane.cow
+# Author:    Paulo Santos
+
+$the_cow = <<EOC;
+ $thoughts
+  $thoughts
+       ____       _
+     |__\\_\\_o,___/ \\
+    ([___\\_\\_____-\\'
+     | o'                 ps
+EOC

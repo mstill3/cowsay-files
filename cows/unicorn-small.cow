@@ -1,0 +1,16 @@
+# Reference: https://ascii.co.uk/art/unicorn
+# File Name: unicorn-small.cow
+# Author:    snd
+
+$the_cow = <<EOC;
+   $thoughts           _.  
+            ;=',_  
+           S" .--` 
+          sS  \\__  
+       __.' ( \\--> 
+    _=/    _./-\\/  
+   ((\\( /-'   -'l  
+    ) |/ \\\\    
+       \\\\  \\ 
+        `~ `~     snd
+EOC

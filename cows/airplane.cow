@@ -1,0 +1,20 @@
+# Reference: https://www.asciiart.eu/vehicles/airplanes
+# File Name: airplane.cow
+# Author:    hjw
+
+$the_cow = <<EOC;
+     $thoughts
+         $thoughts
+             $thoughts
+    __  _        $thoughts
+    \\ `/ |          $thoughts
+     \\__`!
+     / ,' `-.__________________
+    '-'\\_____                LI`-.
+       <____()-=O=O=O=O=O=[]====--)
+         `.___ ,-----,_______...-'
+              /    .'
+             /   .'
+            /  .'             hjw
+            `-'
+EOC

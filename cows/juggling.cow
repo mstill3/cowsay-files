@@ -1,0 +1,13 @@
+# Reference: https://ascii.mozz.us:7070/mirrors/bowdrie/spying.txt
+# File Name: juggling.cow
+# Author:    Unknown
+# Notes:     Playing with balls and spying at the wall.
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts   o
+           o
+       o O
+      `\\/Y\\/~
+        / \\
+EOC

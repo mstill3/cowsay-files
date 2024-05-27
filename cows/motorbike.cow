@@ -1,0 +1,14 @@
+# Reference: https://www.asciiarthub.com/stick-figure.html
+# File Name: motorbike.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts    _
+           (_\\
+          / \\
+     `== / /\\=,_
+      ;--==\\\\  \\\\o
+      /____//__/__\\
+    @=`(0)     (0)
+EOC

@@ -1,0 +1,26 @@
+# Reference: https://asciiart.cc/view/12492
+# File Name: hawk.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts             /|_
+     $thoughts           /   |_
+                 /     /
+                /      >
+               (      >
+              /      /
+             /     /
+            /      /
+         __/      \_____
+        /'             |
+         /     /-\     /
+        /      /  \--/
+       /     /
+      /      /
+     (      >
+    /      >
+   /     _|
+  /  __/
+ /_/
+EOC

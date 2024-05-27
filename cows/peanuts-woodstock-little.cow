@@ -1,0 +1,11 @@
+# Reference: https://ascii.co.uk/art/peanuts
+# File Name: peanuts-woodstock-little.cow
+# Author:    ool
+
+$the_cow = <<EOC;
+   $thoughts
+     _)/_
+    (_" =
+      (~\\_
+      ""\\/    ool
+EOC

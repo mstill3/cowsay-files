@@ -1,0 +1,12 @@
+# Reference: http://svn.haxx.se/tsvn/archive-2005-06/1030.shtml (accessed 9/11/2014)
+# File Name: tortoise.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts       ___
+      oo  // \\\\
+     (_,\\/ \\_/ \\
+       \\ \\_/_\\_/>
+       /_/   \\_\\
+EOC

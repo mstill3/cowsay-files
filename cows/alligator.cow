@@ -1,0 +1,18 @@
+# Reference: https://github.com/sckott/cowsay/blob/main/R/animals.r
+# File Name: alligator.cow
+# Author:    snd
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+                 .-._   _ _ _ _ _ _ _ _
+     .--''-.__.-'$eyes  '-' ' ' ' ' ' ' ' '-.
+     '.____ '    .   .--_'-' '-' '-' _'-' '.
+      V: V 'vv-'   '_   '.       .'  _..'-'.'.
+        '=.____.=_.--'   :_.__.__:_   '..   : :
+                 (((____.-´        `-.  /   : :
+                                   (((-' ,.' /      snd
+                                 _____..'  .'
+                                '-._____.-'
+EOC

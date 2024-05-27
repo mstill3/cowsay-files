@@ -1,0 +1,15 @@
+# Reference: https://www.asciiart.eu/people/famous/george-washington
+# File Name: washington.cow
+# Author:    Joan G. Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+         .-'~"-. 
+        / `-    \\ 
+       />  `.  -.| 
+      /_     '-.__) 
+       |-  _.' \\ | 
+       `~~;     \\\\ 
+          /      \\\\)
+         '.___.-'`"      jgs
+EOC

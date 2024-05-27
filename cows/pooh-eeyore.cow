@@ -1,0 +1,11 @@
+# Reference: https://www.asciiart.eu/books/winnie-the-pooh
+# File Name: pooh-eeyore.cow
+# Author:    Unknown
+
+$the_cow = <<EOC;
+  $thoughts
+     ,~~--~~-.
+    +      | |\\
+    || |~ |`,/-\\
+    *\\_) \\_) `-'
+EOC

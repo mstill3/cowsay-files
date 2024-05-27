@@ -1,0 +1,16 @@
+# Reference: https://the.sunnyspot.org/asciiart/gallery/art08.html
+# File Name: bird-little.cow
+# Author:    Row (the Ascii-Wizard of Oz)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+       __.   .__
+      /'(  _  )`\\
+     / . \\/^\\/ . \\
+    /  _)_`-'_(_  \\
+   /.-~   ).(   ~-.\\
+  /'     /\\_/\\     `\\   Row
+         "-V-"
+EOC

@@ -1,0 +1,17 @@
+# Reference: https://ascii.co.uk/art/newyork
+# File Name: statue-liberty.cow
+# Author:    Hilsen, Peer W Hansen
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts
+       W                  .__. .__.      
+      [ ]                 |::| |::|           
+       E          ._.     |::| |::|   ._.     
+       |\\         |:| ._. |::| |::|   |/|     
+       \\ \\\\l//    |:|_|/| |::| |::|_  |/|     
+        | ( )-    |:|"|/|_|::| |::|\\|_|/| _   
+        | V L     |:|"|/|||::| |::|\\|||/||:|  
+        \\    \\  ___   ~~~~~~~~~~~~~~~~~~~~~~~~
+         |    \\/  /      ~~~~ ~~~~ ~~~ ~~~ pwh          
+EOC

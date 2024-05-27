@@ -1,0 +1,24 @@
+# Reference: https://ascii.co.uk/art/puppet
+# File Name: hand-puppet.cow
+# Author:    hjw
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts       __     __
+           (( \\---/ ))
+            )__   __(
+           / ()___() \\
+           \\  /(_)\\  /
+            \\ \\_|_/ /
+      _______>     <_______
+     //\\      |>o<|      /\\\\
+     \\\\/___           ___\\//
+           |         |
+           |         |
+           |         |
+           |         |
+           `--....---'
+             \\     \\
+              \\     `.     hjw
+               \\      `.
+EOC

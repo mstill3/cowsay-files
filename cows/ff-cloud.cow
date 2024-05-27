@@ -1,0 +1,17 @@
+# Reference: https://ascii.co.uk/art/computergames
+# File Name: ff-cloud.cow
+# Author:    jrei
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts        .
+    $thoughts       |\\ .
+          . | \\|\\
+     _____|\\|  \\ \\_
+      '-._   ,-'-. '.______
+         / //_   _\\  _.-;'
+        /,'/ $eye : $eye | .-' 
+       /':'|\\  _  /,'
+         _\\|_'._.'___    jrei
+        /             \\
+EOC

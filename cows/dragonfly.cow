@@ -1,0 +1,11 @@
+# Reference: http://www.ascii-art.de/ascii/def/dragonfly.txt
+# File Name: dragonfly.cow
+# Author:    ejm97 
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       ()
+      %-----
+       ()         ejm97
+EOC

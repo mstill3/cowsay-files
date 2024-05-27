@@ -1,0 +1,24 @@
+# Reference: https://svzanten.home.xs4all.nl/ascii/line_art/animals.html
+# File Name: hyena.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+
+    _,     _,
+   /)|    /)\\ 
+   \\_'-"`/(_/```",,
+     /   <        ``--._
+     |. _ )     `    *  ',
+     ^  ^/_,     *     (\\*\\
+     (#_/  `\\)  /'  * - ))_|
+      U      \\  \\*   _,//_ *
+              ) >\\_* ((|\\_/
+              \\ | \\  | # (
+               \\#  \\#\\ \\ #
+                \\\\  \\(  )/
+                _)> _))/(_
+      .-\\\\,, , /\\\\//\\//\\\\/),, ,,)/    b'ger
+        ,\\.        .-    -'-,)\\/.'))
+EOC

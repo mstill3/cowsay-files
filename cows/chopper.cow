@@ -1,0 +1,14 @@
+# Reference: https://www.asciiartcopy.com/
+# File Name: chopper.cow
+# Author:    Robert Archer
+
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts
+                   -----------!-----------
+  -----------!-----------  /=====\
+            |===\_________/_  o  |
+           /_]    o o  o o____   /
+          <_]___[]_______<____>/    archer
+              o              o
+EOC

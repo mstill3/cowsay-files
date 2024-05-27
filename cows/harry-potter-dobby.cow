@@ -1,0 +1,25 @@
+# Reference: https://www.asciiart.eu/books/harry-potter
+# File Name: harry-potter-dobby.cow
+# Author:    fog
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       _____
+      /     \\
+    /- (*) |*)\\
+    |/\\.  _>/\\|
+        \\__/    |\\
+       _| |_   \\-/
+      /|\\__|\\  //
+     |/|   |\\\\//
+     |||   | ~'
+     ||| __|
+     /_\\| ||
+     \\_/| ||
+       |7 |7
+       || ||
+       || ||
+       /\\ \\ \\    fog
+      ^^^^ ^^^
+EOC
