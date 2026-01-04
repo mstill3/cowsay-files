@@ -15,6 +15,10 @@ ASCII art collection tailored for use with the [`cowsay` command](https://linux.
                 ||     ||
 ```
 
+## Resources
+
+- [cowsay-files playground](https://stillwell.dev/cows)
+
 ## Setup
 
 1. Install `cowsay` command
