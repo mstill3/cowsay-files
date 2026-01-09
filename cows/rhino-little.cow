@@ -1,12 +1,13 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # Date:      4/1997
 # File Name: rhino-little.cow
-# Author:    jgs
+# Author:    Joan G Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
           $thoughts
               /))_
-             /   .\\/)
+             /   $eye\\/)
     _."```'-'  \\___/
    '/           |
     \\          /

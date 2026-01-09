@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/uvw/wallace+gromit.txt
 # File Name: shaun-the-sheep.cow
-# Author:    jgs
+# Author:    Joan G Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

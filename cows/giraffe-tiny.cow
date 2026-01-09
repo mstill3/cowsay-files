@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/animals/other-land
+# File Name: giraffe-tiny.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+     .-",
+     `~||
+       ||___
+       (':.)`
+       || ||
+       || ||  jgs
+       ^^ ^^
+EOC

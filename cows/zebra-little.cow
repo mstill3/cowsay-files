@@ -1,0 +1,18 @@
+# Reference: https://www.asciiart.eu/animals/other-land
+# File Name: zebra-little.cow
+# Author:    Morfina (mrf)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       \\\\/),
+      ,'$eye' /,
+     (_)- / /,
+        /\\_/ |__..--,  * 
+       (\\___/\\ \\ \\ / ).'
+        \\____/ / (_ //
+         \\\\_ ,'--'\\_(
+          )_)_/ )_/ )_)
+        (_(_.'(_.'(_.'  mrf
+EOC

@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/religion/angels
 # File Name: angel.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

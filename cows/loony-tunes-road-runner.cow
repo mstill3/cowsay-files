@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/birds
 # File Name: loony-tunes-road-runner.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
                        $thoughts

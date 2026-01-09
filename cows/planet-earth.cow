@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/globe
 # File Name: planet-earth.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
 

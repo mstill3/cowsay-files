@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/mno/octopus.txt
 # File Name: octopus.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
         $thoughts               ___

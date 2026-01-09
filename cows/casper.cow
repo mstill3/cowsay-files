@@ -1,14 +1,15 @@
 # Reference: https://www.asciiart.eu/cartoons/casper
 # File Name: casper.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
          .-----.
        .' -   - '.
       /  .-. .-.  \\
       |  | | | |  |
-       \\ \\o/ \\o/ /
+       \\ \\$eye/ \\$eye/ /
       _/    ^    \\_
      | \\  '---'  / |
      / /`--. .--`\\ \\

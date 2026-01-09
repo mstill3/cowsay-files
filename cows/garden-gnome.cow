@@ -1,14 +1,15 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/people.html
-# File Name: gnome.cow
-# Author:    jgs
+# File Name: garden-gnome.cow
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts       ,
     $thoughts     / \\
          /   \\
         /     \\
        /_______\\
-       // . . \\\\
+       // $eye $eye \\\\
       (/(__7__)\\)
       |'-' = `-'|
       |         |

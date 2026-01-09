@@ -2,11 +2,12 @@
 # File Name: goose.cow
 # Author:    Shanaka Dias (snd)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts
           _.-.
-     __.-( ,  \\
+     __.-( $eye  \\
     '--'-'._   \\
             '.  \\
              )   \\ __.--._

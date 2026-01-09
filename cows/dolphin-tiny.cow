@@ -1,6 +1,6 @@
 # Reference: http://www.chris.com/ascii/index.php?art=animals/other%20(water)
 # File Name: dolphin-tiny.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
      $thoughts

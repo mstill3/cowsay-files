@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/pqr/poodle.txt
 # File Name: dog-poodle.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);
 $the_cow = <<EOC;

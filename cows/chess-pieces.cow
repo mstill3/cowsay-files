@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/sports-and-outdoors/chess
 # File Name: chess-pieces.cow
-# Author:    David Moeser
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
                                                      _:_

@@ -1,7 +1,7 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # Date:      4/1997
 # File Name: giraffe.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);
 $the_cow = <<"EOC";

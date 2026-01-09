@@ -2,7 +2,7 @@
 # Note:      tweaked from BluePard's dog...
 # Date:      4/1998
 # File Name: seal-circus.cow
-# Author:    BP/jgs
+# Author:    BluePard (BP) / Joan G Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

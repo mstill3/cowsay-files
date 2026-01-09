@@ -12,5 +12,5 @@ $the_cow = <<EOC;
           \\    ,     .   /
           \\\\  |-----'|  /
           ||__|    |_|__|
-        B.D.S."Don"McConnell
+        B.D.S."Don" McConnell
 EOC

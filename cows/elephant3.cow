@@ -1,7 +1,8 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/new.html#new
 # File Name: elephant3.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts   _
@@ -10,7 +11,7 @@ $the_cow = <<EOC;
         ; |      ,-""""-.-""-.
          \\ \\    /      /      \\
           \\ '--'       )       \\-""""-.
-           \\     a    ;        |       '.
+           \\     $eye    ;        |       '.
             '.__      |       /          \\
               '-.    ;     _.'            \\
                  '-,/     /              |\\\\

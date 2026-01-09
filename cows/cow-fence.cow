@@ -1,6 +1,6 @@
 # Reference: https://github.com/bkendzior/cowfiles/blob/master/cowfiles/fence.cow
 # File Name: cow-fence.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 # Modifier:  mjs
 
 $the_cow = <<EOC;

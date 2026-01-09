@@ -1,6 +1,6 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/crtoon2.html
 # File Name: pokemon-kakuna.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
   $thoughts

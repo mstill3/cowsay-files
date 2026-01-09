@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/dinos
 # File Name: toy-story-rex.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts                            _.-.

@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/holiday-and-events/easter
 # File Name: bunny-easter.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);
 $the_cow = <<EOC;

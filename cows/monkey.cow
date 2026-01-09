@@ -1,13 +1,13 @@
 # Reference: https://sckott.github.io/cowsay/
 # File Name: monkey.cow
-# Author:    jgs
-# Modifier:  mjs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts       .---.
           _/.-.-.\\_     _
-         ( ( o o ) )    ))
+         ( ( $eye $eye ) )    ))
           |/  "  \\|    //
            \\`---'/    //
            /`~~~'\\\\  ((

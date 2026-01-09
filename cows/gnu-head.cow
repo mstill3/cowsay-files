@@ -1,7 +1,7 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/people.html
 # Date:      12/1996
 # File Name: gnu-head.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<"EOC";
     $thoughts

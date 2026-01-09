@@ -1,15 +1,16 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # Date:      9/2000
 # File Name: zebra.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
     $thoughts
      $thoughts       .""\\\\\\ _,
       $thoughts    ,_\\\\_\\\\\\//|,
             \\/; `:|( / \\,
             /.';_`) `\\////,
-           |:'/a/ ':..:\\/  /,
+           |:'/$eye/ ':..:\\/  /,
           /:' ` ':. '::'`\\///,
          /_.:'`': ':/:' .:\\/  \\
         /  ',:'; :_/:' .:' \\ //,

@@ -1,6 +1,6 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/bodypart.html
 # File Name: funny-bone.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts      _     .-.
@@ -8,7 +8,7 @@ $the_cow = <<EOC;
      $thoughts    `. `   /'
             |   |
             |   |
-           _|66 |
+           _|$eyes |
           (__,  |
             L_,)|
               | |
@@ -16,6 +16,6 @@ $the_cow = <<EOC;
             |   |
             |   |
            /     '.
-          (   ,    )    jgs
+          (   ,    )   jgs
            '-' '--'
 EOC

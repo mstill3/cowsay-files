@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.website/index.php?art=objects/flags
 # File Name: dragon-american-flag.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
        $thoughts                       o

@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/animals/bats
 # File Name: bat.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
             $thoughts

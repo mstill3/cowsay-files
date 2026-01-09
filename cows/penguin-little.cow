@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/animals/birds-water
+# File Name: penguin-little.cow
+# Author:    Donovan Baker
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+      __
+     <$eye )
+     /\\\\\\
+    _\\_V/  db
+EOC

@@ -1,13 +1,14 @@
 # Reference: https://ascii.co.uk/art/birds
 # File Name: stork.cow
-# Author:    jgs
+# Author:    Joan G Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
         $thoughts
          $thoughts
                  _.--.
              .-"`_.--.\\   .-.___________
-           ."_-"`     \\\\ (  0;------/\\"'`
+           ."_-"`     \\\\ (  ${eye};------/\\"'`
          ,."=___      =)) \\ \\      /  \\
           `~` .=`~'~)  ( _/ /     /    \\
   =`---====""~`\\          _/     /      \\

@@ -1,6 +1,6 @@
 # Reference: http://ascii.co.uk/art/jellyfish
 # File Name: jellyfish.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
   $thoughts

@@ -1,6 +1,6 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/new.html#new
 # File Name: bunny-carrot.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);
 $the_cow = <<EOC;

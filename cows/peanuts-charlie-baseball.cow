@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/peanuts
 # File Name: peanuts-charlie-baseball.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

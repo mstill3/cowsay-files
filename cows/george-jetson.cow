@@ -1,6 +1,6 @@
-# Reference: https://www.asciiart.eu/cartoons/mickey-mouse
-# File Name: disney-mickey.cow
-# Author:    jgs
+# Reference: https://www.asciiart.eu/cartoons/jetsons
+# File Name: george-jetson.cow
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts      .-.

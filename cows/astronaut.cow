@@ -1,6 +1,6 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/men.html#astronaut
 # File Name: astronaut.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts       _..._

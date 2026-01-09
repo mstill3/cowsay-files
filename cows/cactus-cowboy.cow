@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/plants/cactus
 # File Name: cactus-cowboy.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts            _   _

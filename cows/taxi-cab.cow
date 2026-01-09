@@ -1,6 +1,6 @@
 # Reference: http://ascii.co.uk/art/taxi
 # File Name: taxi-cab.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
      $thoughts

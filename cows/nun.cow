@@ -1,15 +1,16 @@
 # Reference: http://www.ascii-art.de/ascii/mno/nun.txt
 # Date:      01/2001
 # File Name: nun.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts
            _____
          /`.---.`\\
         / /.---.\\ \\
-       ; |/ e e \\| ;
+       ; |/ $eye $eye \\| ;
        ; \\|  ^  |/ |
        |   \\_=_/   |
        |.-"`   `"-.|

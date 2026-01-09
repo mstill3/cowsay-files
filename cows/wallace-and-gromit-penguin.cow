@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/uvw/wallace+gromit.txt
 # File Name: wallace-and-gromit-pengiun.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts         _   _

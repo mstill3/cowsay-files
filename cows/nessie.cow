@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/nessie
 # File Name: nessie.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
            $thoughts

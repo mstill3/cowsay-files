@@ -1,12 +1,13 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # Date:      1/1998
 # File Name: hippo-head.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts    (`-"""""-`)
-          / 6   6 \\
+          / $eye   $eye \\
          |.--._.--.|
          /         \\
          \\(o     o)/    jgs

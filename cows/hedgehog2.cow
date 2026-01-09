@@ -1,0 +1,12 @@
+# Reference: https://www.asciiart.eu/animals/other-land
+# File Name: hedgehog2.cow
+# Author:    unknown
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       ..::::::::.
+      :::::::::::::
+     /. `:::::::::::
+    o__,_::::::::::'
+EOC

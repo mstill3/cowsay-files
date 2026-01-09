@@ -1,15 +1,16 @@
 # Reference: https://www.asciiart.eu/sports-and-outdoors/chess
 # Note:      Knight (Chess piece)
 # File Name: chess-knight.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts
         ,....,
       ,::::::<
      ,::/^\\"``.
-    ,::/, `   e`.
+    ,::/, `   $eye`.
    ,::; |        '.
    ,::|  \\___,-.  c)
    ;::|     \\   '-'

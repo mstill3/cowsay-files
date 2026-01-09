@@ -1,15 +1,16 @@
 # Reference: http://www.ascii-art.de/ascii/pqr/pokemon.txt
 # File Name: pokemon-eevee2.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 # Modifier:  mjs
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts  ;-.               ,
         \\ '.           .'/
          \\  \\ .---. .-' /
           '. '     `\\_.'
-            |O , O  |     ,
+            |$eye , $eye  |     ,
             (  _,   /   .' \\
            .''.___.'--,/\\_,|
           {  /     \\   }   |

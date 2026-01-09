@@ -1,7 +1,7 @@
 # Reference: https://www.asciiart.website/index.php?art=events/wedding
 # File Name: bride-groom.cow
 # Note:      Joan and Dave
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
     $thoughts

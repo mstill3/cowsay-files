@@ -1,7 +1,7 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # Date:      5/1998
 # File Name: koala-head.cow
-# Author:    jgs 
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
       $thoughts

@@ -1,5 +1,5 @@
 # File Name: peanuts-psychiatric-help.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
  $thoughts      .------------------------.

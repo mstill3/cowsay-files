@@ -1,6 +1,6 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/men.html
 # File Name: genie-lamp.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
              .

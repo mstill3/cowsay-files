@@ -1,15 +1,16 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # File Name: llama.cow
 # Date:      10/1996
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts
         _    _
        ( \\__//) 
        .'     )
-    __/b d  .  )
+    __/$eye $eye  .  )
    (_Y_`,     .)
     `--'-,-'  )
          (.  )

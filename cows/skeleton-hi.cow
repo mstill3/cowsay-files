@@ -1,6 +1,6 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/mythos.html
 # File Name: skeleton-hi.cow
-# Author:    jgs
+# Author:    Joan G Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts      .-.

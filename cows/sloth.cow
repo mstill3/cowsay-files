@@ -1,7 +1,7 @@
 # Reference: https://oldcompcz.github.io/jgs/joan_stark/zoo.html
 # Date:      9/2000
 # File Name: sloth.cow
-# Author:    jgs
+# Author:    Joan G Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

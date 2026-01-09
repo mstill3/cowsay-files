@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/ab/bear.txt
 # File Name: bear-face.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);
 $the_cow = <<EOC;

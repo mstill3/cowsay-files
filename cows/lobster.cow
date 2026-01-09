@@ -1,7 +1,7 @@
 # Reference: http://ascii.co.uk/art/lobster
 # File Name: lobster.cow
 # Date:      10/96
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
              $thoughts

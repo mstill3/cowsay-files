@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/people/famous/albert-einstein
 # File Name: einstein.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/ab/ariel.txt
 # File Name: ariel.cow
-# Author:    hjw
+# Author:    Joan Stark (jgs)
 # Modifier:  mjs
 
 $the_cow = <<EOC;

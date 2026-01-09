@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/video-games/pokemon
 # File Name: pokemon-pikachu.cow
-# Author:    jgs
+# Author:    Joan Stark (jgs)
 
 $the_cow = <<EOC;
    $thoughts

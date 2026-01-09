@@ -1,0 +1,14 @@
+# Reference: https://www.asciiart.eu/animals/bisons
+# File Name: bison-little.cow
+# Author:    cp97
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       ((_,...,_))
+          |$eye $eye|
+          \\   /
+           ^_^   cp97
+            $tounge
+EOC

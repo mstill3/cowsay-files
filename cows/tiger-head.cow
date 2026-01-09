@@ -1,14 +1,15 @@
 # Reference: https://ascii.co.uk/art/winnie
 # File Name: tiger-head.cow
-# Author:    jgs 
+# Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
       $thoughts
        $thoughts
             .---._   _.-'"""'-._   _.---.
            :.---._`.:  .-   -.  ;.'_.---.;
            :   '  `.':         .`.'  `   ;
-            `....-':'::. 0 0 .' :;`-....'
+            `....-':'::. $eye $eye .' :;`-....'
                    :.:'_:---:_`::;
            .--._   `:_(       )_:'   _.--.
     .----.      ``-.'  \\     /  `.-''       .----.

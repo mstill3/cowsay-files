@@ -2,12 +2,13 @@
 # File Name: popeye-head.cow
 # Author:    Joan G Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts       .-'-.
          __|     `\\
         `-,-`--._  `\\
-   []  .->'  a   `|-'
+   []  .->'  $eye   `|-'
     `=/ (__/_     /
       \\_,    `  _)
         `----; |     jgs

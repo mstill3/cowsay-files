@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/mno/mummy.txt
 # File Name: mummy.cow
-# Author:    mrf
+# Author:    Morfina (mrf)
 
 $the_cow = <<EOC;
    $thoughts
