@@ -2,12 +2,13 @@
 # File Name: bird.cow
 # Author:    Donovan Bake (db)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts
 
      ^ ^
-    (O,O)
+    ($eye,$eye)
     (   )
 -----"-"-----    db
 EOC

@@ -2,11 +2,12 @@
 # File Name: dolphin-tiny.cow
 # Author:    Joan Stark (jgs)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
      $thoughts
       $thoughts
                ,
              __)\\_
-       (\_.-'    a`-.
+       (\_.-'    $eye`-.
  jgs   (/~~````(/~^^`
 EOC

@@ -2,11 +2,12 @@
 # File Name: calvin-hobbes.cow
 # Author:    snd
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts       __:.__
      $thoughts     (_:..'"=
-            ::/ o o\\
+            ::/ $eye $eye\\
            ;'-'   (_)
            '-._  ;-'
            .:;  ;

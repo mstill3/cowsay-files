@@ -2,14 +2,13 @@
 # File Name: casper.cow
 # Author:    Joan Stark (jgs)
 
-$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
          .-----.
        .' -   - '.
       /  .-. .-.  \\
       |  | | | |  |
-       \\ \\$eye/ \\$eye/ /
+       \\ \\O/ \\O/ /
       _/    ^    \\_
      | \\  '---'  / |
      / /`--. .--`\\ \\

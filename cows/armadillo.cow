@@ -2,6 +2,7 @@
 # File Name: armadillo.cow
 # Author:    Seal
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
       $thoughts
        $thoughts
@@ -9,7 +10,7 @@ $the_cow = <<EOC;
           ,:::://///,:::-. 
          /:''/////// ``:::`;/|/
         /'   ||||||     :://'`\\
-      .' ,   ||||||     `/(  e \\
+      .' ,   ||||||     `/(  $eye \\
 -===~__-'\\__X_`````\\_____/~`-._ `.
             ~~        ~~       `~-'      Seal
 EOC

@@ -3,10 +3,11 @@
 # Author:    Zeus
 # Modifier:  mjs
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
                  _(\\
-        _____   /_ o|
+        _____   /_ $eye|
    >==.'_____`_/__\\_|
      /__________\\/
      |___________|

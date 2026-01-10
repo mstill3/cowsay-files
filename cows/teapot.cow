@@ -2,6 +2,7 @@
 # File Name: teapot.cow
 # Author:    Stef
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts       _
@@ -9,7 +10,7 @@ $the_cow = <<EOC;
     ___,(_______).
   ,'__.           \\    /\\_
  /,' /             \\  /  /
-| | |         @    |,'  /
+| | |         $eye    |,'  /
  \\`.|                  /
   `. :           :    /
     `.            :.,'

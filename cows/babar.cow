@@ -2,13 +2,14 @@
 # File Name: babar.cow
 # Author:    Shanaka Dias (snd)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts      _  .   .   .
          .' '; '-' '-'|-.
         (     '------.'  )
          ;            \\ /
-          :     '   ' |/
+          :     $eye   $eye |/
           '._._       \\    .;
          .-'   ;--.    '--' /
         /      \\-'---.___.'

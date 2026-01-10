@@ -2,11 +2,12 @@
 # File Name: bullwinkle2.cow
 # Author:    Unknown
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
        ___    _    ____    _    ___
       /   \\__/ \\__/    \\__/ \\__/   \\
-      |          _|@ @ __          |
+      |          _|$eye $eye __          |
        \\________/ |    | \\________/
                __/    _/
               /) (o _/

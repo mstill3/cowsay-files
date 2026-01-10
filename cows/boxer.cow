@@ -2,10 +2,11 @@
 # File Name: boxer.cow
 # Author:    Joris Bellenger (b'ger)
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
         $thoughts
          $thoughts       /////'
-          $thoughts     '  # o 
+          $thoughts     '  $eye $eye 
                 C   - |
    ___          '  =__'        ___
   (` _ \\_       |   |        _/  ')

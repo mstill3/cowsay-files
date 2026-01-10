@@ -2,11 +2,12 @@
 # File Name: bird2.cow
 # Author:    hjw
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
        .-=-.
      _/     `.
-    /_( 9    |.__
+    /_( $eye    |.__
       \\          ``-._
        `>    _...     `'>
         |  .'    `-. _,'

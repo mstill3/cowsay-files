@@ -2,13 +2,14 @@
 # File Name: pig.cow
 # Author:    HJW
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
     $thoughts
      $thoughts
            9
      ,--.-'-,--.
      \\  /-~-\\  /
-    / )' a a `( \\
+    / )' $eye $eye `( \\
    ( (  ,---.  ) )
     \\ `(_o_o_)' /
      \\   `-'   /

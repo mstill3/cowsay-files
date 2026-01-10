@@ -2,11 +2,12 @@
 # File Name: elephant-baby.cow
 # Author:    Shanaka Dias
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
   $thoughts
        _.-- ,.--.
      .'   .'    /
-     | \@       |'..--------._
+     | $eye       |'..--------._
     /      \\._/              '.
    /  .-.-                     \\
   (  /    \\                     \\
