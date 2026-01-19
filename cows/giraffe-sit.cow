@@ -2,11 +2,12 @@
 # File Name: giraffe-sit.cow
 # Author:    Row
 
+$eye = chop($eyes);
 $the_cow = <<"EOC";
    $thoughts
     $thoughts     ___,A.A_  __
      $thoughts    \\   ,   7"_/
-           ~"T(  r r)
+           ~"T(  $eye $eye)
              | \\    Y
              |  ~\\ .|
              |)  |`-'
@@ -25,6 +26,6 @@ $the_cow = <<"EOC";
         / .    \\ ` | |\\
        Y   \\    i  | ! Y
        l   .\\_  I  |/  |
-        \\ /   [\\[][]/] j     row
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        \\ /   [\\[][]/] j  row
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 EOC
