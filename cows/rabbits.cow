@@ -1,0 +1,13 @@
+# Reference: https://asciiart.website/art/616
+# File Name: rabbits.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+
+    \\(,%%*%,_                           -%*%%,)/
+  %%/*(                /)   /)           )*\\%%
+ %% )\\|               (/   (/            |/( %%
+  _/ #)             __/') ('\\__          (# \\_
+ .) ,/            _/  /     \\  \\_         \\, (. b'ger
+ /)#(_,,,,,,,,,,,,\\,((,,,,,,,)),/,,,,,,,,,_)#(\\
+EOC

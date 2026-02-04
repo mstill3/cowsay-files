@@ -1,0 +1,18 @@
+# Reference: https://asciiart.website/art/3838
+# File Name: monk.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+       ,, ",
+      -   c
+       `-|\\.
+        / `\\
+      (/  |_\\
+      |__, |
+       |   |
+       |   |
+       /___|  b'ger
+       ===
+EOC

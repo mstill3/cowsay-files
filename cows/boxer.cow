@@ -6,7 +6,7 @@ $eye = chop($eyes);
 $the_cow = <<EOC;
         $thoughts
          $thoughts       /////'
-          $thoughts     '  $eye $eye 
+          $thoughts     '  # $eye 
                 C   - |
    ___          '  =__'        ___
   (` _ \\_       |   |        _/  ')

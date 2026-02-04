@@ -1,0 +1,23 @@
+# Reference: https://asciiart.website/art/5888
+# File Name: gnome.cow
+# Author:    Joan Stark (jgs)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts    ,-.
+          ) \\
+      .--'   |
+     /       /
+     |_______|
+    (  $eye   $eye  )
+     {'-(_)-'}
+   .-{   ^   }-.
+  /   '.___.'   \\
+ /  |    o    |  \\
+ |__|    o    |__|
+ (((\\_________/)))
+     \\___|___/
+   .--' | | '--.   jgs
+   \\__._| |_.__/
+EOC

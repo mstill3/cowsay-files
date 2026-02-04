@@ -1,0 +1,19 @@
+# Reference: https://asciiart.website/art/4598
+# File Name: dragon-little.cow
+# Author:    snd
+
+$the_cow = <<EOC;
+            $thoughts
+             $thoughts
+     .-._.    $thoughts
+      \\  '-._
+ ______/___  '.
+`'--.___  _\\  /
+   /___.-'  \\ \\ _:._
+   .'__ _.'\\ '-/,`-~`
+       \\  ___.> /=,
+       / _.-'/_ )
+  snd  /`   ( /(/
+             \\\\ "
+              '=='
+EOC

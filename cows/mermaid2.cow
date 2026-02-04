@@ -1,0 +1,13 @@
+# Reference: https://asciiart.website/art/5845
+# File Name: mermaid2.cow
+# Author:    ldb
+
+$the_cow = <<EOC;
+   $thoughts
+    .;8B3;,           /^\\   /^\\
+    ((b d))           \\\\\\\\.////
+    ))\\o/((            \\\\\\|///
+   .((/~\\))).           \\\\|//
+   //(mVm)(((``''--..._,/`'/
+   `m `'-..m____________,-'   ldb
+EOC

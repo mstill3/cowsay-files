@@ -1,5 +1,5 @@
 # Reference: https://github.com/sckott/cowsay/blob/main/R/animals.r
-# File Name: alligator.cow
+# File Name: turkey2.cow
 # Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);

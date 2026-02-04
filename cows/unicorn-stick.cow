@@ -1,0 +1,17 @@
+# Reference: https://asciiart.website/art/1582
+# File Name: unicorn-stick.cow
+# Author:    ejm98
+
+$the_cow = <<EOC;
+ $thoughts
+  $thoughts
+       \\
+       _\\,,
+      "-=\\~
+       _ \\\\~
+       _\\|/\\
+       \\  \\ \\
+           ( )~~~
+           | \\
+          /  /   ejm98
+EOC

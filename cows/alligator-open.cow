@@ -1,0 +1,22 @@
+# Reference: https://asciiart.website/art/1566
+# File Name: alligator-open.cow
+# Author:    David Berner
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+          ____
+         /....)
+         |v v \\
+         |^  ^ \\
+         <^   ^ >
+         |^    ^\\\\_-_
+         i^     ^ \\^/\\
+         +' (@)  _\\  7
+        / ..   _ -'  |
+       / ..  _~  _'  |
+      i    _~_.-\\    |
+      I--~~_~  .|    |
+       ~~'| ''' |  _ |
+         /|-___-| | || db
+EOC

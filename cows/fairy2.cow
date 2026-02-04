@@ -1,0 +1,22 @@
+# Reference: https://asciiart.website/art/1515
+# File Name: fairy2.cow
+# Author:    Hayley Jane Wakenshaw (Flump) (hjw)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         ,@@@@
+    __ _ ),\\\\(\\   _,::;
+    .)\\)\\\\_(((\\),:::::;
+     `\\`._,)))))::::::`,
+       `.__/(((:::::::'
+          \\  (`:::::::.
+           ) .. `:::::;
+          /   ))  `::'
+          |  //
+          | //
+          \\ \\\\   hjw
+           `.\\\\
+             \\((
+              ` `
+EOC

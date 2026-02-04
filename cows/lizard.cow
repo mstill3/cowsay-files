@@ -1,0 +1,12 @@
+# Reference: https://asciiart.website/art/4626
+# File Name: lizard.cow
+# Author:    Joris Bellenger (b'ger)
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts         '
+               ;;
+    .~.~~;;;;;;;
+    \\_/-\\|----\\\\    b'ger
+     '  ""    ""
+EOC
