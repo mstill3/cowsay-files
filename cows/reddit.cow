@@ -1,0 +1,19 @@
+# Reference: https://asciiart.website/art/6056
+# File Name: reddit.cow
+# Author:    ldb
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts     _O
+          /
+  ('.--_`````_---.')
+  :   (_)   (_)   :
+  :     .___.     ;
+   `-..._____...-'
+      /|     |\\
+     | :     : |
+      \\:     :/
+     _..\\   /.._
+    /____\\_/____\\  ldb
+EOC

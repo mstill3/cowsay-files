@@ -1,0 +1,23 @@
+# Reference: https://asciiart.website/art/5074
+# File Name: adam-and-eve.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+                __
+      ___      (__`\\
+    /`___)     ). \\|
+   | / .(      \\_ //
+   ) \\ _/    _  /  `\\
+  / /  \\   ,/-.`._/ /
+  | \\ \\))_(_)  \\   /(
+   \\ )'--'`     ;-` \\
+    /  \\        |/  /
+    \\  \\\\       / ,/
+     '. |)      (  \\
+     / /;       |\\  \\
+    | /\\|       |/\\ |
+    ( \\(_'.    / )/ )   jgs
+     `-`      '-'/_/
+EOC

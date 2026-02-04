@@ -1,0 +1,27 @@
+# Reference: https://asciiart.website/art/5891
+# File Name: moses.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+      ,"``",
+     / (-\\-|    ___
+     | `-=-(   /.-.\\
+    .(`-.__/-,//  ||
+   /  \\  |   //  </
+   |   \\ |  //\\
+   |   | |_// |
+   |   | (_ \\`|
+   |   /_/\\/_/
+    \\_/-._) |
+    | \\//|  |
+    | // |  |
+    |//| |  |
+    // | |  |
+   //  | |  |
+  |/|  | |  |
+    |  | |  |
+    |  | |  | jgs
+    '--'-'--'
+EOC
