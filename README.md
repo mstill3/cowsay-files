@@ -1,5 +1,7 @@
 # cowsay cow collection
 
+<img src="https://img.shields.io/badge/count-497-blue?style=for-the-badge"/>
+
 ASCII art collection tailored for use with the [`cowsay` command](https://linux.die.net/man/1/cowsay).  
 
 > `cowsay` defines a "cow" as any ASCII art creation that presents a message in a playful and engaging way
