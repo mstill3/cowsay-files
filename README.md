@@ -1,6 +1,6 @@
 # cowsay cow collection
 
-<img src="https://img.shields.io/badge/count-497-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/num_cows-500-blue?style=for-the-badge"/>
 
 ASCII art collection tailored for use with the [`cowsay` command](https://linux.die.net/man/1/cowsay).  
 

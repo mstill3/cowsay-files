@@ -1,5 +1,5 @@
-# Reference: https://ascii.co.uk/art/winnie
-# File Name: tiger-head.cow
+# Reference: https://ascii.mozz.us/mozz/posts/2025-01-22/tiger/
+# File Name: tiger.cow
 # Author:    Joan Stark (jgs)
 
 $eye = chop($eyes);

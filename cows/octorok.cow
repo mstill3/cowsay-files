@@ -1,0 +1,16 @@
+# Reference: https://ascii.mozz.us/mozz/posts/2023-06-13/octorok/
+# File Name: octorok.cow
+# Author:    mozz
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts         ____
+              ."    `".
+             /        `\\
+            |          |
+            \\ .-. .-.  /
+             ( a Y a )'
+             /'-'"'-' \\
+        |\\.-' _((*))_  "./|  mozz
+         `---'  `-'  '---'
+EOC
