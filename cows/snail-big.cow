@@ -1,0 +1,27 @@
+# Reference: https://asciiart.website/art/531
+# File Name: snail-big.cow
+# Author:    Donovan Baker (dwb)
+
+$the_cow = <<EOC;
+
+           .ed*"""""""""**be,
+        .d"                  "b.
+      .d                        b.
+    ."         ..eeeeee..         ".
+   P        ze*"        "*e.        9.
+  A       d"                "b       A
+ J       J    .e*""""""%c     A       L
+A       A    d"          \$     L      A
+#       %   d      q**y  'L    %      #
+#       %   \$     \$ ,, Y  .\$   %      #        _ _ 
+#       %   \$     o  """   F   %      #       (@)@)
+#       V    4.    \$.   .e"    Y      #        % %
+#        \$    o.    """"     .Y      V         \$ \$
+#        'b     "b.      ..e*       Y         .eeee.
+V         '\$      ""eeee""        eP         A     %
+ Y         eb                ..d*"         _#    O %
+ I    _e%*""""*eee......eee*"eeeeeeeezeee**"       \$
+  V ,"                                            B
+  J'                                        _,e=""
+.'#######################################DWB'`
+EOC

@@ -1,0 +1,19 @@
+# Reference: https://asciiart.website/art/73
+# File Name: rooster-little.cow
+# Author:    Joan G Stark (jgs)
+
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+
+   ,   #
+  (\\\\_(^>
+  (_(__)`
+     ||
+    _||___
+    -||---
+    _||___
+    -||---
+ jgs ||
+^^^^^^^^^^^
+EOC

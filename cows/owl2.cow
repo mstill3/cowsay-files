@@ -1,11 +1,12 @@
-# Reference: http://www.ascii-art.de/ascii/ab/alien.txt
-# File Name: alien.cow
+# Reference: https://www.asciiart.eu/animals/birds-land
+# File Name: owl2.cow
 # Author:    Unknown 
 
+$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
       ,___,
-      [O.o]
+      [$eye.$eye]
       /)  )
 -------"--"----
 EOC

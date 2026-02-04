@@ -1,0 +1,12 @@
+# Reference: https://asciiart.website/art/5140
+# File Name: whale-little.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+             $thoughts
+              $thoughts
+        ::.
+  (\\./)  .-""-.
+   `\\'-'`      \\
+     '.___,_^__/  jgs
+EOC

@@ -1,0 +1,22 @@
+# Reference: https://asciiart.website/art/666
+# File Name: mr-owl.cow
+# Author:    Donovan Baker (dwb)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+     $thoughts       .
+           ,' '.
+       __ -.   .- __
+       \\`\\-|___|-/'/
+       /  ,-.  ,-. \\
+      ,--(  .)(.  )--
+      {   `-'<\\`-'  )
+      {    _~</     )
+       V  (_)    ,  \\
+      /  /_|     \\  /
+     (_____3      ww
+        \\_________/
+        __| | | |__
+-------'ww--'-`--ww'---dwb---
+EOC

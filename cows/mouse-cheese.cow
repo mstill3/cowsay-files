@@ -1,0 +1,15 @@
+# Reference: https://asciiart.website/art/765
+# File Name: mouse-cheese.cow
+# Author:    Joan Stark (jgs)
+# Notes:     11/96
+
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts
+             (\\-.
+             / _`> .---------.
+     _)     / _)=  |'-------'|
+    (      / _/    |O   O   o|
+     `-.__(___)_   | o O . o |  jgs
+                   `---------'
+EOC

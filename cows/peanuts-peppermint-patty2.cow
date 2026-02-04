@@ -1,0 +1,26 @@
+# Reference: https://asciiart.website/art/1400
+# File Name: peanuts-peppermint-patty2.cow
+# Author:    660
+
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+
+  ,'_,.=="=,!,
+  ,!-,____;:'!,
+ ,|| -  _  - ||,
+ ||| * (_  * |||
+;|||.:     :.|||;
+'|||    _    |||'
+ !||'.,___,.'||!
+  ''   ] [   ''
+      /\\ /\\
+     /||Y||\\
+    /|||||||\\
+   /|||||||||\\
+   \\|||||||||/
+    |||||||||
+    [#######]
+    _/ | | \\_
+  c'_\\\\J L//_'b   006
+EOC

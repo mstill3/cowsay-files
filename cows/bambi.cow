@@ -1,0 +1,20 @@
+# Reference: https://asciiart.website/art/2177
+# File Name: bambi.cow
+# Author:    mrf
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+   .
+  / \\__
+  \\.'  '._o
+__(  __ / /       .'
+\\  _( o/ /.____.'//
+ '' '..-'        |
+        \\    _   (
+         )v /-'._ )
+        ////   |//
+       // \\\\   //
+      //   \\\\ ||\\\\  mrf
+-----"------"-"--"--------
+EOC
