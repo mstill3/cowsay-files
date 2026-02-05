@@ -3,7 +3,6 @@
 # Email:     flee@cse.psu.edu
 # Author:    Felix Lee
 
-$eye = chop($eyes);
 $the_cow = <<EOC;
    $thoughts
     $thoughts                  __,,,,_
