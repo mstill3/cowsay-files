@@ -1,0 +1,19 @@
+# Reference: https://ascii.mozz.us/mozz/posts/2021-09-18/salmon-minding-his-own-business/
+# File Name: salmon.cow
+# Date:      9-18-2021
+# Author:    mozz
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+         _____..----..___
+        `\\."        -    _7
+         /      __( (  '/-._
+        /     .`/ /`---4----
+       Y    ,"| `'
+       |  ,"`.|        mozz
+       | /
+       ||
+       | \\
+       |/-'
+EOC
