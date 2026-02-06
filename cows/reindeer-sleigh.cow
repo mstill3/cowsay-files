@@ -1,0 +1,15 @@
+# Reference: https://web.archive.org/web/20091028053442/http://www.geocities.com/SoHo/7373/00novdec.htm
+# File Name: reindeer-sleigh.cow
+# Date:      10/00
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+                                                          _v
+                                                     __* (__)
+             ff     ff     ff     ff                {\\/ (_(__).-.
+      ff    <_\\__, <_\\__, <_\\__, <_\\__,      __,~~.(`>|-(___)/ ,_)
+    o<_\\__,  (_ ff ~(_ ff ~(_ ff ~(_ ff~~~~~@ )\\/_;-"``     |
+      (___)~~//<_\\__, <_\\__, <_\\__, <_\\__,    | \\__________/|
+      // >>     (___)~~(___)~~(___)~~(___)~~~~\\\\_/_______\\_//
+                // >>  // >>  // >>  // >> jgs `'---------'`
+EOC

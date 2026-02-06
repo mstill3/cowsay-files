@@ -1,5 +1,5 @@
 # Reference: https://asciiart.cc/view/11116
-# File Name: santa.cow
+# File Name: santa-head.cow
 # Author:    B.D.S."Don"McConnell
 
 $eye = chop($eyes);

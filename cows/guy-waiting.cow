@@ -1,0 +1,19 @@
+# Reference: https://web.archive.org/web/20091028053443/http://www.geocities.com/SoHo/7373/00oct.htm
+# File Name: guy-waiting.cow
+# Date:      9/00
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts               ________
+    $thoughts             |.------.|
+     $thoughts            || MD ()||
+           ////   ||____/\\||
+           F..(   '--------'
+          _\\ _/
+   .-----/ '-'`\\-----.
+  | '.'.| |__|\\ \\.'.'|
+  |_'_'__\\\\   \\\\_\\'_'|
+  |\\______/ / |'-'___\\
+   |-----/_/|_|------|  jgs
+   |     \\_)\\_)      |
+EOC

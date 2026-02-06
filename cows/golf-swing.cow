@@ -1,0 +1,14 @@
+# Reference: https://web.archive.org/web/20091028053443/http://www.geocities.com/SoHo/7373/00oct.htm
+# File Name: golf-swing.cow
+# Date:      10/00
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts   '\\                   .  .
+         \\              .         ' .
+        O>>         .                 'o
+         \\       .
+         /\\    .
+        / /  .'
+^^^jgs^^^^^^^`^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOC

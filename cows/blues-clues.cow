@@ -1,0 +1,19 @@
+# Reference: https://web.archive.org/web/20091027082523/http://www.geocities.com/joan_stark/bluesclue.txt
+# File Name: blues-clues.cow
+# Date:      6/98
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts      .--.             .---.
+          /:.  '.         .' ..  '._.---.
+         /:::-.  \\.-"""-;` .-:::.     .::\\
+        /::'|   \\/  _ _  \\'   `\\:'   ::::|
+    __.'    |   /  (o|o)  \\     `'.   ':/
+   /    .:. /   |   ___   |        '---'
+  |    ::::'   /:  (._.) .:\\
+  \\    .='    |:'        :::|
+   `""`       \\     .-.   ':/
+         jgs   '---`|I|`---'
+                    '-'
+EOC

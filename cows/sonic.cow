@@ -1,0 +1,21 @@
+# Reference: https://web.archive.org/web/20091027082519/http://www.geocities.com/joan_stark/sonichedgehog.txt
+# File Name: sonic.cow
+# Date:      10/96
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+    $thoughts      .--._
+     $thoughts      `.  `-.
+            .-'    `.
+          .'      _..:._
+         `.  .--.'      `.
+         _.'  \\.      .--.\\
+       .'      |     |    |
+      `--.     |  .--|    D
+          `;  /'\\/   ,`---'@
+  jgs   .'  .'   '._ `-.__.'
+      .'  .'      _.`---'
+    .'--''   .   `-..__.--.
+ ~-=  =-~_-   `-..___(  ===;
+ ~-=  - -    .'       `---'
+EOC
