@@ -1,0 +1,18 @@
+# Reference: https://asciiart.website/art/4537
+# File Name: snufkin.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+   $thoughts
+         .-.
+      __/   (
+    , '-.____\\
+     u=='/  \\
+        /_/  \\
+      .-''   |
+     (  ____/_____
+     _>_/.--------
+     \\///   snd
+      //
+     //
+EOC

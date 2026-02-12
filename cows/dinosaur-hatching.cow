@@ -1,0 +1,20 @@
+# Reference: https://asciiart.website/art/643
+# File Name: dinosaur-hatching.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+   $thoughts
+      .----.
+     .'  \\__ '.
+    |   __|  _ :
+    V\\/(0I0\\/ |/
+       \\ : /  '
+       (oYo)
+       /` `\\__
+     _|  _ Vuu: ,
+    |uV\\/ \\| \\_/|
+    :      /\\   :
+snd  \\   -'    /
+      '-.___.-'  <>
+     =        <;
+EOC
