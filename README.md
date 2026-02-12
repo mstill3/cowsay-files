@@ -1,6 +1,6 @@
 # cowsay cow collection
 
-<img src="https://img.shields.io/badge/cow_count-519-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/cow_count-523-blue?style=for-the-badge"/>
 
 ASCII art collection tailored for use with the [`cowsay` command](https://linux.die.net/man/1/cowsay).  
 
@@ -86,6 +86,8 @@ Outputs
   - [Wiki](https://en.wikipedia.org/wiki/Joan_Stark)
 - Michael Lazar (mozz)
   - [Website](https://mozz.us)
+- Shanaka Dias (snd)
+- - [Website](http://asciiart.website/artist.php?artist_id=121&page=1)
 - Rowan Crawford (Row)
   - [Art Repository](https://the.sunnyspot.org/asciiart/gallery/art08.html)
 - Lorrie Carrington (lc)

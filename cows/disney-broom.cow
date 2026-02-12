@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/disney
 # File Name: disney-broom.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
    $thoughts

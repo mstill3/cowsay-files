@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/mythology/centaurs
 # File Name: centaur.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
    $thoughts

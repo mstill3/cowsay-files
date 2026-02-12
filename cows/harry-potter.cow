@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/harrypotter
 # File Name: harry-potter.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
                      $thoughts

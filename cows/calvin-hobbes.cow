@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/comics/calvin-and-hobbes
 # File Name: calvin-hobbes.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $eye = chop($eyes);
 $the_cow = <<EOC;

@@ -1,0 +1,18 @@
+# Reference: https://asciiart.website/art/4530
+# File Name: dr-who-dalek.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+    $thoughts
+         ___
+ D>=G==='   '.
+       |======|
+       |======|
+   )--/]IIIIII]
+      |_______|
+      C O O O D
+     C O  O  O D
+    C  O  O  O  D
+    C__O__O__O__D
+   [_____________]  snd
+EOC

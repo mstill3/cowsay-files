@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/comics/calvin-and-hobbes
 # File Name: calvin-hobbes.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
    $thoughts
@@ -42,7 +42,7 @@ $the_cow = <<EOC;
              o oo \$\$\$\$\$\$oo\$\$ """ "\$o\$\$\$"\$\$"""\$\$  \$\$\$\$\$\$o
           oo\$""" ""\$\$\$\$\$\$\$\$\$\$\$\$\$\$\$\$\$\$"  o\$" "\$    ""\$\$"
       o o\$\$" o     o\$\$""" """""" "  ""\$o\$\$ o\$"      o oo
-  "\$\$\$\$\$\$\$o o\$     \$\$  o  o            "\$\$\$\$\$\$o\$oooooo\$ """
+  "\$\$\$\$\$\$\$o o\$     \$\$  o  o            "\$\$\$\$\$\$o\$oooooo\$ """   snd
       " """\$\$\$ooooo\$\$o\$   \$"           o\$\$\$"\$"\$""""""
             "  "     ""\$\$\$\$oooooo  oooo\$
                           " " " """""

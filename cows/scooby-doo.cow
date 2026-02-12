@@ -1,0 +1,19 @@
+# Reference: https://asciiart.website/art/5757
+# File Name: scooby-doo.cow
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+  $thoughts   /\\/\\
+     /, \\ \\
+     \\\\|/_/_
+    .`  (o)o) _...._ __
+    |    ~ ~''      `\\_)
+    |                 |
+    |     `-.        /
+    |        `--.___/
+    |     `.      |
+   _/______|``---'
+  (_________)  _
+ /          \\`(_)
+/            \\     jgs
+EOC

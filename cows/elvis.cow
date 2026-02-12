@@ -1,0 +1,17 @@
+# Reference: https://asciiart.website/art/2508
+# File Name: elvis.cow
+# Author:    Shanaka Dias (snd)
+
+$the_cow = <<EOC;
+    $thoughts
+
+   G   __
+   \\\\  ,,)_
+    \\'-\\( /
+      \\ | ,\\
+       \\|_/\\\\
+       / _ '.D
+      / / \\ |
+     /_\\  /_\\   snd
+    '-    '-
+EOC

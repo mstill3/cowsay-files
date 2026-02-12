@@ -1,6 +1,6 @@
 # Reference: https://ascii.co.uk/art/unicorn
 # File Name: unicorn-small.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
    $thoughts           _.  

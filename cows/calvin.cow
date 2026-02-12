@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/comics/calvin-and-hobbes
 # File Name: calvin.cow
-# Author:    snd
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
     $thoughts         .

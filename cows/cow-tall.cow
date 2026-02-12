@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/animals/cows
 # File Name: cow-tall.cow
-# Author:    Shanaka Dias
+# Author:    Shanaka Dias (snd)
 
 $the_cow = <<EOC;
       $thoughts

@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/animals/elephants
 # File Name: elephant-baby.cow
-# Author:    Shanaka Dias
+# Author:    Shanaka Dias (snd)
 
 $eye = chop($eyes);
 $the_cow = <<EOC;
