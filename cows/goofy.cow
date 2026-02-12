@@ -1,0 +1,21 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/disney.html
+# File Name: goofy.cow
+# Date:      11/96
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+    $thoughts             .
+     $thoughts          \\ | /
+      $thoughts         _\\|/_
+              .' ' ' '.        ___
+            _.|.--.--.|.___.--'___`-.
+          .'.'||  |  ||`----'"`   ``'`
+        .'.'  ||()|()|| 
+.___..-'.'    /       \\
+`----'"`     /   .-.   \\
+            (.'.(___).'.)
+             `.__.-.__.'
+              |_|   |_|   jgs
+               `.`-'.'
+                 `"`
+EOC

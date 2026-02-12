@@ -1,6 +1,6 @@
 # cowsay cow collection
 
-<img src="https://img.shields.io/badge/cow_count-526-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/cow_count-537-blue?style=for-the-badge"/>
 
 ASCII art collection tailored for use with the [`cowsay` command](https://linux.die.net/man/1/cowsay).  
 
@@ -101,7 +101,9 @@ Outputs
 - Joris Bellenger (b'ger)
   - <https://asciiart.website/artist.php?artist_id=31&page=1>
 - Alessio Roberti Vittory (ARV)
+- BluePard (BP)
 - Veronica Karlsson (VK)
+- H P Barmario - Morfina (mf)
 
 ## Notable ASCII Art Galleries
 

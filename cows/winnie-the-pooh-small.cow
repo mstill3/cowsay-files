@@ -1,5 +1,5 @@
 # Reference: https://www.asciiart.eu/books/winnie-the-pooh
-# File Name: pooh.cow
+# File Name: winnie-the-pooh-small.cow
 # Author:    Unknown
 
 $the_cow = <<EOC;

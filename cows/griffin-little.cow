@@ -1,0 +1,15 @@
+# Reference: https://www.asciiart.eu/art/de9ec110885fbddf
+# File Name: griffin-little.cow
+# Author:    BluePard (BP)
+
+$the_cow = <<EOC;
+   $thoughts
+   ____       ____
+  /    )     (    \\
+ /    (  ^_^  )    \\
+|  {   \\('v')/   }  |
+|   {   /   \\   }   |
+|_)(   /\\   /\\   )(_|
+|)  (_ | \\|/  |_)  (|
+'     "--^^^^--"    ' BP
+EOC

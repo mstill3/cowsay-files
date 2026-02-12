@@ -1,5 +1,5 @@
-# Reference: http://www.ascii-art.de/ascii/ab/alien.txt
-# File Name: winnie-pooh-rock.cow
+# Reference: https://www.asciiart.eu/books/winnie-the-pooh
+# File Name: winnie-the-pooh-rock.cow
 # Author:    Anderson Mills
 
 $the_cow = <<EOC;

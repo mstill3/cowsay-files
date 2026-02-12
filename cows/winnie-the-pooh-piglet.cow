@@ -1,0 +1,24 @@
+# Reference: https://oldcompcz.github.io/jgs/joan_stark/pooh.html
+# File Name: winnie-the-pooh-piglet.cow
+# Date:      8/97
+# Author:    Joan Stark (jgs)
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts       |\\  _,   
+             \\_|/ |
+            .'  `\\/
+          _o o`   |
+         ()`      ;
+      __  `--'    /
+      \\_`\\  `.___/
+        \\ \\ /=====\\
+         \\ |=====/`\\
+          `|=====| |
+           |=====| |
+           |=====\\_\\
+           \\======/
+           /`--/^`\\
+           \\  |\\  |  jgs
+          (___(___)
+EOC
