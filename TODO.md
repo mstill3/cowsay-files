@@ -14,3 +14,5 @@ Add ASCII Art from the following sources:
   - <https://ascii.mozz.us/mozz/posts/2021-09-10/dalmatian-dog-on-a-leash/>
   - <https://asciiart.website/cat.php?category_id=555>
 - <https://www.asciiart.eu/toys/beanie-babies>
+
+- fix rendering of $tongue
