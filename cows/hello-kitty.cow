@@ -10,5 +10,4 @@ $the_cow = <<EOC;
      |      \\
      | $eye . $eye|
       \\_____/
-         $tongue
 EOC

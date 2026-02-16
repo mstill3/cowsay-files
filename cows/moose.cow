@@ -2,7 +2,6 @@
 # Author:    Unknown
 
 $the_cow = <<EOC;
-  $thoughts
    $thoughts   \\_\\_    _/_/
     $thoughts      \\__/
            ($eyes)\\_______

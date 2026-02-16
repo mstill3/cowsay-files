@@ -3,13 +3,12 @@
 # File Name: turtle.cow
 # Author:    Judy Anderson <yduj_harlequin_com>
 
-$eye = chop($eyes);
 $the_cow = <<EOC;
     $thoughts                                  ___-------___
      $thoughts                             _-~~             ~~-_
       $thoughts                         _-~                    /~-_
              /^\\__/^\\         /~  \\                   /    \\
-           /|  $eye|| $eye|        /      \\_______________/        \\
+           /|  O|| O|        /      \\_______________/        \\
           | |___||__|      /       /                \\          \\
           |          \\    /      /                    \\          \\
           |   (_______) /______/                        \\_________ \\

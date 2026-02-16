@@ -2,6 +2,7 @@
 # File Name: gnu.cow
 # Author:    alf
 
+$eye = chop($eyes);
 $the_cow = <<"EOC";
     $thoughts               ,-----._
   .  $thoughts         .  ,'        `-.__,------._
@@ -9,7 +10,7 @@ $the_cow = <<"EOC";
 ((    _____-'___))                           |
  `:='/     (  __/                            |
  `.=|      |='                               |
-    |)   O |                                  \\
+    |$eye   $eye |                                  \\
     |      |                               /\\  \\
     |     /                          .    /  \\  \\
     |    .-..__            ___   .--' \\  |\\   \\  |
