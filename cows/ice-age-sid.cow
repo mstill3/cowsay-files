@@ -1,0 +1,23 @@
+# Reference: https://ascii-art.net/content.php?id=iceage
+# File Name: ice-age-sid.cow
+# Date:      2/23/2002
+# Author:    Sebastian Stöcker (SSt)
+
+$the_cow = <<EOC;
+    $thoughts
+
+      ,<`-;'--::.`-'>.
+     (o )(:::::)  .(o )
+      `:..`---'-, ::;/
+        \\.`.__,' ::;'
+         \\'     .:/
+          `.    ::
+           :`.  :|
+           |    :|
+           |    :|
+           :.   '|
+          /::.   :
+         /::::    \\
+        ::::::.    `.
+        |::::::.  SSt\\
+EOC

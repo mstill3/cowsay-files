@@ -1,7 +1,7 @@
 # Reference: https://ascii-art.net/content.php?id=aok
 # Date:      27-Jul-02
 # File Name: dwarf.cow
-# Author:    SSt
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
           $thoughts

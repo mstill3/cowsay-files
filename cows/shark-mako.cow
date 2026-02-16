@@ -1,0 +1,23 @@
+# Reference: https://ascii-art.net/content.php?id=animals
+# File Name: shark-mako.cow
+# Date:      10/07/2002
+# Author:    Sebastian Stöcker (SSt)
+
+$the_cow = <<EOC;
+      ,|
+     / ;
+    /  \\
+   : ,'(
+   |( `.\\
+   : \\  `\\       \\.
+    \\ `.         | `.
+     \\  `-._     ;   \\
+      \\     ``-.'.. _ `._
+       `. `-.            ```-...__
+        .'`.        --..          ``-..____
+      ,'.-'`,_-._            ((((   <o.   ,'
+           `' `-.)``-._-...__````  ____.-'
+        SSt    ,'    _,'.--,---------'
+           _.-' _..-'   ),'
+          ``--''
+EOC

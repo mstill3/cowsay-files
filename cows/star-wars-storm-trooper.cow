@@ -1,6 +1,6 @@
 # Reference: http://www.ascii-art.de/ascii/s/starwars.txt
 # File Name: star-wars-storm-trooper.cow
-# Author:    SSt 
+# Author:    Sebastian Stöcker (SSt) 
 
 $the_cow = <<EOC;
     $thoughts           _____

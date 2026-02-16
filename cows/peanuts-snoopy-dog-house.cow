@@ -1,6 +1,7 @@
-# Reference: http://www.ascii-art.de/ascii/ab/beagle.txt
+# Reference: https://ascii-art.net/content.php?id=peanuts
 # File Name: peanuts-snoopy-dog-house.cow
-# Author:    Unknown
+# Date:      2/19/2002
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
  $thoughts
@@ -22,7 +23,7 @@ $the_cow = <<EOC;
  `---.--------------------.---'
      |____________________|
      |                    |
-     |____________________|
+     |____________________|  SSt
      |                    |
    _\\|_\\|_\\/(__\\__)\\__\\//_|(_
 EOC

@@ -1,6 +1,7 @@
 # Reference: https://www.asciiart.eu/comics/peanuts
 # File Name: peanuts-woodstock-mail.cow
-# Author:    SSt
+# Date:      9/13/2003
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
    $thoughts

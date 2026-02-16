@@ -2,7 +2,7 @@
 # Note:      Prince Myshkin
 # Date:      07-Apr-02
 # File Name: cat-noir.cow
-# Author:    SSt
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
    $thoughts

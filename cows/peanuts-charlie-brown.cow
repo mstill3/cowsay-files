@@ -1,6 +1,6 @@
 # Reference: https://www.asciiart.eu/comics/peanuts
 # File Name: peanuts-charlie-brown.cow
-# Author:    SSt
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
    $thoughts

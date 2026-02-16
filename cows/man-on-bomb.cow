@@ -1,0 +1,13 @@
+# Reference: https://ascii-art.net/content.php?id=strangelove
+# File Name: man-on-bomb.cow
+# Date:      10/25/2001
+# Author:    Sebastian Stöcker (SSt)
+
+$the_cow = <<EOC;
+    $thoughts
+
+         \\O
+     ____,/)____
+   ,'  |  <   | `<
+   `.__|______|_,<  SSt
+EOC

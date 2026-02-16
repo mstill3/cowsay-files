@@ -104,6 +104,7 @@ Outputs
 - BluePard (BP)
 - Veronica Karlsson (VK)
 - H P Barmario - Morfina (mf)
+- Sebastian Stöcker (SSt)
 
 ## Notable ASCII Art Galleries
 
@@ -127,6 +128,8 @@ Outputs
 - <https://artcode.org/ascii/directory.php?cat=Artists&first=0&time=>
 
 ## Contributing
+
+- <https://www.ascii-art.de/ascii/faq.html>
 
 Feel free to open an Merge-Request to add additional ASCII art cows that you like.  
 Ensure you are keeping the signature inside the ASCII art image, and that the file comments properly give attribution.  

@@ -1,6 +1,6 @@
 # Reference: https://ascii-art.net/content.php?id=computer
 # File Name: robot2.cow
-# Author:    SSt
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
    $thoughts            ,--.    ,--.

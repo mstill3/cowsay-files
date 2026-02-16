@@ -1,0 +1,24 @@
+# Reference: https://ascii-art.net/content.php?id=simpfut
+# File Name: futurama-bender.cow
+# Author:    Sebastian Stöcker (SSt)
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+            $thoughts
+    ,.       $thoughts                      ,.
+   ( (.-.           .-.          .-.)`)
+    \\_ /         ,'     `.        \\ _/
+    :  :        |_________|       :  :
+    |-'|       ,'-.-.--.-.`.      |`-|
+    |_.|      (( (*  )(*  )))     |._|
+    |  |       `.-`-'--`-'.'      |  |
+    |-'|        | ,-.-.-. |       |._|
+    |  |        |(|-|-|-|)|       |  |
+    :,':        |_`-'-'-'_|       ;`.;
+     \\  \\     ,'           `.    /._/
+      \\/ `._ /_______________\\_,'  /
+       \\  / :   ___________   : \\,'
+        `.| |  |           |  |,'
+          `.|  |           |  |
+            |  |           |  |  SSt
+EOC

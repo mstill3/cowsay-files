@@ -1,0 +1,16 @@
+# Reference: https://ascii-art.net/content.php?id=stickmen
+# File Name: javelin-throwing.cow
+# Date:      11/21/2001
+# Author:    Sebastian Stöcker (SSt)
+
+$the_cow = <<EOC;
+                                   _   ----   _
+                                ,-'            `-.
+
+                           ,                          .
+                         ,'                            `.
+              ,'        '                                `
+    /_o__   ,'\\o      o/
+   /  \\       /\\      /\\                                    \\
+   ___/\\_____/|______/\\______________________________________\\_____ SSt
+EOC

@@ -1,0 +1,19 @@
+# Reference: https://ascii-art.net/content.php?id=animals
+# File Name: cat-strut.cow
+# Author:    Sebastian Stöcker (SSt)
+
+$the_cow = <<EOC;
+              $thoughts     |\\ /\\
+    __         $thoughts    |,\\(_\\_
+   ( (              |\\,`   `-^.
+    \\ \\             :    `-'   )
+     \\ \\             \\        ;
+      \\ \\             `-.   ,'
+       \\ \\ ____________,'  (
+        ; '                ;
+        \\                 /___,-.
+         `,    ,_____|  ;'_____,'
+       ,-" \\  :      | :
+      ( .-" \\ `.__   | |
+       \\__)  `.__,'  |__)  SSt
+EOC

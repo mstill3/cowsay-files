@@ -1,6 +1,7 @@
-# Reference: https://www.asciiart.eu/comics/peanuts
+# Reference: https://ascii-art.net/content.php?id=peanuts
 # File Name: peanuts-flying-ace.cow
-# Author:    SSt
+# Date:      9/9/2003
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
      $thoughts

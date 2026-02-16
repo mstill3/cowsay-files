@@ -1,0 +1,18 @@
+# Reference: https://ascii-art.net/content.php?id=peanuts
+# File Name: peanuts-snoopy-little.cow
+# Date:      8/25/2002
+# Author:    Sebastian Stöcker (SSt)
+
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+            ,-.
+          .:\\ '`-.
+          |:|  __ b
+           `;-(
+          ,'  |
+         ( \\|||_
+  ,-----(.-''--``-------.
+ /_______`'______________\\
+/                      SSt\\
+EOC

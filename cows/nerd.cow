@@ -1,7 +1,7 @@
 # Reference: https://ascii-art.net/content.php?id=computer
 # Date:      18-Jun-03
 # File Name: nerd.cow
-# Author:    SSt
+# Author:    Sebastian Stöcker (SSt)
 
 $the_cow = <<EOC;
     $thoughts              ||
