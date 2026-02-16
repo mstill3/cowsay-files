@@ -1,0 +1,13 @@
+# Reference: https://www.asciiart.eu/art/e95bab364870b166
+# File Name: moomintroll-little.cow
+# Author:    Veronica Karlsson (vk)
+
+$the_cow = <<EOC;
+   $thoughts
+       //
+      ($eyes\\
+      / ._)
+     J _=\\=
+     |   /
+3._.' |_|_   vk
+EOC

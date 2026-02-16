@@ -1,0 +1,27 @@
+# Reference: https://www.asciiart.eu/art/e60805cb47634187
+# File Name: mommintroll.cow
+# Author:    TJ/mh/TVK
+
+$the_cow = <<EOC;
+      $thoughts
+       $thoughts         /|  /|
+                J(|_J(|
+               /    _  `_
+              J    ' _ ' \\
+              F     (.) (.)--._
+             /                 `.
+            J                   |
+            F       ._         .'
+           J          `-.____.'
+           F           \\
+          J             \\.
+          |   .  `.      \\\\
+ ,,,      |    `.  `.     L`
+\\VVV'     |      `.  `    |`
+ \\W|      J        ```    |
+  `.    .' \\              F
+    `--'    )    ___..-   (  .-
+           /   .'     `.   `' /
+           `.  \\        `.   /
+             `._|         `-'    TJ/mh/TVK
+EOC
