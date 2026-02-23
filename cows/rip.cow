@@ -1,0 +1,14 @@
+# Reference: https://ascii.mozz.us:7070/textfiles/cowz.txt
+# File Name: rip.cow
+# Author:    Michael Lazar (mozz)
+
+$the_cow = <<EOC;
+
+              ..---..
+             /       \\
+             |  RIP  |
+             |       |
+             |       |
+             |       |
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/////////////////
+EOC

@@ -1,0 +1,16 @@
+# Reference: https://ascii.mozz.us:7070/textfiles/cowz.txt
+# File Name: sheep2.cow
+# Author:    Michael Lazar (mozz)
+
+$eye = chop($eyes);
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts
+             /\\___
+   @@@@@@@@@@  $eye  \\
+ @@@@@@@@@@@@@@\___/
+@@@@@@@@@@@@@@@
+  @@@@@@@@@@@
+   ||     ||
+   ~~     ~~
+EOC

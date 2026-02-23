@@ -1,0 +1,10 @@
+# File Name: cow-long.cow
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+   $thoughts   ^__^
+       ($eyes)\\________________
+       (__)\\                )\\/\\
+        $tongue ||-------------w |
+           ||              ||
+EOC

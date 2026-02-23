@@ -1,0 +1,15 @@
+# Reference: https://ascii.mozz.us:7070/textfiles/cowz.txt
+# File Name: usa-flag-little.cow
+# Author:    Michael Lazar (mozz)
+# Modifier:  mjs
+
+$the_cow = <<EOC;
+
+  o
+  | ****~~~~~
+  | ****~~~~~
+  | ~~~~~~~~~
+  | ~~~~~~~~~
+  |
+  |
+EOC
